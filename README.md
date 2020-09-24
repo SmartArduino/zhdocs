@@ -1,13 +1,16 @@
-# Preface
+# 前言
 
-  Hi, everyone, welcome to Shenzhen DOIT [Doctors of Intelligence & Technology](http://doit.am/) company. Till now, we have the main products on:
-* WiFi module,
-* Development board,
-* WiFi prober,
-* IoT Solutions,
-* Robot Tank Car Chassis
-* and robotics...
-  In fact, we are mainly focus on the `wifi module`, e.g., module production, module firmware development. Based on these, now, we have already maken many types of `smart products`, e.g., `development board`, `smart bulb`, `smart plug`, `robotics` and its controller.
+  欢迎来到深圳四博智联科技有限公司官方wiki。公司产品主要涵盖以下几个方面：
+- [WiFi 模组](https://github.com/SmartArduino/DOITWiKi/wiki/扉页);
+- [开发板](https://github.com/SmartArduino/DOITWiKi/wiki/扉页);
+- [WiFi探针](https://github.com/SmartArduino/DOITWiKi/wiki/探针扉页);
+- [物联网解决方案](https://github.com/SmartArduino/DOITWiKi/wiki/扉页);
+- [智能小车](https://github.com/SmartArduino/DOITWiKi/wiki/扉页);
+- [机器人](https://github.com/SmartArduino/DOITWiKi/wiki/扉页);
+
+详情，请参考**公司产品有关文档请参考右边相关类目使用**。
+
+\##一些视频 [点击观看](http://i.youku.com/i/UMjg3NjY2MDgxMg==/videos?spm=a2hzp.8244740.0.0)
 
 # General Source
 ## Drivers
