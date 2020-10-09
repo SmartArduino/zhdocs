@@ -1,6 +1,6 @@
 - [<span class="iconfont icon-icon_yuyin1"></span> EN/中文](/)
   - [EN](/)
-  - [中文](/zhdocs/)
+  - [中文](/zh/)
 
 - [<span class="iconfont icon-icon_fabu"></span> 首页](/README.md)
   - [联盛德系列](README?id=winnermicro)
