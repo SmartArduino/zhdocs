@@ -15,11 +15,11 @@
 
 [深圳四博智联科技有限公司](http://doit.am/)成立于2014年。 四海博大，智慧物联。公司专注于开源硬件、物联网领域。基于生活需求和场景的智能硬件信息互动平台，秉承“科技改变生活”的理念，通过智能硬件提升人们的生活品质，让用户更有效地关爱自身健康和家庭生活，让科技真正融入到老百姓的生活中。
 
-![company](company.jpg)
+![company](https://github.com/SmartArduino/document/raw/master/zhdocs/About/company.jpg)
 
 # 我们能做的
 
-![route](route.jpg)
+![route](https://github.com/SmartArduino/document/raw/master/zhdocs/About/route.jpg)
 
 # 联系我们
 
@@ -47,9 +47,10 @@
 - 深圳南山区西丽镇平山一路民企科技园2栋西座401；
 - 公交站：桃源康复中心，红花岭；
 - 地铁： 5号线大学城站C出口往前走300米左右。
-- ![subway](subway.jpg)
+- ![subway](https://github.com/SmartArduino/document/raw/master/zhdocs/About/subway.jpg)
 
 # 我们的网址
 
-- [淘宝商城](https://szdoit.taobao.com/)
+- [模组旗舰店](https://szdoit.taobao.com/)
+- [淘宝综合商城](https://szdoit.taobao.com/)
 - [官方网址](http://doit.am/)
