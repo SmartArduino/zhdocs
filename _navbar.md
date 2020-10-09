@@ -2,7 +2,7 @@
   - [EN](/)
   - [中文](/zh/)
 
-- [<span class="iconfont icon-icon_fabu"></span> 首页](/README.md)
+- [<span class="iconfont icon-icon_fabu"></span> 首页](zh/README.md)
   - [联盛德系列](README?id=winnermicro)
   - [乐鑫系列](README?id=esp-series)
   - [瑞昱系列](README?id=realtek)
