@@ -15,7 +15,7 @@
 - <span class="iconfont icon-xiangkan"></span> 产品
   - [<span class="iconfont icon-music"></span> 店铺](https://szdoit.taobao.com/)
   - [<span class="iconfont icon-book3"></span> 视频](https://i.youku.com/i/UMjg3NjY2MDgxMg==?spm=a2hbt.13141534.1_1.d_2_2)
-- [<span class="iconfont icon-wodeguanzhu"></span> 关于](/About/README.md)
+- [<span class="iconfont icon-wodeguanzhu"></span> 关于](zhdocs/About/README.md)
 - [<span class="iconfont icon-github1"></span> GitHub](https://github.com/SmartArduino)
 
 
