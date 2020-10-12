@@ -4,7 +4,7 @@
 
 MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只能带你走入 maker 世界， 更能培养程序设计能力， 从学生到社会人士都适合玩。本文件为 DIY 步骤，共 16 个步骤。
 
-![wps1](wps1.jpg) 
+![wps1](https://github.com/SmartArduino/document/raw/master/docs/RobotArm/4DOFAcrylicMechanicalArm/wps1.jpg) 
 
 注意：180度舵机不同于普通电机，有固定的角度。所有舵机在出货前都已经是中位90度状态，在安装上机械臂之前，请勿随意转动舵机角度，否则会导致安装失败！（若不慎在安装前转动了舵机，请按角度需要将舵机复位。）
 
