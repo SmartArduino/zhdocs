@@ -8,7 +8,8 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 ![wps1](https://github.com/SmartArduino/document/raw/master/docs/RobotArm/4DOFAcrylicMechanicalArm/wps1.jpg)
 
-![IMG_256](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/ESP32/ESP32/clip_image004-1588150999532.gif)
+
+[![IMG_256](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/ESP32/ESP32/clip_image004-1588150999532.gif)
 
 注意：180度舵机不同于普通电机，有固定的角度。所有舵机在出货前都已经是中位90度状态，在安装上机械臂之前，请勿随意转动舵机角度，否则会导致安装失败！（若不慎在安装前转动了舵机，请按角度需要将舵机复位。）
 
