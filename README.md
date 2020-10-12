@@ -115,8 +115,8 @@
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC100/TC100.md)
   * [TP101坦克底盘小车](zh/zhSmartCAR/TP_Series/TP101/TP101.md)
   * [TS400坦克底盘小车](zh/zhSmartCAR/TS_Series/TS400/TS400.md)
+  * [TS100坦克底盘小车](zh/zhSmartCAR/TS_Series/TS100/TS100.md)
   * [T300坦克底盘小车](zh/zhSmartCAR/T_Series/T300/T300.md)
-  * [TS100坦克底盘小车](zh/Robot/FrameChassis/TStank/TStank.md)
   * [Y100坦克底盘](zh/Robot/FrameChassis/Y100/Y100.md)
   * [MC300小车安装说明 ](zh/zhSmartCAR/MC300/MC300.md)
 * [**【二】机器人配件**]
