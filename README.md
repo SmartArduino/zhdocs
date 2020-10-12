@@ -112,14 +112,14 @@
 
 * [**【二】完整车架底盘**]
   * [4WD底盘](zh/Robot/FrameChassis/4wdcarchassis/4wdcarchassis.md)
-  * [TC100坦克底盘小车](zh/zhSmartCAR/TC100/TC100.md)
+  * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
   * [TP101坦克底盘小车](zh/zhSmartCAR/TP_Series/TP101/TP101.md)
   * [TS100坦克底盘小车](zh/zhSmartCAR/TS_Series/TS100/TS100.md)
   * [TS300坦克底盘小车](zh/zhSmartCAR/TS_Series/TS300/TS300.md)
   * [TS400坦克底盘小车](zh/zhSmartCAR/TS_Series/TS400/TS400.md)
   * [T300坦克底盘小车](zh/zhSmartCAR/T_Series/T300/T300.md)
   * [Y100坦克底盘](zh/Robot/FrameChassis/Y100/Y100.md)
-  * [MC300小车安装说明 ](zh/zhSmartCAR/MC300/MC300.md)
+  * [MC300小车安装说明 ](zh/zhSmartCAR/MC_Series/MC300/MC300.md)
 * [**【二】机器人配件**]
   * [2自由度舵机支架云台](zh/Robot/FrameChassis/2dofbracket/2dofservobracket.md)
   * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
