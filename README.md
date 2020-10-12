@@ -131,7 +131,7 @@
   * [机械臂](zh/Robot/FrameChassis/robotarm/robotarm.md)
   * [4DOF亚克力机械臂](zh/zhRobotArm/4DOFAcrylicMechanicalArm/4DOFAcrylicMechanicalArm.md)
 * [**【二】爪子**]
-  * [G6爪子](zh/Robot/FrameChassis/g6/g6.md)
+  * [G6爪子](zh/zhRobotArm/G6/G6.md)
 
 * [**【二】人形机器人**]
   * [17自由度人形机器人](zh/Robot/FrameChassis/17dof/17dofhumanod.md)
