@@ -134,6 +134,7 @@
 
 * [**【二】人形机器人**]
   * [17自由度人形机器人](zh/Robot/FrameChassis/17dof/17dofhumanod.md)
+  * [13自由度人形机器人](zh/zhRobotArm/13DOFRobot/13DOFRobot.md)
 
 ## 控制器
 
