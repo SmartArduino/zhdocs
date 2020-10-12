@@ -127,6 +127,7 @@
   * [车载机械臂](zh/Robot/FrameChassis/cararm/cararm.md)
   * [6自由度机械臂](zh/Robot/FrameChassis/gxrobotarm/gxrobotarm.md)
   * [机械臂](zh/Robot/FrameChassis/robotarm/robotarm.md)
+  * [4DOF亚克力机械臂](zh/zhRobotArm/4DOFAcrylicMechanicalArm/4DOFAcrylicMechanicalArm.md)
 * [**【二】爪子**]
   * [G6爪子](zh/Robot/FrameChassis/g6/g6.md)
 
