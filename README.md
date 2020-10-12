@@ -118,6 +118,7 @@
   * [T 系列坦克底盘， T300](zh/Robot/FrameChassis/Tseriestank/Tseriest300.md)
   * [TS减震坦克底盘 TS100](zh/Robot/FrameChassis/TStank/TStank.md)
   * [Y100坦克底盘](zh/Robot/FrameChassis/Y100/Y100.md)
+  * [MC300小车安装说明 ](zh/zhSmartCAR/MC300/MC300.md)
 * [**【二】机器人配件**]
   * [2自由度舵机支架云台](zh/Robot/FrameChassis/2dofbracket/2dofservobracket.md)
   * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
