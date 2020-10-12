@@ -114,7 +114,7 @@
   * [4WD底盘](zh/Robot/FrameChassis/4wdcarchassis/4wdcarchassis.md)
   * [TC100坦克底盘小车安装说明](zh/zhSmartCAR/TC100/TC100.md)
   * [TP101坦克底盘](zh/zhSmartCAR/TP101/TP101.md)
-  * [TS400坦克底盘](zh/Robot/FrameChassis/TS400/ts100.md)
+  * [TS400坦克底盘](zh/zhSmartCAR/TS400/TS400.md)
   * [T 系列坦克底盘， T300](zh/Robot/FrameChassis/Tseriestank/Tseriest300.md)
   * [TS减震坦克底盘 TS100](zh/Robot/FrameChassis/TStank/TStank.md)
   * [Y100坦克底盘](zh/Robot/FrameChassis/Y100/Y100.md)
