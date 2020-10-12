@@ -8,6 +8,7 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 ![wps1](https://github.com/SmartArduino/document/raw/master/docs/RobotArm/4DOFAcrylicMechanicalArm/wps1.jpg)
 
+![ESP-32](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/ESP32/ESP32/clip_image002-1588150999532.jpg)
 
 [![IMG_256](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/ESP32/ESP32/clip_image004-1588150999532.gif)
 
