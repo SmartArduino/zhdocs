@@ -14,7 +14,7 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 | ---- | ------------------------------------------------------------ |
 |      | ![wps2](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/4DOFAcrylicMechanicalArm/wps2.jpg) |
 
-# 清单列表：
+## 清单列表：
 
 | 名称 | PM330mm螺丝 | PM310mm螺丝 | PM38mm螺丝 | PM36mm 螺丝 | M3螺母 | M39单通铜柱 | MG90S |
 | ---- | ----------- | ----------- | ---------- | ----------- | ------ | ----------- | ----- |
