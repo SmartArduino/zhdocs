@@ -4,15 +4,15 @@
 
 MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只能带你走入 maker 世界， 更能培养程序设计能力， 从学生到社会人士都适合玩。本文件为 DIY 步骤，共 16 个步骤。
 
-![img](wps1.jpg) 
+![wps1](wps1.jpg) 
 
 注意：180度舵机不同于普通电机，有固定的角度。所有舵机在出货前都已经是中位90度状态，在安装上机械臂之前，请勿随意转动舵机角度，否则会导致安装失败！（若不慎在安装前转动了舵机，请按角度需要将舵机复位。）
 
 # Step 1: 查看清单
 
-|      |                  |
-| ---- | ---------------- |
-|      | ![img](wps2.jpg) |
+|      |                   |
+| ---- | ----------------- |
+|      | ![wps2](wps2.jpg) |
 
 # 清单列表：
 
@@ -36,13 +36,13 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 2) 弹头铜柱x4
 
-![img](wps3.jpg) 
+![wps3](wps3.jpg) 
 
-![img](wps4.jpg) 
+![wps4](wps4.jpg) 
 
-![img](wps5.jpg) 
+![wps5](wps5.jpg) 
 
-![img](wps6.jpg) 
+![wps6](wps6.jpg) 
 
 # Step 3: 安装第一个舵机
 
@@ -50,13 +50,13 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 1) 8mm x 2
 
-![img](wps7.jpg) 
+![wps7](wps7.jpg) 
 
-![img](wps8.jpg) 
+![wps8](wps8.jpg) 
 
-![img](wps9.jpg) 
+![wps9](wps9.jpg) 
 
-![img](wps10.jpg) 
+![wps10](wps10.jpg) 
 
 # Step 4: 安装左臂
 
@@ -66,17 +66,17 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 2) 8mm x 2
 
-![img](wps11.jpg) 
+![wps11](wps11.jpg) 
 
-![img](wps12.jpg) 
+![wps12](wps12.jpg) 
 
-![img](wps13.jpg) 
+![wps13](wps13.jpg) 
 
-![img](wps14.jpg) 
+![wps14](wps14.jpg) 
 
-![img](wps15.jpg) 
+![wps15](wps15.jpg) 
 
-![img](wps16.jpg) 
+![wps16](wps16.jpg) 
 
 # Step 5: 安装右臂
 
@@ -88,11 +88,11 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 3) 6mm x 1
 
-![img](wps17.jpg) 
+![wps17](wps17.jpg) 
 
-![img](wps18.jpg) 
+![wps18](wps18.jpg) 
 
-![img](wps19.jpg) 
+![wps19](wps19.jpg) 
 
 # Step 6:安装左臂和底盘
 
@@ -102,23 +102,23 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 2) 6mm x 1
 
-![img](wps20.jpg) 
+![wps20](wps20.jpg) 
 
-![img](wps21.jpg) 
+![wps21](wps21.jpg) 
 
-![img](wps22.jpg) 
+![wps22](wps22.jpg) 
 
-![img](wps23.jpg) 
+![wps23](wps23.jpg) 
 
 # Step 7: 安装右臂和底盘
 
-![img](wps24.jpg) 
+![wps24](wps24.jpg) 
 
-![img](wps25.jpg) 
+![wps25](wps25.jpg) 
 
 # Step 8: 安装中间移动杆
 
-![img](wps26.jpg) 
+![wps26](wps26.jpg) 
 
  
 
@@ -128,7 +128,7 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 舵机自带的固定螺丝
 
-![img](wps27.jpg) 
+![wps27](wps27.jpg) 
 
 # Step 10: Branch 1
 
@@ -136,9 +136,9 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 6mm x 2
 
-![img](wps28.jpg) 
+![wps28](wps28.jpg) 
 
-![img](wps29.jpg) 
+![wps29](wps29.jpg) 
 
 # Step 11: Branch 2
 
@@ -148,7 +148,9 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 2) 6mm x 2
 
-![img](wps30.jpg)![img](wps31.jpg)![img](wps32.jpg)	
+![wps30](wps30.jpg)![wps31](wps31.jpg)
+
+![wps32](wps32.jpg)	
 
 # Step 12: 爪子舵机
 
@@ -156,13 +158,13 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 8mm x 4
 
-![img](wps33.jpg) 
+![wps33](wps33.jpg) 
 
-![img](wps34.jpg) 
+![wps34](wps34.jpg) 
 
-![img](wps35.jpg) 
+![wps35](wps35.jpg) 
 
-![img](wps36.jpg) 
+![wps36](wps36.jpg) 
 
 # Step 13: Gripper 1
 
@@ -172,11 +174,9 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 2) 6mm x 3
 
- 
+![wps37](wps37.jpg) 
 
-![img](wps37.jpg) 
-
-![img](wps38.jpg) 
+![wps38](wps38.jpg) 
 
 # Step 14: Gripper 2
 
@@ -184,9 +184,9 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
   10mm x1
 
-![img](wps39.jpg) 
+![wps39](wps39.jpg) 
 
-![img](wps40.jpg) 
+![wps40](wps40.jpg) 
 
 # Step 15: 安装爪子
 
@@ -202,7 +202,7 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
 # Step 16: 添加控制板
 
-![img](wps43.jpg) 
+![wps43](wps43.jpg) 
 
  ![wps44](wps44.jpg)
 
