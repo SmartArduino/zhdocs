@@ -206,8 +206,11 @@ MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只�
 
  ![wps44](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/4DOFAcrylicMechanicalArm/wps44.jpg)
 
+# Contact Us
 
-
-
+- E-mails: [yichone@doit.am](mailto:yichone@doit.am), [yichoneyi@163.com](mailto:yichoneyi@163.com)
+- Skype: yichone
+- WhatsApp:+86-18676662425
+- Wechat: 18676662425
 
  
