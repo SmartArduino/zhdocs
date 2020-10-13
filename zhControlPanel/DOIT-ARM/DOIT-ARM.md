@@ -2,9 +2,9 @@
 
 <center> from SZDOIT </center>
 
-![img](wps1.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps1.jpg)
 
-资料链接：[https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg](https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg ) 
+资料链接：[https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg ) 
 
 提取码：doit
 
@@ -54,19 +54,19 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 
  
 
-![img](wps2.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps2.jpg) 
 
 <center>注：手动测量，存在偏差，以实物为准</center>
 
 # 六、接线图
 
-![img](wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps3.jpg) 
 
-![img](wps4.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps4.jpg) 
 
 # 七、Pin脚
 
-![img](wps5.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps5.jpg) 
 
 # 八、特别注意
 
@@ -77,24 +77,24 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 
 # 九、支持与服务
 
-| 四博智联资源                                           |                                                              |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
-| 官网                                                   | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                   | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                   | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                   | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                           | [智能建筑云](http://building.doit.am)(building.doit.am)      |
-| [光伏监控云](http://solar.doit.am)(solar.doit.am)      |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am)    |                                                              |
-| [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am) |                                                              |
-| 官方技术支持QQ群1/2/3群已满                            |                                                              |
-| 技术支持群4                                            | 278888904                                                    |
-| 技术支持群5                                            | 278888905                                                    |
-| 技术支持群6                                            | 278888906                                                    |
-| 技术支持群7                                            | 278888907                                                    |
-| 技术支持群8                                            | 278888908                                                    |
-| 技术支持群9                                            | 278888909                                                    |
-| 技术支持群10                                           | 278888900                                                    |
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://building.doit.am)(building.doit.am) |
+| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://solar.doit.am)(solar.doit.am) |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://wechat.doit.am)(wechat.doit.am) |                                                              |
+| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://tcp.doit.am)(tcp.doit.am) |                                                              |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 技术支持群6                                                  | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
 # 免责申明和版权公告
 
