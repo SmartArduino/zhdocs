@@ -70,11 +70,11 @@
 ## ESP8285
 
 * **【二】ESP8285模组**
-* [DMP-L1](zh/ESPSeries/ESP8285/dmpl1/dmpl1.md)
+* [DMP-L1](zh/zhESPSeries/ESP8285/DOIT_DMP-L1/DOIT_DMP-L1.md)
 * [ESP-M1](zh/ESPSeries/ESP8285/espm1/espm1.md)
-* [ESP-M2](zh/ESPSeries/ESP8285/espm2/espm2.md)
-* [ESP-M3](zh/ESPSeries/ESP8285/espm3/espm3.md)
-* [ESP-M4](zh/ESPSeries/ESP8285/espm4/espm4.md)
+* [ESP-M2](zh/zhESPSeries/ESP8285/DOIT_ESP-M2/DOIT_ESP-M2.md)
+* [ESP-M3](zh/zhESPSeries/ESP8285/DOIT_ESP-M3/DOIT_ESP-M3.md)
+* [ESP-M4](zh/zhESPSeries/ESP8285/DOIT_ESP-M4/DOIT_ESP-M4.md)
 * **【二】ESP8285开发板**
 * [DT-06开发板类似蓝牙HC-06](zh/ESPSeries/ESP8285/DT06/DT06.md)
 
@@ -85,7 +85,7 @@
 
 ## 双频WiFi模组
 
-* [DT-W5G1](zh/ESPSeries/W5G1/W15G.md)
+* [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/DOIT_DT-W5G1.md)
 
 # 瑞昱系列
 
