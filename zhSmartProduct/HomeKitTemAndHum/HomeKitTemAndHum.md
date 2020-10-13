@@ -58,7 +58,11 @@
 
 请点击“没有代码或无法扫描”点击刷新出来的设备，仍然添加，等待加密校验（大约50S），添加设备成功。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps10.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps11.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps12.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps14.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps15.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps16.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps17.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps10.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps11.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps12.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps13.jpg)
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps14.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps15.jpg)
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps16.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps17.jpg) 
 
 如果没有刷新到设备，请确认手机和设备是否在同一个局域网络。请确认指示灯是否在常亮状态，如果添加失败，请查看常见问题。
 
