@@ -1,4 +1,4 @@
- <center> <font size=10> DOIT-ARM 4步进电机3D打印机机械臂控制板 </font></center>
+ <center> <font size=10> DOIT-ARM 4步进电机3D打印机械臂控制板 </font></center>
 
 <center> from SZDOIT </center>
 
