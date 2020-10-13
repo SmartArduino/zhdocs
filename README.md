@@ -112,7 +112,7 @@
 ## 底盘类安装使用手册
 
 * [**【二】完整车架底盘**]
-  * [4WD底盘](zh/Robot/FrameChassis/4wdcarchassis/4wdcarchassis.md)
+  * [C4 4WD底盘 小车](zh/zhSmartCAR/C_Series/C4/C4.md)
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
   * [TP101坦克底盘小车](zh/zhSmartCAR/TP_Series/TP101/TP101.md)
   * [TS100坦克底盘小车](zh/zhSmartCAR/TS_Series/TS100/TS100.md)
