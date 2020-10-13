@@ -1,8 +1,10 @@
-# 
+ <center> <font size=10> DMP-P1模块数据手册 </font></center>
 
-## 特点
+<center> from SZDOIT </center> 
 
-###  模组特性
+# 特点
+
+##  模组特性
 
 内置ESP WiFi芯片
 
@@ -16,7 +18,7 @@
 
 支持Android和iOS设备控制
 
-###  Wi-Fi特性
+##  Wi-Fi特性
 
 支持802.11 b/g/n/e/i
 
@@ -26,7 +28,7 @@
 
 支持批量生产测试
 
-## 模块信息
+# 模块信息
 
 继电器控制引脚：4
 
@@ -36,9 +38,9 @@
 
 模块颜色：黑色
 
-![wps2](wps2.png)
+![DMP-P11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P11.png)
 
-## 应用场景
+# 应用场景
 
 智能插座
 
@@ -48,17 +50,17 @@
 
 其他智能开关设备
 
-## 模块型号
+# 模块型号
 
 | 名称   | 天线类型    |
 | ------ | ----------- |
 | DMP-P1 | 板载PCB天线 |
 
-## 典型应用
+# 典型应用
 
-![wps3](wps3.png)
+![DMP-P12](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P12.png)
 
-## 文档更新说明
+# 文档更新说明
 
 | 日期      | 版本 | 更新内容 |
 | --------- | ---- | -------- |
@@ -78,7 +80,7 @@ DMP-P1模块内置DoHome云服务，可以使用DoHome系列APP控制开关。
 
 DMP-P1模块内置厂测程序，可以使得工厂快速生产测试。
 
-![wps4](wps4.png)
+![DMP-P13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P13.png)
 
 <center>图1.1模块结构图</center>
 
@@ -86,13 +88,13 @@ DMP-P1模块内置厂测程序，可以使得工厂快速生产测试。
 
 <center>表1.1模块主要参数</center>
 
-![表格1](表格1.png)
+![DMP-P11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P14.png)
 
 # 二. 接口定义
 
 ## DMP-P1接口定义如下图所示。
 
- ![wps5](wps5.png)
+ ![DMP-P15](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P15.png)
 
 <center>图2.1DMP-P1管脚定义</center>
 
@@ -118,21 +120,23 @@ DMP-P1模块内置厂测程序，可以使得工厂快速生产测试。
 
 ## 模块的外观及尺寸如下所示。
 
-![wps6](wps6.jpg)
+![DMP-P16](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P16.jpg)
 
 <center>图2.2 DMP-P1模块外观</center>
 
-![wps7](wps7.png)
+![DMP-P17](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P17.png)
 
 <center>图2.3DMP-P1尺寸图</center>
 
 # 三.应用说明
 
-基于DMP-P1的硬件最小系统图为：![wps8](wps8.png)
+基于DMP-P1的硬件最小系统图为：
+
+![DMP-P18](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P18.png)
 
 DMP-P1支持的软件包括DoHome 系列APP，IOS市场和各大Android市场均可搜索获得。
 
-![wps9](wps9.png)
+![DMP-P19](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P19.png)
 
 <center>图3.1 DoHome APPs 二维码</center>
 
@@ -142,7 +146,7 @@ DMP-P1目前已经支持的智能音箱包括Amazon Alexa、Google Assistant、�
 
 <center>表4.1电气特性</center>
 
-![表格3](表格3.png)
+![DMP-P20](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P20.png)
 
 # 五. 功耗
 
@@ -167,7 +171,28 @@ DMP-P1目前已经支持的智能音箱包括Amazon Alexa、Google Assistant、�
 
 <center>表6.1Wi-Fi射频特征</center>
 
-![表格2](表格2.png)
+![DMP-P21](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P21.png)
+
+# 支持与服务
+
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/http://building.doit.am)(building.doit.am) |
+| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/http://solar.doit.am)(solar.doit.am) |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/http://wechat.doit.am)(wechat.doit.am) |                                                              |
+| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/http://tcp.doit.am)(tcp.doit.am) |                                                              |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 技术支持群6                                                  | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
 # 免责申明和版权公告
 
