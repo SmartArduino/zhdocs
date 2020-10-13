@@ -100,7 +100,7 @@
 ## 智能产品
 
 * [Homekit 2路继电器模块](zh/zhSmartProduct/HomeKit2Relay/HomeKit2Relay.md)
-* [智能灯泡](zh/OJ/README.md)
+* [DoHome智能灯泡](zh/zhSmartProduct/DoHomeIntelligentLamp/DoHomeIntelligentLamp.md)
 * [智能LED灯带](zh/OJ/README.md)
 * [DoHome国标智能插座](zh/zhSmartProduct/DoHomeGBSmartSocket/DoHomeGBSmartSocket.md)
 * [DoHome圣诞灯](zh/zhSmartProduct/DoHomeChristmasTree/DoHomeChristmasTree.md)
