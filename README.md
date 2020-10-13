@@ -103,6 +103,7 @@
 * [智能灯泡](zh/OJ/README.md)
 * [智能LED灯带](zh/OJ/README.md)
 * [智能插座](zh/OJ/README.md)
+* [DoHome圣诞灯](zh/zhSmartProduct/DoHomeChristmasTree/DoHomeChristmasTree.md)
 ## WiFi探针
 
 * [SSID广告机](zh/Prober/ssid/ssid.md)
