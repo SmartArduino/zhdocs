@@ -6,7 +6,7 @@
 
 该产品软硬件都是由本公司自主研发的，支持语音、硬件、软件等多种控制模式，有56种固定灯效和麦克风悦动灯效，外观绚丽多彩，而且使用NodeMcu做为产品的控制模块，非常适合电子爱好者入门学习，简单适用。
 
-![img](wps2.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps2.jpg)
 
 # 二、烧写程序
 
@@ -14,19 +14,19 @@
 
 ①　双击打开flash_download_tool_v3.8.5.exe
 
-![img](wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps3.jpg) 
 
 ②　选择Developer Mode
 
-![img](wps4.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps4.jpg) 
 
 ③　在弹出窗口中选择对应的模块，NodeMCU选择ESP8266 DownloadTool
 
-![img](wps5.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps5.jpg) 
 
 ④　设置设置好参数以及端口号，点击STAR接口下载
 
-![img](wps6.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps6.jpg) 
 
  
 
@@ -44,7 +44,7 @@
 
 软件控制是通过DoHome APP来控制的，它是有本司研发的，支持Apple、Android系统，可以通过手机扫描二维码，或在App Store、应用市场搜索“DoHome”下载安装。并注册登录“DoHome ”APP。
 
-![img](wps7.jpg)![img](wps8.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps7.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps8.jpg) 
 
  
 
@@ -74,7 +74,7 @@
 
 (2)进入属性界面，点击开启HomeKit模式。
 
-![img](wps9.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps9.png) 
 
 2.绑定到Apple
 
@@ -84,11 +84,11 @@
 
 (3)等待加密校验 (50s)，添加成功。
 
-  ![img](wps10.png)   ![img](wps11.png)  ![img](wps12.jpg)
+  ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps10.png)   ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps11.png)  ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps12.jpg)
 
 注意：如果无法识别代码，点击“没有代码或无法扫描”，选择设备，点击仍然添加，输入设置代码：12345678，等待加密校验（50s），添加设备成功。如果苹果手机没有显示设备，请确认手机和设备是否在同一个WiFi网络下。如果添加失败，请查看后面常见问题，如有疑问请联系技术支持。
 
-![img](wps13.png)![img](wps14.png)![img](wps15.png)![img](wps16.png)    ![img](wps17.png)   ![img](wps18.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps13.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps14.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps15.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps16.png)    ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps17.png)   ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps18.png)
 
  
 
@@ -96,7 +96,7 @@
 
 请点击左上角菜单栏.请在菜单栏中选择对应音箱图标，并查看用户手册。
 
-![img](wps19.jpg)![img](wps20.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps19.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/wps20.jpg) 
 
 注意：使用音箱之前，请在Alexa 、谷歌助手、天猫精灵、小爱同学等智能音箱设备平台登录你的平台账号。
 
@@ -114,24 +114,24 @@ https://github.com/SmartArduino/DoHome/tree/master/DoHome_HomeKit_Moon_Light
 
  
 
-| 四博智联资源                                           |                                                              |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
-| 官网                                                   | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                   | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                   | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                   | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                           | [智能建筑云](http://building.doit.am)(building.doit.am)      |
-| [光伏监控云](http://solar.doit.am)(solar.doit.am)      |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am)    |                                                              |
-| [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am) |                                                              |
-| 官方技术支持QQ群1/2/3群已满                            |                                                              |
-| 技术支持群4                                            | 278888904                                                    |
-| 技术支持群5                                            | 278888905                                                    |
-| 技术支持群6                                            | 278888906                                                    |
-| 技术支持群7                                            | 278888907                                                    |
-| 技术支持群8                                            | 278888908                                                    |
-| 技术支持群9                                            | 278888909                                                    |
-| 技术支持群10                                           | 278888900                                                    |
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/http://building.doit.am)(building.doit.am) |
+| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/http://solar.doit.am)(solar.doit.am) |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/http://wechat.doit.am)(wechat.doit.am) |                                                              |
+| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeChristmasTree/http://tcp.doit.am)(tcp.doit.am) |                                                              |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 技术支持群6                                                  | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
  
 
