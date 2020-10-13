@@ -180,7 +180,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/6DOFYunTaiRobotArm/wps67.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/6DOFYunTaiRobotArm/wps68.png) 
 
-## 四．爪子的安装。
+# 四．爪子的安装。
 
 装爪子到臂上之前，爪子先不要安装舵机，而是先将爪子与舵盘安装好再固定到机械臂的舵机上，最后再安装爪子上剩余部分。
 
