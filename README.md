@@ -50,9 +50,9 @@
 * **【一】ESP8266芯片**
   
 * **【二】ESP8266模组**
-  * [ESP-F](zh/ESPSeries/ESP8266/ESPF/espf.md)
-  * [ESP-F1](zh/ESPSeries/ESP8266/ESPF1/espf1.md)
-  * [ESP-F2](zh/ESPSeries/ESP8266/ESPF2/espf2.md)
+  * [ESP-F](zh/zhESPSeries/ESP8266/DOIT_ESP-F/DOIT_ESP-F.md)
+  * [ESP-F1](zh/zhESPSeries/ESP8266/DOIT_ESP-F1/DOIT_ESP-F1.md)
+  * [ESP-F2](zh/zhESPSeries/ESP8266/DOIT_ESP-F2/DOIT_ESP-F2.md)
   * [ESP-12E](zh/ESPSeries/ESP8266/ESP12E/12e.md)
   * [ESP-12F](zh/ESPSeries/ESP8266/ESP12F/esp12f.md)
   * [ESP-01](zh/ESPSeries/ESP8266/ESP01/esp01.md)
