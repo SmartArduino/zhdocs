@@ -99,7 +99,7 @@
 
 ## 智能产品
 
-* [Homekit 2路继电器模块](zh/SmartProduct/homekit2relay/homekitrelay.md)
+* [Homekit 2路继电器模块](zh/zhSmartProduct/HomeKit2Relay/HomeKit2Relay.md)
 * [智能灯泡](zh/OJ/README.md)
 * [智能LED灯带](zh/OJ/README.md)
 * [智能插座](zh/OJ/README.md)
