@@ -2,7 +2,7 @@
 
 <center> from SZDOIT </center>
 
-![img](wps1.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps1.jpg) 
 
 # 功能键与指示灯说明
 
@@ -45,13 +45,13 @@
 
 扫描二维码下载DoHome APP，并注册登录
 
-![img](wps2.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps2.jpg) 
 
 ## 2.接入电源
 
 将产品接入电源，长按开关键5秒钟，蓝色led开始快速闪烁
 
-![img](wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps3.jpg) 
 
 ## 3.添加设备
 
@@ -59,7 +59,7 @@
 
 （备注：暂时不支持5G频段的WiFi网络）
 
-![img](wps4.png)![img](wps5.png)![img](wps6.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps4.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps5.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps6.jpg) 
 
 此时确认设备蓝色指示灯正在快速闪烁
 
@@ -69,34 +69,34 @@
 
 在配置界面输入手机当前连接的WiFi密码。按照页面说明，返回手机的WLAN设置，连接“DoHome_XXXX”的热点，其密码为“12345678”。若有多台设备，请注意区分不同的设备！
 
-![img](wps7.png)![img](wps8.jpg)![img](wps9.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps7.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps8.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps9.jpg) 
 
 ## 5.配网完成
 
 配网完成，蓝色灯由闪烁状态变为常亮，点击完成成功添加设备。
 
-![img](wps10.png)![img](wps11.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps10.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps11.jpg) 
 
 # 支持与服务 
 
-| 四博智联资源                                           |                                                              |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
-| 官网                                                   | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                   | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                   | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                   | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                           | [智能建筑云](http://building.doit.am)(building.doit.am)      |
-| [光伏监控云](http://solar.doit.am)(solar.doit.am)      |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am)    |                                                              |
-| [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am) |                                                              |
-| 官方技术支持QQ群1/2/3群已满                            |                                                              |
-| 技术支持群4                                            | 278888904                                                    |
-| 技术支持群5                                            | 278888905                                                    |
-| 技术支持群6                                            | 278888906                                                    |
-| 技术支持群7                                            | 278888907                                                    |
-| 技术支持群8                                            | 278888908                                                    |
-| 技术支持群9                                            | 278888909                                                    |
-| 技术支持群10                                           | 278888900                                                    |
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/http://building.doit.am)(building.doit.am) |
+| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/http://solar.doit.am)(solar.doit.am) |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/http://wechat.doit.am)(wechat.doit.am) |                                                              |
+| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/http://tcp.doit.am)(tcp.doit.am) |                                                              |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 技术支持群6                                                  | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
 #  免责申明和版权公告
 
