@@ -8,7 +8,7 @@
 
 ​	注意：该设备必须12V供电，否则无法正常工作！
 
-![img](wps21.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps21.jpg) 
 
 | 参数             | 说明                       |
 | ---------------- | -------------------------- |
@@ -22,7 +22,7 @@
 
 # 二、 接口简介
 
-![img](wps22.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps22.jpg) 
 
 | 接口 | 说明                                      |
 | ---- | ----------------------------------------- |
@@ -47,31 +47,31 @@ For HomeKit Model（仅苹果手机）:
 
 注意：如果手机没有自动跳转到配网页面，请打开手机浏览器输入：http://192.168.4.1。等待进入配网页面。
 
-![img](wps23.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps23.jpg) 
 
 第二步：请在跳转页面中选择你的家庭WiFi名称，且在password中输入密码，点击join图标（如图2），并且查看智能插座指示灯在常亮状态。（图中WiFi账号仅供参考）。
 
 注意：如果没有找到您的路由器或者智能插座在其他状态。请查看常见问题，并且重新给智能插座配网。
 
-![img](wps24.jpg)![img](wps25.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps24.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps25.jpg) 
 
 第三步：检查你的苹果手机否安装“家庭 APP”，如果没有安装“家庭 APP”，请在App Store下载“家庭 APP”（如图3）。如果已经安装，请进行第四步。
 
  
 
-![img](wps26.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps26.jpg) 
 
 第四步：确保苹果手机连接到你的家庭WiFi网络（如图4）
 
 注意：苹果手机和智能插座必须是在同一个家庭WiFi网络下。
 
-![img](wps27.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps27.jpg) 
 
 第五步：打开苹果手机Home APP， 点击添加配件，点击“没有代码或无法扫描”，点击设备，点击仍然添加，输入设置代码：12345678，等待加密校验（30s-50s），添加设备成功。为了以后方便操作请重新命名。
 
-![img](wps28.png)![img](wps29.png)![img](wps30.jpg)![img](wps31.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps28.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps29.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps30.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps31.png)
 
-![img](wps32.png)![img](wps33.jpg)![img](wps34.jpg)![img](wps35.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps32.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps33.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps34.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps35.jpg)
 
  
 
@@ -85,24 +85,24 @@ A: 开关三次（断电三次）既可恢复到出厂模式；
 
 # 五、支持与服务
 
-| 四博智联资源                                           |                                                              |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
-| 官网                                                   | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                   | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                   | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                   | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                           | [智能建筑云](http://building.doit.am)(building.doit.am)      |
-| [光伏监控云](http://solar.doit.am)(solar.doit.am)      |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am)    |                                                              |
-| [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am) |                                                              |
-| 官方技术支持QQ群1/2/3群已满                            |                                                              |
-| 技术支持群4                                            | 278888904                                                    |
-| 技术支持群5                                            | 278888905                                                    |
-| 技术支持群6                                            | 278888906                                                    |
-| 技术支持群7                                            | 278888907                                                    |
-| 技术支持群8                                            | 278888908                                                    |
-| 技术支持群9                                            | 278888909                                                    |
-| 技术支持群10                                           | 278888900                                                    |
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/http://building.doit.am)(building.doit.am) |
+| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/http://solar.doit.am)(solar.doit.am) |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/http://wechat.doit.am)(wechat.doit.am) |                                                              |
+| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/http://tcp.doit.am)(tcp.doit.am) |                                                              |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 技术支持群6                                                  | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
 # 六、免责申明和版权公告
 
