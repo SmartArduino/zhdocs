@@ -71,6 +71,7 @@
 
 * **【二】ESP8285模组**
 * [DMP-L1](zh/zhESPSeries/ESP8285/DOIT_DMP-L1/DOIT_DMP-L1.md)
+* [DMP-P1](zh/zhESPSeries/ESP8285/DOIT_DMP-P1/DOIT_DMP-P1.md)
 * [ESP-M1](zh/ESPSeries/ESP8285/espm1/espm1.md)
 * [ESP-M2](zh/zhESPSeries/ESP8285/DOIT_ESP-M2/DOIT_ESP-M2.md)
 * [ESP-M3](zh/zhESPSeries/ESP8285/DOIT_ESP-M3/DOIT_ESP-M3.md)
