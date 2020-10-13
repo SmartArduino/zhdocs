@@ -100,8 +100,8 @@
 ## 智能产品
 
 * [Homekit 2路继电器模块](zh/zhSmartProduct/HomeKit2Relay/HomeKit2Relay.md)
+* [HomeKit DoHome温湿度采集器](zh/zhSmartProduct/HomeKitTemAndHum/HomeKitTemAndHum.md)
 * [DoHome智能灯泡](zh/zhSmartProduct/DoHomeIntelligentLamp/DoHomeIntelligentLamp.md)
-* [智能LED灯带](zh/OJ/README.md)
 * [DoHome国标智能插座](zh/zhSmartProduct/DoHomeGBSmartSocket/DoHomeGBSmartSocket.md)
 * [DoHome圣诞灯](zh/zhSmartProduct/DoHomeChristmasTree/DoHomeChristmasTree.md)
 ## WiFi探针
