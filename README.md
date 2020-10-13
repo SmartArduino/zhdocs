@@ -130,7 +130,7 @@
   * [坦克底盘之履带](zh/Robot/FrameChassis/track/track.md)
 * [**【二】机械臂**]
   * [车载机械臂](zh/Robot/FrameChassis/cararm/cararm.md)
-  * [6自由度机械臂](zh/Robot/FrameChassis/gxrobotarm/gxrobotarm.md)
+  * [6/7自由度机械臂](zh/zhRobotArm/RobotArm/RobotArm.md)
   * [6自由度云台机械臂](zh/zhRobotArm/6DOFYunTaiRobotArm/6DOFYunTaiRobotArm.md)
   * [4DOF亚克力机械臂](zh/zhRobotArm/4DOFAcrylicMechanicalArm/4DOFAcrylicMechanicalArm.md)
 * [**【二】爪子**]
