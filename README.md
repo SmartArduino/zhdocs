@@ -45,7 +45,7 @@
 # 乐鑫系列
 
 ## ESP8266
-* [从零开始学习ESP8266](zh/ESPSeries/start/start.md)
+* [从零开始学习ESP8266](zh/zhESPSeries/start/start.md)
 
 * **【一】ESP8266芯片**
   
