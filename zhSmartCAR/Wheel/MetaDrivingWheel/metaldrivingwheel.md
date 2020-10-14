@@ -12,27 +12,27 @@
 - 顶丝:                         2pcs
 - 
 
-![metalwheelmaterial](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetalBearingWheel/metalwheelmaterial.jpg)
+![metalwheelmaterial](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/metalwheelmaterial.jpg)
 
 # 2. 安装
 
 1) 先将顶丝安装在铝合金联轴器上，再将铜联轴器安装在轮片上。
 
-![metalcoupling](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetalBearingWheel/metalcoupling.jpg)
+![metalcoupling](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/metalcoupling.jpg)
 
-![metalwheelcoupling](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetalBearingWheel/metalwheelcoupling.jpg)
+![metalwheelcoupling](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/metalwheelcoupling.jpg)
 
 2) 将带大孔的第一个轮片安装在铝合金联轴器的末端。
 
-![drivingalign](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetalBearingWheel/drivingalign.jpg)
+![drivingalign](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/drivingalign.jpg)
 
-![drivingm4](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetalBearingWheel/drivingm4.jpg)
+![drivingm4](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/drivingm4.jpg)
 
 注:通过调节M4螺丝，可以调节联轴器的长度以适应电机轴。
 
 3) 安装联轴器，使用M3x8螺丝和M4x16螺丝固定铜柱和联轴器
 
-![drivingwheelfinish](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetalBearingWheel/drivingwheelfinish.jpg)
+![drivingwheelfinish](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/drivingwheelfinish.jpg)
 
 # 3. 注意事项
 
