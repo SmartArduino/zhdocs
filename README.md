@@ -139,7 +139,7 @@
   * [G8爪子](zh/zhRobotArm/claws/G8/G8.md)
   
 * [**【二】人形机器人**]
-* [13自由度人形机器人](zh/zhRobotArm/HumanoidRobot/13DOFRobot/13DOFRobot.md)
+  * [13自由度人形机器人](zh/zhRobotArm/HumanoidRobot/13DOFRobot/13DOFRobot.md)
   * [15自由度人形机器人](zh/zhRobotArm/HumanoidRobot/15DOFRobot/15DOFRobot.md)
   * [17自由度人形机器人](zh/zhRobotArm/HumanoidRobot/17DOFRobot/17DOFRobot.md)
   * [19自由度人形机器人](zh/zhRobotArm/HumanoidRobot/19DOFRobot/19DOFRobot.md)
