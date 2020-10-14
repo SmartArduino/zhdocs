@@ -228,13 +228,13 @@ I2C 与 SPI 功能的配置相同，为![img](https://github.com/SmartArduino/zh
 
 ​	适配器可以对外提供与 IO 信号电平一致的电源电压，或者与 IO 信号电平无关的 5V 电源电压，也可以不对外提供电源输出。该功能可以通过调整位于两个白色座子中间的 PWR-SEL 跳线来实现。
 
-### 2.4.1 5V 供电电压
+### 2.5.1 5V 供电电压
 
 ​	将 PWR-SEL 红色跳线帽置于 5V 侧，则适配器输出接口 VDD 的电压为5V，与芯片当前工作电压无关。配置如下图所示：
 
  ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps12.png) 
 
-### 2.4.2 3.3V 供电电压
+### 2.5.2 3.3V 供电电压
 
 ​	将 PWR-SEL 红色跳线帽置于 VCC 侧，则适配器输出接口 VDD 的电压与芯片当前工作电压保持一致。配置如下图所示：
 
