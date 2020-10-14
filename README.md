@@ -123,7 +123,7 @@
   * [Y100坦克底盘](zh/zhSmartCAR/Y_Series/Y100/Y100.md)
   * [MC300小车安装说明 ](zh/zhSmartCAR/MC_Series/MC300/MC300.md)
 * [**【二】机器人配件**]
-  * [2自由度舵机支架云台](zh/Robot/FrameChassis/2dofbracket/2dofservobracket.md)
+  * [2自由度支架](zh/zhRobotArm/2DOFRobotArm/2DOFRobotArm.md)
   * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
   * [坦克底盘之金属驱动轮](zh/Robot/FrameChassis/MetaDrivingWheel/metaldrivingwheel.md)
   * [坦克底盘之金属承重轮](zh/Robot/FrameChassis/MetalBearingWheel/MetalBearingWheel.md)
