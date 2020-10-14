@@ -157,7 +157,7 @@
 * [**【二】电机**]
   * [9v 电机](zh/Robot/Engine/9vMotor/9vmotor.md)
 * [**【二】舵机**]
-  * [DS3218 舵机](zh/Robot/Engine/ds3218/ds3218.md)
+  * [DS3218 舵机](zh/zhEngine/ds3218/ds3218.md)
   * [舵机测试仪使用](zh/Robot/Engine/servotester/servoTester.md)
 
 ## 电源
