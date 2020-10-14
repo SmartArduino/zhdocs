@@ -134,10 +134,15 @@
   * [6自由度云台机械臂](zh/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/6DOFYunTaiRobotArm.md)
   * [4DOF亚克力机械臂](zh/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/4DOFAcrylicMechanicalArm.md)
 * [**【二】爪子**]
-  * [G6爪子](zh/zhRobotArm/claws/G6/G6.md)
-* [G8爪子](zh/zhRobotArm/claws/G8/G8.md)
+  
+* [G6爪子](zh/zhRobotArm/claws/G6/G6.md)
+  
+  
+  
+  * [G8爪子](zh/zhRobotArm/claws/G8/G8.md)
   
 * [**【二】人形机器人**]
+  
   * [17自由度人形机器人](zh/Robot/FrameChassis/17dof/17dofhumanod.md)
   * [13自由度人形机器人](zh/zhRobotArm/HumanoidRobot/13DOFRobot/13DOFRobot.md)
 
