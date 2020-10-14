@@ -214,27 +214,7 @@ M36  X4
 
 ![img](wps33.jpg) 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 先装舵机：
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -254,60 +234,44 @@ M36  X4
 
 另一个爪子也是这样装
 
- 
-
- 
-
- 
-
- 
-
 在使用L支架将爪子装上：
-
- 
-
- 
-
- 
-
- 
 
 ![img](wps38.jpg) 
 
 先使用3颗M38 + 2颗M3螺母将机械爪和L支架固定，在使用4颗M38螺丝 + 4颗M3螺母将爪子固定在机械臂上。
 
- 
-
- 
-
 ![img](wps39.jpg) 
 
  
 
- 
-
- 
 
 
+<center><font size=10 color=red>多謝各位!</center></font>
+<center><font size=10 color=blue> 祝你成功! </center></font>
 
- 
 
- 
 
- 
+# 支持与服务
 
- 
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/http://building.doit.am)(building.doit.am) |
+| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/http://solar.doit.am)(solar.doit.am) |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/http://wechat.doit.am)(wechat.doit.am) |                                                              |
+| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/http://tcp.doit.am)(tcp.doit.am) |                                                              |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 技术支持群6                                                  | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
- 
+# 注 意
 
- 
-
- 
-
- 
-
- 
-
-# 多謝各位!
-
-祝你成功！
+由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
