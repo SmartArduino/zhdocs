@@ -86,27 +86,27 @@ AT+CIPSEND=0,11           输入11字节数据传输模式
 
 ##  STA模式下WiFi模块的TCP服务器
 
-AT+CWMODE=1 sets the module to STA mode. (serial assistant)
+AT+CWMODE=1 设置为STA模式.
 
-AT+CWLAP Query Nearby WIFI (Serial Port Assistant)
+AT+CWLAP           查询附近的无线网络
 
-AT+CWJAP= "123123", "12345678" connection WIFI (serial assistant)
+AT+CWJAP= "123123", "12345678"            连接WiFi
 
-AT + CIFSR looks at IP addresses assigned to modules by routers, such as 192.168.43.104 (serial assistant)
+AT + CIFSR             查看路由器分配给模块的IP地址，比如192.168.43.104
 
-AT+CIPMUX=1 Open Multiple Connections (Serial Port Assistant)
+AT+CIPMUX=1      打开多个连接
 
-AT+CIPSERVER=1,8899 Set up Module Server Port (Serial Port Assistant).
+AT+CIPSERVER=1,8899     设置模块服务器端口
 
-Open the network debugging assistant to set up: Please open the computer to connect the router's WIFI hotspot. And open the network debugging assistant, input the IP of the connection module and the port of the setup on the network debugging assistant. The IP allocated by router to module is 192.168.43.103, and the port is 8899 (default is 333) (network debugging assistant)
+打开网络调试助手进行设置:请打开电脑连接路由器的WIFI热点。打开网络调试助手，在网络调试助手上输入连接模块的IP和设置的端口。路由器分配给模块的IP为192.168.43.103，端口为8899(默认为333)(network debugging assistant)
 
-AT+CIPSEND=0,11 Enter data transmission mode for 11 bytes
+AT+CIPSEND=0,11    设置发送数据的大小，这里为11个字节
 
-\> Enter Send Mode
+\> 进入发送模式
 
-11 data sent by www.doit.am
+数据通过 www.doit.am传输
 
-Network Debugging Assistant Sends Data: Shenzhen Sibo Zhilian Technology Co., Ltd. (Network Debugging Assistant)
+网络调试助理发送数据:深圳思博智联科技有限公司(网络调试助理)
 
   ![start5](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/start/start5.jpg)  
 
