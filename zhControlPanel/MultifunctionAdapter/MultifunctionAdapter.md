@@ -139,7 +139,7 @@
 | GND      | P       | 信号地                                     |
 | VDD      | P       | 电源输出，电压可为 3.3V 或者 5V 或者无     |
 
-## 2.2.4 I2C 与UART 接口（XH2.5MM 弯插针）
+### 2.2.4 I2C 与UART 接口（XH2.5MM 弯插针）
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps6.jpg) 
 
