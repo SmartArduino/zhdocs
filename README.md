@@ -151,6 +151,7 @@
 * [基于手柄的Arduino电机驱动板使用](zh/Robot/Controller/ps2/ps2.md)
 * [4路电机16路舵机扩展板使用](zh/Robot/Controller/ps2/4motor16servo.md)
 * [4路步进电机3D打印机械臂控制板](zh/zhControlPanel/DOIT-ARM/DOIT-ARM.md)
+* [USB转UART/SPI/IIC/TTL等多功能适配器](zh/zhControlPanel/MultifunctionAdapter/MultifunctionAdapter.md)
 
 ## 发动机
 * [**【二】电机**]
