@@ -137,14 +137,12 @@
   
 * [G6爪子](zh/zhRobotArm/claws/G6/G6.md)
   
-  
-  
   * [G8爪子](zh/zhRobotArm/claws/G8/G8.md)
   
 * [**【二】人形机器人**]
-  
-  * [17自由度人形机器人](zh/Robot/FrameChassis/17dof/17dofhumanod.md)
+
   * [13自由度人形机器人](zh/zhRobotArm/HumanoidRobot/13DOFRobot/13DOFRobot.md)
+  * [17自由度人形机器人](zh/zhRobotArm/HumanoidRobot/17DOFRobot/17DOFRobot.md)
 
 ## 控制器
 
