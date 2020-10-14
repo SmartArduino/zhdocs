@@ -1,54 +1,52 @@
-<center> <font size=10> Start to Learn ESP-Series WiFi Modules </font></center>
+<center> <font size=10> ESP系列模块基础学习手册 </font></center>
 
 <center> from SZDOIT </center>
 
 
 
-# Connecting & Wiring
+# 连接与接线
 
-## Wiring
+## 连接
 
 ![start24](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/start/start24.jpg)
 
-When we get the module, we can test it according to the following wiring:
+获取模块后，可以根据以下接线进行测试：
 
-That is, VCC, EN connection 3.3v, GPIO15 GND grounding, module TX, RX connection serial port tool RX, TX, RST pin low level reset, unnecessary IO pin can be suspended, if you want to download the firmware in the module, please pull GPIO0 down processing (warm hint: if you buy ESP-01S/M/F1/F2, only need to connect VCC GND RX TX can work normally). If you buy an ESP-01 module, just connect CH-PD to VCC. Others can be connected according to the figure below (no IO port can not be connected). Please refer to the following instructions for product hardware design circuit.
+也就是说，如果要在模块中下载固件，则VCC，EN连接3.3v，GPIO15 GND接地，模块TX，RX连接串行端口工具RX，TX，RST引脚低电平复位，可以挂起不必要的IO引脚，请下拉GPIO0处理（温馨提示：如果购买ESP-01S / M / F1 / F2，只需连接VCC GND RX TX即可正常工作）。如果您购买ESP-01模块，只需将CH-PD连接到VCC。其他人可以根据下图进行连接（无法连接IO端口）。请参考以下产品硬件设计电路说明。
 
 ![start1](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/start/start1.jpg)
 
-## Test
+## 测试
 
- 
+完成1.1连接后，请详细检查电路并确认没有问题。打开串口调试工具。配置模式为波特率：115200，数据位：8校验位：无停止位：一个流控制：无。
 
-After completing the 1.1 connection, please check the circuit in detail and confirm that there is no problem. Open the debugging aid of serial port. The configuration mode is baud rate: 115200, data bit: 8 check bit: none stop bit: one flow control: none.
+配置信息如下：
 
-The configuration information is as follows:
+要确认没有问题，请按K1按钮的RST复位键（低电平约300m）。打印信息如下：
 
-To confirm that there is no problem, please press the RST reset key of K1 button (low level about 300m). Print the information as follows:
+显示“已读”以证明启动正常。
 
-Display “read” to prove that the startup is normal.
-
-The tools can be downloaded from the download center.
+可以从下载中心下载工具。
 
 ![start2](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/start/start2.jpg)
 
-  Frequently problems:
+##  常见问题：
 
-**Keyboard does not reflect**
+**按键没反映**
 
-(1) Please check whether the power supply of the module is 3.3V/800ma.
+（1）请检查模块电源是否为3.3V / 800ma。
 
-(2) Please check whether TX and RX are in the wrong place.
+（2）请检查TX和RX是否放置在错误的位置。
 
-(3) Check whether the port number is selected correctly and whether the port of serial debugging assistant is closed.
+（3）检查端口号选择是否正确，串口调试助手的端口是否关闭。
 
-**The keys are all scrambled.**
+**输出乱码**
 
-(1) Please confirm the baud rate of the module with the module manufacturer.
+（1）请与模块制造商确认模块的波特率。
 
-(2) Please check whether USB to TTL is compatible with module communication. What is recommended is a USB to TTL made of CH340 and CP2102 chips?
+（2）请检查USB到TTL是否与模块通讯兼容。推荐使用CH340和CP2102芯片制成的USB至TTL？
 
-(3) Make sure that there is something wrong with the program in the module. (I'll talk about how to burn firmware for modules later.)
+（3）确保模块中的程序有问题。（稍后我将讨论如何为模块刻录固件。）
 
 #  Examples for AT Commands
 
