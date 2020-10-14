@@ -1,72 +1,75 @@
-<center> <font size=10> User Manual for Metal Bearing Wheel </font></center>
+<center> <font size=10> 坦克小车金属承重轮安装说明 </font></center>
 
 <center> from SZDOIT </center>
 
-# 1. Introduction
+# 1. 介绍
 
-  In this document, we just present the installation steps for the T300 Tank chassis with the following steps, and the connection motors to the doit version NodeMCU kit. Here, we just take T300 as an example to show the steps, but this manual is also used to the other type of tank chassis.
+ 在本文档中，我们仅介绍T300坦克机箱的安装步骤，包括以下步骤，以及将电机连接到doit版本NodeMCU工具包。在这里，我们只是以T300为例来展示步骤，但是这个手册也适用于其他类型的坦克底盘。
 
-![wheelfinish](https://github.com/SmartArduino/document/raw/master/docs/Robot/FrameChassis/MetalBearingWheel/wheelfinish.jpg)
+![wheelfinish](wheelfinish.jpg)
 
-# 2. Install the bearing wheel
+# 2. 安装承重轮
 
-## 2.1 Materials
+## 2.1 材料清单
 
-The bearing wheel includes the following materials.
+1)   17mm 铜柱: 3pcs; 
 
-1)   17mm copper coupling: 3pcs; 
+2)   M3*8 内六角螺丝: 6pcs;
 
-2)   M3*8 screw: 6pcs;
+3)   不锈钢联轴器: 1pcs;
 
-3)   Stainless steel connector: 1pcs;
+4)   M2 螺丝: 1pcs;
 
-4)   M2 screw: 1pcs;
+5)   轴承: 2pcs;
 
-5)   Bearing: 2pcs;
+6)   承重轮轮片: 2pcs. (安装时请对准定位孔).
 
-6)   WheelPiece: 2pcs. (Please align the **location holes** when installation).
+如下图所示：
 
-which are shown in the following Figure.
+![TwheelPiece](TwheelPiece.jpg)
 
-![TwheelPiece](https://github.com/SmartArduino/document/raw/master/docs/Robot/FrameChassis/MetalBearingWheel/TwheelPiece.jpg)
+## 2.2 安装铜柱，连接两个轮片
 
-## 2.2 Install the copper coupling to connect the two wheelpiece.
+首先，如图所示安装三个铜联轴器：
 
-At first, install the three copper couplings, as shown in the following picture.
+![TwheelPiecei1](TwheelPiecei1.jpg)
 
-![TwheelPiecei1](https://github.com/SmartArduino/document/raw/master/docs/Robot/FrameChassis/MetalBearingWheel/TwheelPiecei1.jpg)
+## 2.3  连接另一个承重轮
 
-##2.3  Connecting another wheelpiece.
+连接两个轮片时，请安装另一个轮片时对准定位孔。
 
-When connect to two wheelpieces, please **align the location hole** when you install another wheelpiece.
+![locationhole](locationhole.jpg)
 
+## 2.4 在不锈钢连接器上安装一个轴承
 
+![connector](connector.jpg)
 
-![locationhole](https://github.com/SmartArduino/document/raw/master/docs/Robot/FrameChassis/MetalBearingWheel/locationhole.jpg)
+## 2.5 完成轴承轮的安装
 
-## 2.4 Install a bearing to the stainless steel connector
+ 用M2螺丝连接完成车轮安装。
 
-![connector](https://github.com/SmartArduino/document/raw/master/docs/Robot/FrameChassis/MetalBearingWheel/connector.jpg)
+![wheelfinish](wheelfinish.jpg)
 
-## 2.5 Finish the installation of the bearing wheel
+## 2.6 轴承轮安装注意事项
 
-  Using an M2 screw to connect and finish the installation of wheel.
-
-![wheelfinish](https://github.com/SmartArduino/document/raw/master/docs/Robot/FrameChassis/MetalBearingWheel/wheelfinish.jpg)
-
-## 2.6 Some notes for the installation of bearing wheel
-
-1. Align the location holes for the two wheelpiece;
-2. Don’t let M2 srew connect the stainless steel connector too lighten.
-3. When let the bearing insert into the stainless steel connector, maybe you should try hard.
-
-Contact us: yichoneyi@163.com, wechat: itchenve, skype: yichone
+1. 对准两轮片的定位孔;
+2. M2螺丝要锁好不锈钢联轴器。
+3. 当让轴承插入不锈钢连接器，也许你应该努力。
 
 
 
-# Contact Us
+# 3.支持与服务
 
-- E-mails: [yichone@doit.am](mailto:yichone@doit.am), [yichoneyi@163.com](mailto:yichoneyi@163.com)
-- Skype: yichone
-- WhatsApp:+86-18676662425
-- Wechat: 18676662425
+| 官方技术支持QQ群 |           |
+| ---------------- | --------- |
+| 技术支持群1      | 278888901 |
+| 技术支持群2      | 278888902 |
+| 技术支持群3      | 278888903 |
+| 技术支持群4      | 278888904 |
+| 技术支持群5      | 278888905 |
+| 技术支持群6      | 278888906 |
+| 技术支持群7      | 278888907 |
+| 技术支持群8      | 278888908 |
+| 技术支持群9      | 278888909 |
+| 技术支持群10     | 278888900 |
+
