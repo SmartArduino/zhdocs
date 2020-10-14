@@ -135,8 +135,7 @@
   * [4DOF亚克力机械臂](zh/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/4DOFAcrylicMechanicalArm.md)
 * [**【二】爪子**]
   
-* [G6爪子](zh/zhRobotArm/claws/G6/G6.md)
-  
+  * [G6爪子](zh/zhRobotArm/claws/G6/G6.md)
   * [G8爪子](zh/zhRobotArm/claws/G8/G8.md)
   
 * [**【二】人形机器人**]
