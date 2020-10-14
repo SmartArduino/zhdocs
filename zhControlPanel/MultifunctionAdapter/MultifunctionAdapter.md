@@ -6,7 +6,7 @@
 
 ## 1.1 性能与技术指标
 
-![img](wps1.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps1.png) 
 
 ● 全速 USB 设备接口，兼容 USB V2.0;
 
@@ -92,7 +92,7 @@
 
 ## 2.1 产品外形
 
-![img](wps2.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps2.png) 
 
 ## 2.2 适配器对外接口定义
 
@@ -100,7 +100,7 @@
 
 ### 2.2.1 SPI 接口（XH2.54MM 直插针）
 
-![img](wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps3.jpg) 
 
 | 引脚名称 | IO 类型 | 描述                                   |
 | -------- | ------- | -------------------------------------- |
@@ -115,7 +115,7 @@
 
 ### 2.2.2 I2C 接口（PH2.25MM 排针）
 
-​	![img](wps4.jpg)
+​	![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps4.jpg)
 
 | 引脚名称 | IO 类型 | 描述                                   |
 | -------- | ------- | -------------------------------------- |
@@ -130,7 +130,7 @@
 
 ### 2.2.3 UART 接口（PH2.25排针 ）
 
-​	![img](wps5.jpg)
+​	![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps5.jpg)
 
 | 引脚名称 | IO 类型 | 描述                                       |
 | -------- | ------- | ------------------------------------------ |
@@ -141,7 +141,7 @@
 
 ## 2.2.4 I2C 与UART 接口（XH2.5MM 弯插针）
 
-![img](wps6.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps6.jpg) 
 
 | 引脚名称 | IO 类型 | 描述                                       |
 | -------- | ------- | ------------------------------------------ |
@@ -161,7 +161,7 @@
 
 ​	异步串口即 UART 的全信号预留接口位于适配器主板正面中间位置，共 20 个插孔，可以安装双排 2.54MM 间距的插针或者 DC3-20P 简易牛角座。
 
-![img](wps7.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps7.jpg) 
 
 | 引脚序号 | 引脚名称 | IO 类型 | 描述                                               |
 | -------- | -------- | ------- | -------------------------------------------------- |
@@ -194,7 +194,7 @@
 
 ​	适配器功能切换跳线位于 USB 接口旁，通过调整跳线冒的位置来实现常用功能之间的切换。
 
-I2C 与 SPI 功能的配置相同，为![img](wps8.png)；UART 串口功能配置为![img](wps9.jpg)	。
+I2C 与 SPI 功能的配置相同，为![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps8.png)；UART 串口功能配置为![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps9.jpg)	。
 
 ### 2.3.2 MEM/EPP 等其他功能配置
 
@@ -216,13 +216,13 @@ I2C 与 SPI 功能的配置相同，为![img](wps8.png)；UART 串口功能配�
 
 ​	3.3V TTL IO 电平通过调整芯片右侧 Level Select 跳线帽位于 3.3V 一侧来实现，如下图所示：
 
-![img](wps10.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps10.png)
 
 ### 2.4.2 5V I/O 电平选择
 
 ​	5V TTL IO 电平通过将芯片右侧 Level Select 跳线帽置于 5V 一侧来实现，如下图所示：
 
-![img](wps11.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps11.png)
 
 ## 2.5 对外接口电源电压选择
 
@@ -232,13 +232,13 @@ I2C 与 SPI 功能的配置相同，为![img](wps8.png)；UART 串口功能配�
 
 ​	将 PWR-SEL 红色跳线帽置于 5V 侧，则适配器输出接口 VDD 的电压为5V，与芯片当前工作电压无关。配置如下图所示：
 
- ![img](wps12.png) 
+ ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps12.png) 
 
 ### 2.4.2 3.3V 供电电压
 
 ​	将 PWR-SEL 红色跳线帽置于 VCC 侧，则适配器输出接口 VDD 的电压与芯片当前工作电压保持一致。配置如下图所示：
 
- ![img](wps13.png)
+ ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps13.png)
 
 若要 3.3V 电源电压输出，则芯片工作电压必须设置为 3.3V。
 
@@ -264,9 +264,9 @@ I2C 与 SPI 功能的配置相同，为![img](wps8.png)；UART 串口功能配�
 
 ​	打开资料包，找到存放驱动的文件夹，鼠标双击 CH341PAR.EXE 开始并口
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps14.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps14.png) |
 
 驱动的安装：
 
@@ -274,21 +274,21 @@ I2C 与 SPI 功能的配置相同，为![img](wps8.png)；UART 串口功能配�
 
 
 
-![img](wps15.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps15.png)
 
 ### 3.1.2 串口驱动程序安装
 
 ​	打开资料包，找到存放驱动的文件夹，鼠标双击 CH341SER.EXE 开始串口驱动的安装：
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps16.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps16.png) |
 
 点击安装，等待几秒钟，弹出“驱动预安装成功！”窗口，点击 OK 完成安装。
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps17.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps17.png) |
 
 ## 3.2 I2C 应用软件
 
@@ -298,17 +298,17 @@ I2C 与 SPI 功能的配置相同，为![img](wps8.png)；UART 串口功能配�
 
 ​	I2C 接口界面
 
-![img](wps18.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps18.png)
 
 EEPROM 读写界面
 
-![img](wps19.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps19.png)
 
 #### 3.2.1.1 I2C 接口
 
 ​	本软件以流模式读写兼容 I2C 的两线同步串口，调用的是驱动接口中 API USB IO_Stream I2C 函数，详细描述如下：
 
-![img](wps20.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps20.png)
 
 写入数据
 
@@ -326,13 +326,13 @@ A0 为从设备的 I2C 地址，00 为写入起始位置地址，后面 01~08 �
 
 从 00 位置开始读取从设备 A0 中的数据：
 
-![img](wps21.png)![img](wps22.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps21.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps22.png)
 
 从 A0的 00 位置开始写入 01~08 数据
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps23.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps23.png) |
 
 从 A0的 00 位置读出刚才写入的数据。
 
@@ -340,23 +340,23 @@ A0 为从设备的 I2C 地址，00 为写入起始位置地址，后面 01~08 �
 
 #### 3 2.1.2 EEPROM 读写
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps24.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps24.png) |
 
 EEPROM 读写是调用驱动库中 EEPROM 专用 API 函数来实现的：
 
 例子：从 24C02 的	址8 开始写入 16 字节数据，如下：
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps29.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps29.png) |
 
 读出刚才写入的数据，只需填写数据单元起始地址为 8，长度为 F（十六进制），点 Read，结果如下：
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps30.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps30.png) |
 
 本软件提供源码，位于软件目录 Resource 下，供二次开发 I2C 上位机软件参考。
 
@@ -364,13 +364,13 @@ EEPROM 读写是调用驱动库中 EEPROM 专用 API 函数来实现的：
 
 本软件主要以演示 I2C 和 SPI 功能为主，具有丰富菜单界面，存放于USB2IIC&SPI_EXE 文件夹。I2C 接口菜单如下：
 
-![img](wps31.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps31.jpg) 
 
 ​	I2C 协 议 测 试 界 面 如 下 ， 软 件 调 用 的 驱 动 库 函 数 API 为USBIO_StreamI2C, 读写原理跟 USB2I2C 软件一样，只是界面不同。
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps32.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps32.png) |
 
 ​	地址下的 0x 只是数据头，表示数据格式为 16 进制，读写数据缓冲区从0 开始，双击缓冲区内位置，在状态显示框的值后面输入要写入的数据。
 
@@ -378,7 +378,7 @@ EEPROM 读写是调用驱动库中 EEPROM 专用 API 函数来实现的：
 
 I2C 协议通信界面如下，操作方式与协议测试页面相同。
 
-![img](wps33.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps33.png)
 
 本软件的详细操作例子请参考《USB2IIC&SPI 使用说明书》。
 
@@ -388,23 +388,23 @@ I2C 协议通信界面如下，操作方式与协议测试页面相同。
 
 SPI 工作模式参见下表：
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps34.jpg) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps34.jpg) |
 
 适配器 SPI 接口默认工作与SPI Mode0, 时钟固定为 2MHz，时序图如下图所示：
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps35.jpg) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps35.jpg) |
 
 ### 3.3.1 USB2SPI 上位机软件
 
 ​	软件调用驱动库中 USBIO_StreamSPI4 接口库 API 函数以流模式读写兼容 SPI 的 4 线制同步串口，界面如下，
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps39.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps39.png) |
 
 数据字节数（16 进制表示）小于 40H，写出与读入数据共用一个缓冲区。
 
@@ -412,11 +412,11 @@ SPI 工作模式参见下表：
 
 本软件提供源码，位于软件目录 Resource 下，供二次开发 I2C 上位机软件参考。
 
-|      |                   |
-| ---- | ----------------- |
-|      | ![img](wps44.png) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps44.png) |
 
-![img](wps45.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps45.png)
 
  
 
@@ -426,23 +426,23 @@ SPI 工作模式参见下表：
 
 读 X5045 的状态寄存器，命令码为：05（Hex），00（Hex，实际上这个字节可以任意填充，只是为了产生必要的 SCK
 
-![img](wps49.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps49.png)
 
 2 为准备读写的字节长度，0500 为准备从时钟）。MOSI 写出的数据，点击Read/Write 按钮后，得到从 MISO 返回的数据，如下图：
 
 
 
-![img](wps53.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps53.png)
 
 ### 3.3.2 USB IIC&SPI 上位机软件（SPI 部分）
 
 USB2IIC&SPI 软件 SPI 接口菜单如下：
 
-![img](wps54.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps54.jpg)
 
 SPI 协议测试界面如下，这部分调用的驱动库函数 API 为USBIO_StreamSPI4,读写原理跟 USB2SPI 软件一样，只是界面不同。
 
-![img](wps55.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps55.png)
 
 地址 0x 是数据头，表示数据格式为十六进制 读写数据缓冲区从 0 开始，
 
@@ -454,7 +454,7 @@ SPI 协议通信界面如下，操作方式与协议测试页面相同。
 
  
 
-![img](wps56.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps56.png)
 
 本软件的详细操作例子请参考《USB2IIC&SPI 使用说明书》。
 
@@ -464,28 +464,28 @@ SPI 协议通信界面如下，操作方式与协议测试页面相同。
 
 适配器支持单工、半双工或者全双工异步串行通讯。串行数据包括 1 个低电平起始位、 5 到 9 个数据位、 1 或 2 个高电平停止位，支持奇校验/偶校验/标志校验/空白校验。支持常用通讯波特率：50、75、100、110、134.5、150、300、600、900、1200、1800、2400、3600、4800、9600、14400、19200、28800、33600、38400、56000、57600、76800、115200、128000、153600、230400、460800、921600、1500000、2000000 等。串口发送信号的波特率误差小于 0.3％，串口接收信号的允许波特率误差不小于 2％。在计算机端的 Windows 操作系统下，适配器的驱动程序能够仿真标准串口，所以绝大部分原串口应用程序完全兼容，通常不需要作任何修改。本适配器资料包内搜集了多款常用的串口软件，一般置于 USB2UART 文件夹内。
 
-![img](wps57.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps57.png)
 
 # 四、支持与服务
 
-| 四博智联资源                                           |                                                              |
-| ------------------------------------------------------ | ------------------------------------------------------------ |
-| 官网                                                   | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                   | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                   | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                   | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                           | [智能建筑云](http://building.doit.am)(building.doit.am)      |
-| [光伏监控云](http://solar.doit.am)(solar.doit.am)      |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am)    |                                                              |
-| [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am) |                                                              |
-| 官方技术支持QQ群1/2/3群已满                            |                                                              |
-| 技术支持群4                                            | 278888904                                                    |
-| 技术支持群5                                            | 278888905                                                    |
-| 技术支持群6                                            | 278888906                                                    |
-| 技术支持群7                                            | 278888907                                                    |
-| 技术支持群8                                            | 278888908                                                    |
-| 技术支持群9                                            | 278888909                                                    |
-| 技术支持群10                                           | 278888900                                                    |
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/http://building.doit.am)(building.doit.am) |
+| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/http://solar.doit.am)(solar.doit.am) |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/http://wechat.doit.am)(wechat.doit.am) |                                                              |
+| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/http://tcp.doit.am)(tcp.doit.am) |                                                              |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 技术支持群6                                                  | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
 # 五、免责申明和版权公告
 
