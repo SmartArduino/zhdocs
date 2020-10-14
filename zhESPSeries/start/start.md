@@ -48,43 +48,43 @@
 
 （3）确保模块中的程序有问题。（稍后我将讨论如何为模块刻录固件。）
 
-#  Examples for AT Commands
+#  AT指令示例
 
-1. The following software can be downloaded by Search according to your own habits.
+1. 以下软件可以根据自己的习惯通过搜索下载。
 
-2. Don't confine yourself to one of these modes when testing, which is inconvenient to understand. It is suggested that all the following tests should be completely tested on one side to help understand.
+2. 在进行测试时，不要将自己局限于这些模式中的一种，这很不便于理解。建议以下所有测试都在一侧进行完整测试，以帮助理解。
 
-3. This document is only part of AT's play. Please explore more interesting functions for yourself.
+3. 这份文件只是AT工作的一部分。请自己探索更多有趣的功能。
 
-## TCP Server for Module in AP Mode
+## AP模式下模块的TCP服务器
 
  
 
-AT+CWMODE=2               Open AP mode (serial assistant)
+AT+CWMODE=2               打开AP模式
 
-AT+CWSAP= "ESP8266", "0123456789", "11,0" Set the WiFi and password of the module (serial assistant)
+AT+CWSAP= "ESP8266", "0123456789", "11,0" 设置模块WiFi和密码
 
-AT+CIPMUX=1               Open Multiple Connections (Serial Port Assistant)
+AT+CIPMUX=1               打开多个连接
 
-AT+CIPSERVER=1,8899       Setting up Module Server Port (Serial Port Assistant)
+AT+CIPSERVER=1,8899       设置模块服务器端口
 
-Open the phone and start setting: Please open the computer to connect to the AP hotspot ESP8266 built by the module. And open the network debugging assistant, input the connection module's IP and the set port. The default IP of the following module is 192.168.4.1, and the port is 8899 (default 333) (network debugging assistant)
+打开手机，开始设置:请打开电脑连接到模块构建的AP热点ESP8266。打开网络调试助手，输入连接模块的IP和设置端口。以下模块的默认IP为192.168.4.1，端口为8899(默认为333)(network debugging assistant)
 
-AT+CIPSEND=0,11           Enter data transmission mode for 11 bytes (serial assistant)
+AT+CIPSEND=0,11           输入11字节数据传输模式
 
-\> Enter Send Mode (Serial Port Assistant)
+\>进入发送模式
 
-11 data sent by www.doit.am (serial assistant)
+由www.doit.am 发送11字节数据
 
-Network Debugging Assistant Sends Data: Shenzhen Sibozhi Liaison Technology Co., Ltd. (Network Debugging Assistant)
+网络调试助理发送数据:深圳思博智联络科技有限公司
 
  ![start3](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/start/start3.jpg)
 
 ![start4](https://github.com/SmartArduino/document/raw/master/docs/ESPSeries/start/start4.jpg)
 
-**If you want to set up boot-up and pass-through mode, please refer to the instructions in common use in the following documents. For more detailed instructions, please refer to the official AT instructions document.**
+如果您想设置启动和传递模式，请参阅以下文档中常用的说明。有关更详细的说明，请参阅官方在说明文件。
 
-##  TCP server for WiFi module in STA mode
+##  STA模式下WiFi模块的TCP服务器
 
 AT+CWMODE=1 sets the module to STA mode. (serial assistant)
 
