@@ -125,8 +125,8 @@
 * [**【二】机器人配件**]
   * [2自由度支架](zh/zhRobotArm/2DOFRobotArm/2DOFRobotArm.md)
   * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
-  * [坦克底盘之金属驱动轮](zh/Robot/FrameChassis/MetaDrivingWheel/metaldrivingwheel.md)
-  * [坦克底盘之金属承重轮](zh/Robot/FrameChassis/MetalBearingWheel/MetalBearingWheel.md)
+  * [坦克底盘之金属驱动轮](zh/zhSmartCAR/Wheel/MetaDrivingWheel/metaldrivingwheel.md)
+  * [坦克底盘之金属承重轮](zh/zhSmartCAR/Wheel/MetaDrivingWheel/MetalBearingWheel.md)
   * [坦克底盘之履带](zh/Robot/FrameChassis/track/track.md)
 * [**【二】机械臂**]
   * [车载机械臂](zh/Robot/FrameChassis/cararm/cararm.md)
@@ -139,8 +139,7 @@
   * [G8爪子](zh/zhRobotArm/claws/G8/G8.md)
   
 * [**【二】人形机器人**]
-
-  * [13自由度人形机器人](zh/zhRobotArm/HumanoidRobot/13DOFRobot/13DOFRobot.md)
+* [13自由度人形机器人](zh/zhRobotArm/HumanoidRobot/13DOFRobot/13DOFRobot.md)
   * [15自由度人形机器人](zh/zhRobotArm/HumanoidRobot/15DOFRobot/15DOFRobot.md)
   * [17自由度人形机器人](zh/zhRobotArm/HumanoidRobot/17DOFRobot/17DOFRobot.md)
   * [19自由度人形机器人](zh/zhRobotArm/HumanoidRobot/19DOFRobot/19DOFRobot.md)
