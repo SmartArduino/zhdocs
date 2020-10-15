@@ -81,6 +81,7 @@
 
 ## ESP32
 
+* [Arduino IDE搭建esp32开发环境](zh/zhESPSeries/ESP32/ArduinoEnvironment/ArduinoEnvironment.md)
 * [ESP-32](zh/zhESPSeries/ESP32/ESP32/esp32.md)
 * [ESP-32u](zh/zhESPSeries/ESP32/ESP32u/esp32u.md)
 
