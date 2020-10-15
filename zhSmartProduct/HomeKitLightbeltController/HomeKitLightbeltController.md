@@ -10,7 +10,7 @@
 
 本产品HomeKit的版本，没有iphone手机，配置相对繁琐（参见HomeKit For Android部分），请购买DoHome版本。DoHome版本已经对接了各大智能音箱，需要下载DoHome APP才能使用。
 
-![wps38](wps38.png)
+![wps38](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps38.png)
 
 注意：本产品为外贸产品改造升级产品，产品说明和附带纸质说明不一致，正确的产品说明在如下淘宝产品说明中，本产品不带遥控器。
 
@@ -30,7 +30,7 @@
 
  
 
-![img](wps11.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps11.jpg)
 
  
 
@@ -44,37 +44,37 @@
 
 注意：如果手机没有自动跳转到配网界面，请打开手机浏览器输入：htt://192.168.4.1。等待进入配网界面。
 
-![img](wps12.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps12.jpg) 
 
 ## 第二步
 
 请在跳网面页中选择您的家庭WiFi名称，且请在password中输入密码，点击join （如图二）。等待手机配网页跳转到WIFI列表页面（如图三），确定智能插头指示灯常亮。（图中WIF 账号仅供参考）
 
-![img](wps13.jpg)![img](wps14.jpg)黑色款内的不要
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps14.jpg)黑色款内的不要
 
-![img](wps15.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps15.jpg) 
 
 ## 第三步
 
 检查您是否安装Home APP ，如果没有Home  APP请在App Store商城下载一个Home  APP（如图四）。
 
-![img](wps16.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps16.jpg)
 
 ## 第四步
 
 请把手机连接到你的家庭WiFi网络（如图五），注意：苹果手机和智能插座必须是在同一个家庭WiFi网络下。
 
-![img](wps17.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps17.jpg) 
 
 ## 第五步
 
 打开苹果手机Home  APP 点击添加配件，请点击“没有代码或无法扫描”点击刷新出来的设备，仍然添加，等待加密校验（大约30S），添加设备成功。以后方便的操做请重新命名，并享受它
 
-![img](wps18.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps18.jpg) 
 
-![img](wps19.jpg)![img](wps20.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps19.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps20.jpg) 
 
-![img](wps21.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps21.jpg) 
 
 注意：如果没有刷新设备，请确认手机和智能插座是否在同一个局域网络。请确认指示灯是否在常亮状态，如果添加失败，请查看常见问题。
 
@@ -94,11 +94,11 @@ HomeKit For Android:
 
 第二步：打开手机扫描下面二维码并且下载DoHome  APP。
 
-![img](wps22.jpg)![img](wps23.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps22.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps23.jpg) 
 
 第三步：打开Dohome app 注册DoHome  APP账号和密码。并且登录Dohome。
 
-![img](wps24.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps24.jpg)
 
 第四步：点击右上角“+”添加设备，按照提示操作即可。
 
@@ -118,11 +118,11 @@ DoHome 版APP使用:
 
 第二步：打开手机扫描下面二维码并且下载DoHome  APP。
 
-![img](wps25.jpg)![img](wps26.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps25.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps26.jpg) 
 
 第三步：打开Dohome app 注册DoHome  APP账号和密码。并且登录Dohome。
 
-![img](wps27.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps27.jpg)
 
 第四步：点击右上角“+”添加设备，按照提示操作即可。
 
@@ -134,19 +134,19 @@ Q:homekit用户如何使用alexa 、谷歌助手、天猫精灵、小爱同学�
 
 扫描下面二维码。下载DoHome  APP。
 
-![img](wps28.jpg)![img](wps29.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps28.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps29.png)
 
 1.注册DoHome  APP账号、密码。下拉刷新列表并查看您的智能设备。
 
 注意：手机和智能灯带控制器必须连接到同一个家庭WiFi网络。
 
-![img](wps30.png)![img](wps31.jpg)![img](wps32.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps30.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps31.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps32.jpg)
 
 2.在左上角中打开菜单，点击“设备管理”，找到你的设备，然后选择它点击“设备绑定”。
 
 注意：您要使用智能音响请点击对应的音响图标，查看用户手册。如需帮助请点击帮助选项。
 
-![img](wps33.png)![img](wps34.jpg)![img](wps35.png)![img](wps36.png)![img](wps37.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps33.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps34.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps35.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps36.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps37.png)
 
 此设备仅支持IOS 10以上/ android 8.0以上版本。
 
