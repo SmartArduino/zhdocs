@@ -50,7 +50,7 @@
 
 请在跳网面页中选择您的家庭WiFi名称，且请在password中输入密码，点击join （如图二）。等待手机配网页跳转到WIFI列表页面（如图三），确定智能插头指示灯常亮。（图中WIF 账号仅供参考）
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps14.jpg)黑色款内的不要
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps14.jpg)
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps15.jpg) 
 
