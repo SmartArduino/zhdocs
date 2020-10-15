@@ -74,27 +74,24 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 
 2. 请不要在通电的情况下插拔电机和驱动，容易造成驱动电机烧坏；也不要在电机运行中调电流。正确的做法是：先断开电源，拔掉电机，在重新上电，调电位器，测量电位器上的输出电压，直到测量的电压与预期的相同。切勿插反驱动，否则会烧坏驱动，甚至烧坏主板
 
-
 # 九、支持与服务
 
-| 四博智联资源                                                 |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://www.doit.am/) |
-| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://szdoit.taobao.com/)(szdoit.am) |
-| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://bbs.doit.am/forum.php)(bbs.doit.am) |
-| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://building.doit.am)(building.doit.am) |
-| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://solar.doit.am)(solar.doit.am) |                                                              |
-| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://wechat.doit.am)(wechat.doit.am) |                                                              |
-| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/http://tcp.doit.am)(tcp.doit.am) |                                                              |
-| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
-| 技术支持群4                                                  | 278888904                                                    |
-| 技术支持群5                                                  | 278888905                                                    |
-| 技术支持群6                                                  | 278888906                                                    |
-| 技术支持群7                                                  | 278888907                                                    |
-| 技术支持群8                                                  | 278888908                                                    |
-| 技术支持群9                                                  | 278888909                                                    |
-| 技术支持群10                                                 | 278888900                                                    |
+| 四博智联资源                                        |                                                              |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
+| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
+| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
+| 应用案例集锦                                        |                                                              |
+| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
+| 官方技术支持QQ群1/2/3群已满                         |                                                              |
+| 技术支持群4                                         | 278888904                                                    |
+| 技术支持群5                                         | 278888905                                                    |
+| 术支持群6                                           | 278888906                                                    |
+| 技术支持群7                                         | 278888907                                                    |
+| 技术支持群8                                         | 278888908                                                    |
+| 技术支持群9                                         | 278888909                                                    |
+| 技术支持群10                                        | 278888900                                                    |
 
 # 免责申明和版权公告
 
