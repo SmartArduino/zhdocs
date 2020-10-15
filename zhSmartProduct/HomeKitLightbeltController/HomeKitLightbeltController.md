@@ -146,7 +146,11 @@ Q:homekit用户如何使用alexa 、谷歌助手、天猫精灵、小爱同学�
 
 注意：您要使用智能音响请点击对应的音响图标，查看用户手册。如需帮助请点击帮助选项。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps33.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps34.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps35.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps36.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps37.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps33.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps34.jpg)
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps35.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps36.png)
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps37.png)
 
 此设备仅支持IOS 10以上/ android 8.0以上版本。
 
