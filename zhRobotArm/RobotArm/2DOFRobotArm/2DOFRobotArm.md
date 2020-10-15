@@ -1,7 +1,7 @@
 <center><font size=10>2自由度支架安装说明</font></center>
 <center><font size=3> From SZDOIT </font></center>
 
-# 清单
+# 材料清单
 
 ![wps14](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/wps14.png)
 
@@ -45,24 +45,22 @@
 
 # 支持与服务
 
-| 四博智联资源                                                 |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/http://www.doit.am/) |
-| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/https://szdoit.taobao.com/)(szdoit.am) |
-| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/http://bbs.doit.am/forum.php)(bbs.doit.am) |
-| 应用案例集锦                                                 | [智能建筑云](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/http://building.doit.am)(building.doit.am) |
-| [光伏监控云](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/http://solar.doit.am)(solar.doit.am) |                                                              |
-| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/http://wechat.doit.am)(wechat.doit.am) |                                                              |
-| [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/2DOFRobotArm/http://tcp.doit.am)(tcp.doit.am) |                                                              |
-| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
-| 技术支持群4                                                  | 278888904                                                    |
-| 技术支持群5                                                  | 278888905                                                    |
-| 技术支持群6                                                  | 278888906                                                    |
-| 技术支持群7                                                  | 278888907                                                    |
-| 技术支持群8                                                  | 278888908                                                    |
-| 技术支持群9                                                  | 278888909                                                    |
-| 技术支持群10                                                 | 278888900                                                    |
+| 四博智联资源                                        |                                                              |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
+| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
+| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
+| 应用案例集锦                                        |                                                              |
+| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
+| 官方技术支持QQ群1/2/3群已满                         |                                                              |
+| 技术支持群4                                         | 278888904                                                    |
+| 技术支持群5                                         | 278888905                                                    |
+| 术支持群6                                           | 278888906                                                    |
+| 技术支持群7                                         | 278888907                                                    |
+| 技术支持群8                                         | 278888908                                                    |
+| 技术支持群9                                         | 278888909                                                    |
+| 技术支持群10                                        | 278888900                                                    |
 
 # 注 意
 
