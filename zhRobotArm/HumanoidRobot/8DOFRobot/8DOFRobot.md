@@ -120,11 +120,11 @@
 
 
 
- 
-
- 
 
 
+
+<center> <font size=10 color= red>安装完成!</center></font>
+<center><font size=10 color=blue>祝你成功! </center></font>
 
 # 支持与服务
 
