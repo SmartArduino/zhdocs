@@ -123,6 +123,7 @@
   * [TS400坦克底盘小车](zh/zhSmartCAR/TS_Series/TS400/TS400.md)
   * [T300坦克底盘小车](zh/zhSmartCAR/T_Series/T300/T300.md)
   * [Y100坦克底盘](zh/zhSmartCAR/Y_Series/Y100/Y100.md)
+  * [YP100坦克底盘](zh/zhSmartCAR/Y_Series/YP100/YP100.md)
   * [MC300小车安装说明 ](zh/zhSmartCAR/MC_Series/MC300/MC300.md)
 * [**【二】机器人配件**]
   * [2自由度支架](zh/zhRobotArm/2DOFRobotArm/2DOFRobotArm.md)
