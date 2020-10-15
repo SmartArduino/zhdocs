@@ -6,7 +6,7 @@
 
 # 一、各元件的认识与准备
 
-![img](wps1.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps1.jpg)
 
 ## 1、配齐安装结构支架
 
@@ -72,13 +72,13 @@
 
 ## 5、安装机器人手臂结构
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps10.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps10.jpg) 
 
 取多功能支架2 个、短U 支架2 个、L 型支架2 个、圆头M38 螺丝16 个，M3 螺母16 个，如图所示进行安装。安装过程中螺丝均由内侧向外侧穿出固定，这样才不影响舵机 的安装，便于尖嘴钳固定，安装好螺丝需用尖嘴钳紧固，达到稳定结构效果，所有的安装固定最后都要确认支架固定的位置方向正、不偏斜
 
 ## 6、安装机器人手腕结构
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps11.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps11.jpg) 
 
 取长多功能支架2 个、L型支架2 个、圆头M3x8 螺丝8 个，M3 螺母8 个，如图所示进行安装。安装过程中螺丝由多功能支架内部穿出，螺母在一字支架顶部紧固，安装好螺丝需用尖嘴钳紧固，达到稳定结构效果。
 
@@ -88,11 +88,11 @@
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
-|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps12.jpg) |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps12.jpg) |
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps13.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps13.jpg) 
 
 
 
@@ -100,31 +100,31 @@
 
 ## 1、安装机器人脚掌舵机
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps14.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps14.jpg) 
 
 取安装好的机器人左右脚掌结构各1 个、伺服舵机2 个、圆头M3x10 螺丝2 个，圆头M48 螺丝8 个、M4 螺母4 个。首先如图所示，将M310 螺丝由多功能支架内部向外穿出安装，该螺丝用于后面安装法兰轴承，所以在安装舵机前必须先把该螺丝位置安装好，  注意：M3x10 螺丝的安装位置，必须在多功能支架的内侧正中间孔位，保持与舵机的伸出轴承在一条水平线上。安装舵机，用M48 螺丝和M4 螺母分别固定舵机的4 个拐角与多功能支架上，安装好螺丝需用尖嘴钳紧固，达到稳定结构效果。
 
 ##  2、安装机器人脚踝和小腿舵机
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps15.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps15.jpg) 
 
 取安装好的机器人左右脚踝和小腿结构各1 个、伺服舵机2 个、圆头M3x10 螺丝2 个，圆头M4x8 螺丝8 个、M4 螺母4 个。首先如图所示，将M3x10 螺丝由多功能支架内部向外穿出安装，该螺丝用于后面安装法兰轴承，所以在安装舵机前必须先把该螺丝位置安装好，注意：M3x10 螺丝的安装位置，必须在多功能支架的内侧正中间孔位，保持与舵机的伸出轴承在一条水平线上。安装舵机，用M4x8 螺丝和M4 螺母分别固定舵机的4 个拐角与多功能支架上，安装好螺丝需用尖嘴钳紧固，达到稳定结构效果。
 
 ## 3、安装机器人躯干舵机
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps16.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps16.jpg) 
 
 取安装好的机器人躯干结构1 个、伺服舵机4 个、圆M3x10 螺丝2 个，圆头M4x8螺丝16 个、M4 螺母16 个，首先如图所示，将M3x10 螺丝由多功能支架内部向外穿出安装该螺丝用于后面安装法兰轴承；所以在安装舵机前必须先把该螺丝位置安装好，注意：M3x10 螺丝的安装位置，必须在多功能支架的内侧正中间孔位，保持与舵机的伸出轴承在一条水平线上。安装舵机，用M4x8 螺丝和M4 螺母分别固定舵机的4 个拐角与多功能支架上， 安装好螺丝需用尖嘴钳紧固，达到稳定结构效果
 
 ## 5、安装机器人手臂舵机
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps17.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps17.jpg)
 
 取安装好的机器人左右手臂结构各1 个、伺服舵机2 个、圆头M3x10 螺丝2 个，圆头M48 螺丝8 个、M4 螺母8 个。首先如图所示，将M3x10 螺丝由多功能支架内部向外穿出安装，该螺丝用于后面安装法兰轴承，所以在安装舵机前必须先把该螺丝位置安装好，注意：M3x10 螺丝的安装位置，必须在多功能支架的内侧正中间孔位，保持与舵机的伸出轴承在一条水平线上。安装舵机，用M48 螺丝和M4 螺母分别固定舵机的4 个拐角与多功能支架上，安装好螺丝需用尖嘴钳紧固，达到稳定结构效果。
 
 ## 6、安装机器人手腕舵机
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps18.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps18.jpg) 
 
 • 取安装好的机器人左右手腕结构各1 个、伺服舵机2 个、圆头M3x10 螺丝2 个，圆头
 
@@ -134,7 +134,7 @@ M48 螺丝8 个、M4 螺母8 个。首先如图所示，将M3x10 螺丝由多功
 
 ​	经过前面几个步骤，机械人的各部分均已安装好，剩下的工作是怎么将各部分结构连接起来，组装一个完整的身体。如下图所示，先将机器人各部分结构大致排列好，便于自己整体上了解各部分所在位置，连接时候不至于拿错安装错位。需注意的是：机器人左右对称的结构部分虽然看起来一样，实际是不一样的(因为安装螺丝位置不一样)，所以安装的时候不能通用，左边的结构不能用于右边安装，切记！
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps19.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/13DOFRobot/wps19.jpg)
 
 ## 1、连接机器人脚掌与脚踝和小腿
 
