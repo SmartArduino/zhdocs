@@ -8,7 +8,7 @@
 
 ### 1． 安装Arduino IDE 
 
-- 可以从www.arduino.cc/en/Main/Software下载Arduino IDE客户端。
+- 可以从www.arduino.cc/en/Main/Software  下载Arduino IDE客户端。
 
 ### 2． 安装Git GUI
 
