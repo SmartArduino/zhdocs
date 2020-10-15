@@ -5,7 +5,7 @@
 
 # 一、材料清单
 
-![img](wps25.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps25.jpg)
 
 1.硬质铝合金多功能支架x 8
 2.硬质铝合金长U型支架 x 2
@@ -35,71 +35,71 @@
 
 ## Step 1: 安装足部结构
 
-![img](wps26.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps26.png) 
 
 ## Step 2: 把舵机放到右边的角落
 
-![img](wps27.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps27.png) 
 
 脚结构安装完成后，开始安装舵机。首先调整中间位置，然后把舵机放到右角。
 
 ## Step 3: 把舵机放在左转弯处
 
-![img](wps28.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps28.png) 
 
 ## Step 4: 把舵机放在中间
 
-![img](wps29.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps29.png) 
 
 然后把舵机放在中间。所以转向的角度范围已经设置好了。这样安装舵机机器人的关节范围最大。(在具体的应用中。，可合理选择安装位置的角度，避免出现死角。
 
 ## Step 5: 安装两个舵机
 
-![img](wps30.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps30.png) 
 
 两个舵机按上述步骤调整到合适的角度，开始安装。
 
 ## Step 6: 按下图方式安装长U支架
 
-![img](wps31.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps31.png) 
 
 调整舵角方向，舵角方向与长U型支架的孔径一致。接下来安装长U型支架。
 
 ## Step 7: 固定舵机
 
-![img](wps32.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps32.png) 
 
 ## Step 8: 安装腿接头
 
-![img](wps33.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps33.png) 
 
 接下来安装腿接头。准备配件。
 
 ## Step 9: 安装L型支架
 
-![img](wps34.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps34.png) 
 
 你应该先安装L型支架，否则将很难安装舵机支架。
 
 ## Step 10: 完成伺服器的安装
 
-![img](wps35.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps35.png) 
 
 将舵机调到合适的角度，然后开始安装。
 
 ## Step 11: 安装机器人腰部
 
-![img](wps36.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps36.png) 
 
 机器人腰部应采用u形梁安装。
 
 ## Step 12: 安装机器人的机械手
 
-![img](wps37.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps37.png) 
 
 ## Step 13: 完成整个安装
 
-![img](wps38.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps38.png) 
 
  <center> <font size=10 color= red>安装完成!</center></font>
 <center><font size=10 color=blue>祝你成功! </center></font>
@@ -110,20 +110,20 @@
 
 # 支持与服务
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+| 四博智联资源                                                 |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网                                                         | [www.doit.am](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/http://www.doit.am/) |
+| 教材                                                         | [ESPDuino智慧物联开发宝典](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
+| 购买                                                         | [官方淘宝店](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/https://szdoit.taobao.com/)(szdoit.am) |
+| 讨论                                                         | [技术论坛](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/http://bbs.doit.am/forum.php)(bbs.doit.am) |
+| 应用案例集锦                                                 |                                                              |
+| [Doit玩家云](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/http://tcp.doit.am)(tcp.doit.am) |
+| 官方技术支持QQ群1/2/3群已满                                  |                                                              |
+| 技术支持群4                                                  | 278888904                                                    |
+| 技术支持群5                                                  | 278888905                                                    |
+| 术支持群6                                                    | 278888906                                                    |
+| 技术支持群7                                                  | 278888907                                                    |
+| 技术支持群8                                                  | 278888908                                                    |
+| 技术支持群9                                                  | 278888909                                                    |
+| 技术支持群10                                                 | 278888900                                                    |
 
