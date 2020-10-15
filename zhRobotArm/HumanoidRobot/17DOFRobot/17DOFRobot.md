@@ -1,12 +1,10 @@
 <center> <font size=10> 17自由度人形机器人安装说明 </font></center>
 
-<center> from SZDOIT </center>
-
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/17DOFRobot/wps1.png) 
-
- 
+<center> from SZDOIT </center> 
 
 # 一、各元件的认识与准备
+
+![img](wps1.png)
 
 1、配齐安装结构支架
 
