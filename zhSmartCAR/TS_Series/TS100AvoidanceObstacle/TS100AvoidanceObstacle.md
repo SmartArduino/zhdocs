@@ -5,7 +5,7 @@
 
 # 一.  物料准备
 
-![img](wps1.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps1.jpg)
 
 ## 材料清单
 
@@ -23,19 +23,19 @@
 
 ## 实物图鉴
 
-![img](wps2.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps2.jpg) 
 
 # 二．安装与接线
 
 ## 硬件安装
 
-![img](wps3.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps3.png) 
 
 ## 电路接线
 
   默认驱动板是直插到UNO控制板上。之后按图示连接；
 
-![img](wps4.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps4.png) 
 
 【图示说明】
 
@@ -77,15 +77,15 @@
 
 ## 小车多角度视图
 
-![img](wps5.png)![img](wps6.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps5.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps6.png) 
 
 正视图                                               左视图
 
-![img](wps7.png)![img](wps8.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps7.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps8.png) 
 
 右视图                                         后视图
 
-![img](wps9.png)![img](wps10.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps9.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/wps10.png) 
 
 俯视图                                     底视图
 
