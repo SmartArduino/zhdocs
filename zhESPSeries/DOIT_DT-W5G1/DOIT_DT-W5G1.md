@@ -2,109 +2,13 @@
 
 <center> from SZDOIT </center> 
 
-![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G13.png)
-
-# 特征
-
-## SOC特性
-
-内置160MHz MIPS RISC处理器
-
-512K SRAM
-
-通讯速度：72Mbps（20MHz）
-
-最佳平衡和LLR量化
-
-## Wi-Fi特性
-
-支持802.11 a/b/g/n，2.4-2.5GHz，4.9-5.85GHz
-
-2.4GHz接收灵敏度：-75dBm/11n HT20 MCS7，Tx功率：21dBm
-
-5GHz接收灵敏度：-74dBm/11n HT20 MCS7，Tx功率：16.5dBm
-
-支持站，软AP模式
-
-支持Wi-Fi Direct（P2P）
-
-支持CCMP（CBC-MAC，计算模式）、TKIP（MIC、RC4）、WAPI（SMS4）、WEP（RC4）、CRC硬件加速
-
-P2P发现、P2P-GO-mode/GC模式和P2P电源管理
-
-支持无缝无漫游
-
-支持远程更新和云OTA更新；
-
-支持Android和iOS设备SmartConfig的SmartConfig功能。
-
-## 模块外设
-
-2个UART
-
-3个ADC
-
-1xHSPI
-
-1x12c
-
-十二
-
-2个DMA
-
-2xPWM
-
-最大23xGPIO
-
-2M字节SPI闪存
-
-工作温度：-30℃-85℃
-
-模块尺寸：17.5mm×34.5mm
-
-## 应用场景
-
-串行透明传输
-
-智能电源插头/智能LED灯
-
-传感器网络
-
-可穿戴电子产品
-
-安全标识标签
-
-无线位置识
-
-无线信标定位系统
-
-WiFi探测器
-
-网状网络
-
-工业无线控制
-
-## 模块型号
-
-| 名称    | 天线类型  |
-| ------- | --------- |
-| DT-W5G1 | Ipex /PCB |
-
-## 模块结构图
-
-<img src="DT-W5G10.png" alt="DT-W5G10" style="zoom:33%;" />
-
-## 文档更新说明
-
-| 日期       | 版本 | 更新内容     |
-| ---------- | ---- | ------------ |
-| 2018-6-12  | V1.0 | 初版         |
-| 2018-9-12  | V1.1 | 更新尺寸信息 |
-| 2018-12-20 | V2.0 | 更新封装信息 |
-
 # 一. 产品概述
 
 DT-W5G1模块核心处理器采用超低功耗处理器、2G&5G双频芯片。该芯片在较小尺寸封装中集成了业界领先的32位微型MCU，带有16位精简模式，主频⽀持160 MHz。DT-W5G1拥有完整的Wi-Fi网络功能，既能够独⽴应⽤，也可以作为从机搭载于其他主机MCU运⾏。当DT-W5G1独⽴应⽤时，能够直接从外接Flash中启动。内置的⾼速缓冲存储器有利于提高系统性能，并且优化存储系统。此外DT-W5G1只需通过SPI/SDIO 接⼝或I2C/UART⼝即可作为Wi-Fi适配器，应⽤到基于任何微控制器的设计中。
+
+
+
+![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G13.png)
 
 DT-W5G1模块支持标准的IEEE802.11 a/b/g/n协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
