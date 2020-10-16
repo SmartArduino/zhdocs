@@ -152,7 +152,7 @@
 
 ## 控制器
 
-* [控制器固件](zh/Robot/Controller/app/firmware.md)
+* [基于ESPDuino的智能小车固件](zh/zhControlPanel/ESPDuino/firmware.md)
 * [智能小车App](zh/Robot/Controller/app/AppforSmartCar.md)
 * [大功率板](zh/Robot/Controller/controller/BigPowerBoard.md)
 * [ESPduino控制器](zh/zhControlPanel/ESPDuino/ESPDuino.md)
