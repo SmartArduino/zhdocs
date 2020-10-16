@@ -127,7 +127,7 @@
   * [YP100坦克底盘](zh/zhSmartCAR/Y_Series/YP100/YP100.md)
   * [MC300小车安装说明 ](zh/zhSmartCAR/MC_Series/MC300/MC300.md)
 * [**【 二】小车接线说明**]
-  * [T300坦克底盘小车](zh/zhSmartCAR/T_Series/T300/T300.md)
+  * [T900坦克底盘小车和ESPDuino](zh/zhSmartCAR/T_Series/T900/ESPduinoT900Connect.md)
 * [**【三】机器人配件**]
   * [2自由度支架](zh/zhRobotArm/2DOFRobotArm/2DOFRobotArm.md)
   * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
