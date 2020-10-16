@@ -53,11 +53,11 @@
   * [ESP-F](zh/zhESPSeries/ESP8266/DOIT_ESP-F/DOIT_ESP-F.md)
   * [ESP-F1](zh/zhESPSeries/ESP8266/DOIT_ESP-F1/DOIT_ESP-F1.md)
   * [ESP-F2](zh/zhESPSeries/ESP8266/DOIT_ESP-F2/DOIT_ESP-F2.md)
-  * [ESP-12E](zh/ESPSeries/ESP8266/ESP12E/12e.md)
-  * [ESP-12F](zh/ESPSeries/ESP8266/ESP12F/esp12f.md)
-  * [ESP-01](zh/ESPSeries/ESP8266/ESP01/esp01.md)
-  * [ESP-01S](zh/ESPSeries/ESP8266/ESP01s/esp01s.md)
-  * [ESP-07](zh/zhESPSeries/ESP32/ESP32/esp32.md)
+  * [ESP-12E](zh/zhESPSeries/ESP8266/DOIT_ESP-12E/DOIT_ESP-12E.md)
+  * [ESP-12F](zh/zhESPSeries/ESP8266/DOIT_ESP-12F//DOIT_ESP-12F.md)
+  * [ESP-01](zh/zhESPSeries/ESP8266/DOIT_ESP-01/DOIT_ESP-01.md)
+  * [ESP-01S](zh/zhESPSeries/ESP8266/DOIT_ESP-01S/DOIT_ESP-01S.md)
+  * [ESP-07](zh/zhESPSeries/ESP8266/DOIT_ESP-07/DOIT_ESP-07.md)
   
   
   
