@@ -2,101 +2,13 @@
 
 <center> from SZDOIT </center> 
 
-![ESP-M33](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M3/ESP-M33.png)
 
-# 特点
-
-## SOC特性
-
-内置Tensilica L106超低功耗32位微处理器，主频支持80MHz和160MHz，支持RTOS
-
-内置TCP/IP协议栈
-
-外设接口HSPI、UART、I2C、I2S、IR Remote Control、PWM、GPIO
-
-深度睡眠保持电流为20uA，关断电流小于5uA
-
-2 ms之内唤醒、连接并传递数据包
-
-待机状态消耗功率小于1.0mW(DTIM3)
-
-内置1M字节 SPI Flash
-
-## Wi-Fi特性
-
-支持802.11 b/g/n/e/i
-
-支持Station、SoftAP、SoftAP+STA模式
-
-支持Wi-Fi Direct(P2P)
-
-支持CCMP(CBC-MAC、计数器模式)、TKIP(MIC、RC4)、WAPI(SMS4)、WEP(RC4)、CRC的硬件加速
-
-P2P发现, P2P GO模式/GC模式和P2P电源管理
-
-WPA/PA2 PSK和WPS
-
-802.11 i 安全特征：预认证和TSN
-
-⽀持802.11n（2.4 GHz）
-
-802.1h/RFC1042 帧封装
-
-支持无缝漫游
-
-支持AT远程升级及云端OTA升级
-
-支持Android和iOS设备SmartConfig功能
-
-# 模块外设
-
-2xUART
-
-1xRST
-
-1xEn
-
-1x唤醒管脚
-
-最多8xGPIOs
-
-工作温度范围：-40℃-125℃
-
-模块尺寸：12.3mm×15mm
-
-# 应用场景
-
-● 家用电器     ● 家庭自动化
-
-● 智能插座、智能灯 ● Mesh网络
-
-● 婴儿监控器    ● IP摄像机
-
-● 传感器网络    ● 可穿戴电子产品
-
-● 安全ID标签    ● 无线位置感知
-
-● 无线定位系统信标 ● 工业无线控制
-
-# 模块型号
-
-|  名称  |  天线类型   |
-| :----: | :---------: |
-| ESP-M3 | 板载PCB天线 |
-
-# 模块结构图
-
-![ESP-M30](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M3/ESP-M30.png)
-
-# 文档更新说明
-
-|   日期   | 版本 | 更新内容 |
-| :------: | :--: | :------: |
-| 2017-7-7 | V1.0 | 初次发布 |
 
 #  一.产品概述
 
 ESP-M3模块核心处理器采用高性价比芯片ESP8285。该芯片在较小尺寸封装中集成了增强版的Tensilica’s L106钻石系列32-bit内核处理器，带片上SRAM。ESP8285拥有完整的Wi-Fi网络功能，既能够独⽴应⽤，也可以作为从机搭载于其他主机MCU运⾏。当ESP8285托管应用时，能够直接从外接Flash中启动。内置的⾼速缓冲存储器有利于提⾼系统性能，并且优化存储系统。此外ESP8285只需通过SPI/SDIO接⼝或I2C/UART⼝即可作为Wi-Fi适配器，应⽤到基于任何微控制器的设计中。
+
+![ESP-M33](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M3/ESP-M33.png)
 
 ESP-M3模块支持标准的IEEE802.11 b/g/n/e/i协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
