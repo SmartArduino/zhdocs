@@ -2,82 +2,11 @@
 
 <center> from SZDOIT </center> 
 
-![DMP_L14](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-L1/DMP_L14.png)
-
-# 特点
-
-## 模组特性
-
-内置ESP WiFi芯片
-
-支持五路LED控制
-
-内置LED驱动控制算法，支持调光调色、律动控制
-
-支持本地局域网优先控制
-
-支持云控制
-
-支持红外遥控控制
-
-支持Google Assistant、Amazon Alexa、天猫精灵、小度智能、京东叮咚、小爱同学等多种音箱
-
-支持Android和iOS设备控制
-
-## Wi-Fi特性
-
-支持802.11 b/g/n/e/i
-
-支持ESP-Touch智能配网模式和AP配网模式
-
-支持OTA远程升级
-
-支持批量生产测试
-
-#  模块信息
-
-球泡灯控制引脚：4
-
-工作温度范围：-40℃-125℃
-
-模块尺寸：15mm × 20mm
-
-模块颜色：白色
-
-![DMP_L10](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-L1/DMP_L10.png)
-
-#  应用场景
-
-球泡灯
-
-灯带
-
-吸顶灯
-
-射灯
-
-其他商用照明和情景照明
-
-# 模块型号
-
-| 名称   | 天线类型    |
-| ------ | ----------- |
-| DMP-L1 | 板载PCB天线 |
-
-# 典型应用
-
-![DMP_L11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-L1/DMP_L11.png)
-
-# 文档更新说明
-
-|    日期    | 版本 |   更新内容   |
-| :--------: | :--: | :----------: |
-| 2018-7-25  | V1.0 |   初次发布   |
-| 2018-11-28 | V2.0 | 更改引脚定义 |
-
 # 一. 产品基本参数
 
 DMP-L1模块核心处理器采用工业级芯片ESP8285。该芯片在较小尺寸封装中集成了增强版的Tensilica’s L106钻石系列32-bit内核处理器。ESP8285拥有完整的Wi-Fi网络功能，可以脱离控制器独立使用，其内置的高速缓冲存储器大大提供了CPU性能。
+
+![DMP_L14](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-L1/DMP_L14.png)
 
 DMP-L1模块支持标准的IEEE802.11 b/g/n/e/i协议以及完整的TCP/IP协议栈。
 
