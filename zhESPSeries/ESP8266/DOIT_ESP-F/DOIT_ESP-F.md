@@ -2,111 +2,11 @@
 
 <center> from SZDOIT </center> 
 
-![ESP-F_3](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F/ESP-F_3.png)
-
-# 特点
-
-## SOC特性
-
-内置Tensilica L106超低功耗32位微处理器，主频支持80MHz和160MHz，支持RTOS
-
-内置TCP/IP协议栈
-
-内置1路10 bit⾼精度ADC
-
-外设接口HSPI、UART、I2C、I2S、IR Remote Control、PWM、GPIO
-
-深度睡眠保持电流为10uA，关断电流小于5uA
-
-2 ms之内唤醒、连接并传递数据包
-
-待机状态消耗功率小于1.0mW(DTIM3)
-
-## Wi-Fi特性
-
-支持802.11 b/g/n/e/i
-
-支持Station、SoftAP、SoftAP+STA模式
-
-支持Wi-Fi Direct(P2P)
-
-支持CCMP(CBC-MAC、计数器模式)、TKIP(MIC、RC4)、WAPI(SMS4)、WEP(RC4)、CRC的硬件加速
-
-P2P发现, P2P GO模式/GC模式和P2P电源管理
-
-WPA/PA2 PSK和WPS
-
-802.11 i 安全特征：预认证和TSN
-
-⽀持802.11n（2.4 GHz）
-
-802.1h/RFC1042 帧封装
-
-无缝漫游支持
-
-支持AT远程升级及云端OTA升级
-
-支持Android和iOS设备SmartConfig功能
-
-# 模块外设
-
-2xUART
-
-1xADC
-
-1xEn
-
-1x唤醒管脚
-
-1xHSPI
-
-1xI2C
-
-1xI2S
-
-最多11xGPIOs
-
-4M字节 SPI Flash
-
-工作温度范围：-40℃-85℃
-
-模块尺寸：16mm×24mm
-
-# 应用场景
-
-● 家用电器                           ● 家庭自动化
-
-● 智能家居                           ● Mesh网络
-
-● 婴儿监控器                       ● IP摄像机
-
-● 传感器网络                       ● 可穿戴电子产品
-
-● 安全ID标签                       ● 无线位置感知
-
-无线定位系统信标               ● 工业无线控制
-
-# 模块型号
-
-| 名称  | 天线类型    |
-| ----- | ----------- |
-| ESP-F | 板载PCB天线 |
-
-# 模块结构图
-
-![ESP-F_0](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F/ESP-F_0.png)
-
-# 文档更新说明
-
-| 日期      | 版本 | 更新内容             |
-| --------- | ---- | -------------------- |
-| 2017-3-14 | V1.0 | 初版                 |
-| 2017-3-18 | V1.1 | 增加推荐PCB设计章节  |
-| 2018-9-11 | V1.2 | 优化最小系统参数设计 |
-
 # 一. 产品概述
 
 ESP-F模块核心处理器采用高性价比芯片ESP8266EX。该芯片在较小尺寸封装中集成了业界领先的Tensilica’s L106 超低功耗32位微型MCU，带有16位精简模式，主频⽀持80 MHz和160 MHz，支持RTOS。ESP8266EX拥有完整的Wi-Fi网络功能，既能够独⽴应⽤，也可以作为从机搭载于其他主机MCU运⾏。当ESP8266EX独⽴应⽤时，能够直接从外接Flash中启动。内置的⾼速缓冲存储器有利于提⾼系统性能，并且优化存储系统。此外ESP8266EX只需通过SPI/SDIO 接⼝或I2C/UART⼝即可作为Wi-Fi适配器，应⽤到基于任何微控制器的设计中。
+
+![ESP-F_3](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F/ESP-F_3.png)
 
 ESP-F模块支持标准的IEEE802.11 b/g/n/e/i协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
