@@ -2,69 +2,7 @@
 
 <center> from SZDOIT </center> 
 
-# 特点
 
-##  模组特性
-
-内置ESP WiFi芯片
-
-支持多达四路继电器控制
-
-支持本地局域网优先控制
-
-支持云控制
-
-支持Google Assistant、Amazon Alexa、天猫精灵、小度智能、京东叮咚、小爱同学等多种音箱
-
-支持Android和iOS设备控制
-
-##  Wi-Fi特性
-
-支持802.11 b/g/n/e/i
-
-支持ESP-Touch智能配网模式和AP配网模式
-
-支持OTA远程升级
-
-支持批量生产测试
-
-# 模块信息
-
-继电器控制引脚：4
-
-工作温度范围：-40℃-105℃
-
-模块尺寸：18mm19.6mm3mm
-
-模块颜色：黑色
-
-![DMP-P11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P11.png)
-
-# 应用场景
-
-智能插座
-
-墙壁开关
-
-排插
-
-其他智能开关设备
-
-# 模块型号
-
-| 名称   | 天线类型    |
-| ------ | ----------- |
-| DMP-P1 | 板载PCB天线 |
-
-# 典型应用
-
-![DMP-P12](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P12.png)
-
-# 文档更新说明
-
-| 日期      | 版本 | 更新内容 |
-| --------- | ---- | -------- |
-| 2018-7-15 | V1.0 | 初次发布 |
 
 # 一.产品基本参数
 
