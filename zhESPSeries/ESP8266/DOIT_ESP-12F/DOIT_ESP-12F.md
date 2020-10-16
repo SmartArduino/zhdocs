@@ -9,7 +9,7 @@ ESP-12F WiFi 模块是一款低功耗高性价比的嵌入式无线网络控制�
 
 该模块支持标准的 IEEE802.11 b/g/n 协议，完整的 TCP/IP 协议栈。用户可以使用该模块为现有的设备添加联网功能，也可以构建独立的网络控制器。 
 
-![img](wps3.jpg)![img](wps4.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps3.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps4.jpg) 
 
 图-1  对比图（立体图）
 
@@ -17,7 +17,7 @@ ESP-12F WiFi 模块是一款低功耗高性价比的嵌入式无线网络控制�
 
 ## 2.1 系统架构
 
-![img](wps5.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps5.png)
 
 ## 2.2 硬件参数 
 
@@ -69,11 +69,11 @@ o 模组尺寸 24mm  16mm  3mm
 
 # 三、引脚描述 
 
-![img](wps6.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps6.jpg) 
 
 图-3 管脚图（正视图）
 
-![img](wps7.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps7.png) 
 
 ​	图-4 模块尺寸（侧视图） 
 
@@ -145,13 +145,13 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 | I2C 接口  | IO14(SCL), IO2(SDA)                                          | 可外接传感器及显示屏等                                       |
 | UART 接口 | UART0: TXD(U0TXD),RXD(U0RXD),IO15(RTS),IO13(CTS)             | 可外接 UART 接口的设备 下载：U0TXD+U0RXD 或者 GPIO2+U0RXD 通信(UART0):U0TXD,U0RXD,MTDO(U0RTS),MTCK(U0CTS) Debug：UART1_TXD(GPIO2)可作为 debug 信息的打印 |
 |           | UART1: IO2(TXD)                                              | UART0 在 ESP8266-12S 上电默认会输出一些打印信息。对此敏感的应用，可以使用 UART 的内部引脚交换功能，在初始化的时候，将 U0TXD,U0RXD 分别与 U0RTS;U0CTS 交换。硬件上将 MTDOMTCK 连接到对应的外部 MCU 的串口进口通信 |
-| I2S 接口  | I2S 输入： IO12 (I2SI_DATA); IO13 (I2SI_BCK ); IO14 (I2SI_WS); ![img](wps8.png)I2S 输出: IO15 (I2SO_BCK ); IO3 (I2SO_DATA); IO2 (I2SO_WS ); | 主要用于音频采集、 处理和传输                                |
+| I2S 接口  | I2S 输入： IO12 (I2SI_DATA); IO13 (I2SI_BCK ); IO14 (I2SI_WS); ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps8.png)I2S 输出: IO15 (I2SO_BCK ); IO3 (I2SO_DATA); IO2 (I2SO_WS ); | 主要用于音频采集、 处理和传输                                |
 
 # 五、电气特性 
 
 ## 5.1 功耗 
 
-![img](wps9.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps9.png) 
 
 | Deep Sleep                              | 20uA  |
 | --------------------------------------- | ----- |
@@ -243,7 +243,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
 # 六、原理图 
 
-![img](wps10.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps10.jpg) 
 
 图-5 ESP-12F 原理图
 
@@ -253,7 +253,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
  
 
-![img](wps11.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps11.jpg) 
 
 图-6 ESP-12F 最小系统图 
 
@@ -281,15 +281,15 @@ ESP-12F模组可以焊接到 PCB 板上。为了使终端产品获得最佳的�
 
 PCB 天线放在底板上也是允许的，只要天线下方不铺铜即可，参考方案 3。 
 
-![img](wps12.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps12.jpg) 
 
  方案 1：天线在板框外 
 
-![img](wps13.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps13.jpg) 
 
  方案 2：天线沿板边放置且下方挖空 
 
-![img](wps14.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps14.jpg) 
 
  方案 3：天线沿板边放置且下方均不铺铜 
 
