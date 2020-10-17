@@ -5,6 +5,8 @@
 
 ESP32 是集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，采用台积电（TSMC）超低功耗的 40 纳米工艺，拥有最佳的功耗性能、射频性能、稳定性、通用性和可靠性，适用于各种应用和不同功耗需求。
 
+![wps32](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps32.png)
+
 ## 1.1 专用解决方案
 
 ### 1.1.1 超低功耗
