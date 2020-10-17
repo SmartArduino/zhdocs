@@ -35,7 +35,7 @@
 ![videoEspduino](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/videoEspduino.jpg)
 
 * [固件](https://github.com/SmartArduino/ESPboard/blob/master/New_ESPDuinoCar170420.zip)
-* [用户手册l](https://github.com/SmartArduino/ESPboard/blob/master/Manul_for_Video_Car.pdf)
+* [用户手册](https://github.com/SmartArduino/ESPboard/blob/master/Manul_for_Video_Car.pdf)
 * [如何下载固件](https://github.com/SmartArduino/SZDOITWiKi/wiki/Arduino---ESPduino)
 
       
