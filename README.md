@@ -154,7 +154,7 @@
 
 * [基于ESPDuino的智能小车固件](zh/zhControlPanel/ESPDuino/firmware.md)
 * [智能小车App](zh/Robot/Controller/app/AppforSmartCar.md)
-* [大功率板](zh/Robot/Controller/controller/BigPowerBoard.md)
+* [大功率板](zh/zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
 * [ESPduino控制器](zh/zhControlPanel/ESPDuino/ESPDuino.md)
 * [Arduino的电机驱动板使用](zh/Robot/Controller/controller/unomotorshield.md)
 * [基于手柄的32路舵机控制板使用](zh/Robot/Controller/ps2/PS2SERVO32.md)
