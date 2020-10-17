@@ -6,7 +6,7 @@
 
 本手册只是简单介绍如何搭建 ESPduino 的开发环境及相关参数设置。新版 ESPduino 开发板无需按键。
 
-![ESPDuino1](ESPDuino1.jpg)
+![ESPDuino1https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/](ESPDuino1.jpg)
 
 # 一、安装 ESPduino 开发环境
 
