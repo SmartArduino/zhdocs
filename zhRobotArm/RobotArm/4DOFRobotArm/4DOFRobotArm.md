@@ -5,7 +5,7 @@
 
 这个一款新型的3自由度的舵机机械臂，具有负载大、性价比高等特点，非常适用于DIY创作。
 
-![img](wps1.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps1.jpg) 
 
  
 
@@ -31,37 +31,37 @@
 
 安装过程遵循从下往上安装的原则，具体步骤如下：
 
-![img](wps2.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps2.jpg) 
 
-![img](wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps3.jpg) 
 
-![img](wps4.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps4.jpg) 
 
-![img](wps5.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps5.jpg) 
 
-![img](wps6.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps6.jpg) 
 
-![img](wps7.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps7.jpg) 
 
-![img](wps8.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps8.jpg) 
 
-![img](wps9.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps9.jpg) 
 
-![img](wps10.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps10.jpg) 
 
-![img](wps11.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps11.jpg) 
 
-![img](wps12.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps12.jpg) 
 
-![img](wps13.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps13.jpg) 
 
-![img](wps14.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps14.jpg) 
 
-![img](wps15.jpg)![img](wps16.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps15.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps16.jpg) 
 
-![img](wps17.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps17.jpg) 
 
-![img](wps18.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFRobotArm/wps18.jpg) 
 
 #  支持与服务
 
