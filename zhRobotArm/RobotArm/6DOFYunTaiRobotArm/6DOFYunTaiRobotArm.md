@@ -2,9 +2,9 @@
 
 <center> from SZDOIT </center>
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/wps27.png)
+# 一、清单
 
-# 清单
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/wps27.png)
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/wps1.png) 
 
@@ -78,7 +78,7 @@
 
 说明：由于机械臂是有几个关节组成，如图，可以先组装好整个机械臂然后再和底盘组装，又或者从底座开始往上由低到高组装，次序可不分先后。本说明是先安装底座的舵机部分1然后再安装2、 3、 4 节，最后安装机械爪。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/wps27.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/wps27.png) 
 
 1. 取1个多功能支架、U型支架、一个小舵盘和小轴承。先安装U型支架和舵盘。如图，对准螺丝孔，用M3*8螺丝和螺母固定。
 
@@ -190,7 +190,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/wps71.jpg) 
 
-# 
+
 
 #  支持与服务
 
