@@ -1,4 +1,4 @@
-<center><font size=10> 3自由度机械臂</center></font>
+<center><font size=10> 4自由度机械臂</center></font>
 <center> From SZDOIT</center>
 
 # 一、简介
