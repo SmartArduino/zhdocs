@@ -69,7 +69,9 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TP_Series/miniTP100/wps20.png) 
 
-请注意：联轴器上的孔一定要对准电机轴平的一端，联轴器卡到箭头指的位置![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TP_Series/miniTP100/wps21.png)
+请注意：联轴器上的孔一定要对准电机轴平的一端，联轴器卡到箭头指的位置
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TP_Series/miniTP100/wps21.png)
 
 5.装履带
 
