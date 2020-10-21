@@ -116,6 +116,7 @@
 
 * [**【 一】完整车架底盘**]
   * [C4 4WD底盘 小车](zh/zhSmartCAR/C_Series/C4/C4.md)
+  * [C101小车安装说明](zh/zhSmartCAR/C_Series/C101/C101.md)
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
   * [TP101坦克底盘小车](zh/zhSmartCAR/TP_Series/TP101/TP101.md)
   * [miniTP101坦克底盘小车](zh/zhSmartCAR/TP_Series/miniTP101/miniTP101.md)
