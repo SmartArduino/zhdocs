@@ -118,6 +118,7 @@
   * [C4 4WD底盘 小车](zh/zhSmartCAR/C_Series/C4/C4.md)
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
   * [TP101坦克底盘小车](zh/zhSmartCAR/TP_Series/TP101/TP101.md)
+  * [miniTP101坦克底盘小车](zh/zhSmartCAR/TP_Series/miniTP101/miniTP101.md)
   * [TS100坦克底盘小车](zh/zhSmartCAR/TS_Series/TS100/TS100.md)
   * [TS100自动循迹避障使用说明](zh/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/TS100AvoidanceObstacle.md)
   * [TS300坦克底盘小车](zh/zhSmartCAR/TS_Series/TS300/TS300.md)
