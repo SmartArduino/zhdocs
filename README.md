@@ -64,7 +64,7 @@
 * **【三】ESP8266开发板**
   
   * [ESPduino=带WiFi的Arduino开发板](zh/ESPSeries/ESP8266/ESPDUINO/espduino.md)
-  * [WiFi扩展板=给Arduino增加WiFi](zh/C/C语言学习笔记-CH03-数组.md)
+  * [WiFi扩展板=给Arduino增加WiFi](zh/zhControlPanel/WiFiShiled/WiFiShiled.md)
   
 
 ## ESP8285
