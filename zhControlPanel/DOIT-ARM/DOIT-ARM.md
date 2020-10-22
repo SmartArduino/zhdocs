@@ -2,15 +2,11 @@
 
 <center> from SZDOIT </center>
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps1.jpg)
-
-资料链接：[https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg ) 
-
-提取码：doit
-
 # 一、产品简介
 
 DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560主芯片，16MHz主频。主板支持4个电机驱动，默认为16细分。支持多种屏幕、7引脚以内的OLED显示频，可外接SD卡，预留有I2C、SPI、UART等接口；本司提供一套完整的使用工具，操作简单使用方便。同时可支持Marlin2.0固件。
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps1.jpg)
 
 # 二、适用环境
 
@@ -74,7 +70,11 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 
 2. 请不要在通电的情况下插拔电机和驱动，容易造成驱动电机烧坏；也不要在电机运行中调电流。正确的做法是：先断开电源，拔掉电机，在重新上电，调电位器，测量电位器上的输出电压，直到测量的电压与预期的相同。切勿插反驱动，否则会烧坏驱动，甚至烧坏主板
 
-# 九、支持与服务
+# 支持与服务
+
+资料链接：[https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg ) 
+
+提取码：doit
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
