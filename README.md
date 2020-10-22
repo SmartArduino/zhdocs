@@ -153,6 +153,7 @@
   * [15自由度人形机器人](zh/zhRobotArm/HumanoidRobot/15DOFRobot/15DOFRobot.md)
   * [17自由度人形机器人](zh/zhRobotArm/HumanoidRobot/17DOFRobot/17DOFRobot.md)
   * [19自由度人形机器人](zh/zhRobotArm/HumanoidRobot/19DOFRobot/19DOFRobot.md)
+  * [ViVI人形机器人的组装与调试](zh/zhRobotArm/HumanoidRobot/ViViRobot/ViViRobot.md)
 
 ## 控制器
 
