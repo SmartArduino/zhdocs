@@ -7,7 +7,7 @@
 
 这是一款基于MEGA328P的大功率直流电机的控制和驱动二合一的Arduino板子，使用非常简单方便，支持PS2手柄、WiFi以及蓝牙三种控制模式，非常适用我们店各种大功率小车。
 
-![img](wps1.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ArduinoBigPowerBoard/wps1.png) 
 
 # 二、特点
 
@@ -41,9 +41,9 @@
 
 8. 电机输出过电流保护软件预留检测，可软件设置保护阈值（接到ATMEGA328外部中断口D2，具体计算请参考原理图设计参数，保护电流可软件修改≤20A）；
 
-![img](wps2.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ArduinoBigPowerBoard/wps2.jpg) 
 
-![img](wps3.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ArduinoBigPowerBoard/wps3.jpg)
 
  
 
