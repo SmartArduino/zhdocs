@@ -24,7 +24,7 @@
 ## W600
 
 * **【一】W600 Module
-  * [W600芯片](C/C语言学习笔记-CH01-编程基础.md)
+  * [W600芯片](zh/W600Series/DateSheet/DateSheet.md)
   * [W600模组](C/C语言学习笔记-CH02-基本语法.md)
   * [W600 开发板](C/C语言学习笔记-CH03-数组.md)
   
