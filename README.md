@@ -21,14 +21,15 @@
 
 # 联盛德系列
 
-## W600
+## W60X
 
-* **【一】W600 Module**
+* **【一】W600简介**
   * [W600芯片手册](zh/W600Series/DateSheet/DateSheet.md)
   * [W600寄存器手册](zh/W600Series/RegisterManual/RegisterManual.md)
-  * [W600模组](zh/W600Series/DateSheet/DateSheet.md)
-  * [W600 开发板](zh/W600Series/DateSheet/DateSheet.md)
-  
+
+* **【一】W601简介**
+  * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
+
 * **【二】应用实例**
 
 * **【二】开发工具**
