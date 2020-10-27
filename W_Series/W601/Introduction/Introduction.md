@@ -5,7 +5,7 @@
 
 W601是北京联盛德自主研发设计的一款嵌入式WiFi芯片，该系列模块支持标准的802.11 b/g/n 协议，内置完整的 TCP/IP 协议栈。
 
-![w601_soc](w601_soc-1603777209747.png)
+![w601_soc](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W601/Introduction/w601_soc-1603777209747.png)
 
 W601\_SoC芯片集成 Cortex-M3 内核，内置 Flash，集成射频收发前端 RFTransceiver，CMOS PA 功率放 大器，基带处理器/媒体访问控制，支持 SDIO、SPI、UART、GPIO、I²C、PWM、I²S、7816、LCD、ADC 等接口, 支持多种加解密协议，如 PRNG(Pseudo random Number Generator)/ SHA1/ MD5/ RC4/DES/ 3DES/ AES/ CRC 等。
 
@@ -33,7 +33,7 @@ W601是一款支持多接口、多协议的无线局域网 IEEE802.11n（1T1R）
 
 # 三、引脚说明
 
-![W601_Pin.png](w601_pinlist.png)
+![W601_Pin.png](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W601/Introduction/w601_pinlist.png)
 
 # 四、资源下载
 
