@@ -30,8 +30,7 @@
 * **【二】W601简介**
   * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
 
-* **【二】应用实例**
-* **【】W60X模组**
+* **【三】W60X模组**
   * [TB-01模组](zh/W_Series/W600/Module/tb-01.md)
   * [TB-02模组](zh/W_Series/W600/Module/tb-02.md)
   * [TW-01模组](zh/W_Series/W600/Module/tw-01.md)
