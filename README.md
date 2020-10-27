@@ -24,7 +24,8 @@
 ## W600
 
 * **【一】W600 Module**
-  * [W600芯片](zh/W600Series/DateSheet/DateSheet.md)
+  * [W600芯片手册](zh/W600Series/DateSheet/DateSheet.md)
+  * [W600寄存器手册](zh/W600Series/RegisterManual/RegisterManual.md)
   * [W600模组](zh/W600Series/DateSheet/DateSheet.md)
   * [W600 开发板](zh/W600Series/DateSheet/DateSheet.md)
   
