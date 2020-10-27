@@ -24,8 +24,8 @@
 ## W60X
 
 * **【一】W600简介**
-  * [W600芯片手册](zh/W600Series/DateSheet/DateSheet.md)
-  * [W600寄存器手册](zh/W600Series/RegisterManual/RegisterManual.md)
+  * [W600芯片手册](zh/W_Series/W600/DateSheet/DateSheet.md)
+  * [W600寄存器手册](zh/W_Series/W600/RegisterManual/RegisterManual.md)
 
 * **【二】W601简介**
   * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
@@ -40,6 +40,9 @@
 
 
 * **【二】开发工具**
+  * [OneShot一键配网](zh/W_Series/W600/Module/tw-07.md)
+* 
+  
 * **【二】入门指南**
     * [W600 Arduino入门指南](zh/W600Series/arduino.md)
     * [W60X RT-Thread入门指南](zh/W600Series/DateSheet/rt-thread.md)
