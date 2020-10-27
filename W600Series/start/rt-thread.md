@@ -20,7 +20,7 @@
 
 ## 3.2 工程目录介绍
 
-![image](1551025944478.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/W600Series/start/1551025944478.png)
 
 
 
