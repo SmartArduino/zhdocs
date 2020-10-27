@@ -31,12 +31,12 @@
   * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
 
 * **【三】W60X模组**
-  * [TB-01模组](zh/W_Series/W600/Module/tb-01.md)
-  * [TB-02模组](zh/W_Series/W600/Module/tb-02.md)
-  * [TW-01模组](zh/W_Series/W600/Module/tw-01.md)
-  * [TW-02模组](zh/W_Series/W600/Module/tw-02.md)
-  * [TW-03模组](zh/W_Series/W600/Module/tw-03.md)
-  * [TW-07模组](zh/W_Series/W600/Module/tw-07.md)
+  * [TB-01 WiFi 模组](zh/W_Series/W600/Module/tb-01.md)
+  * [TB-02 WiFi 模组](zh/W_Series/W600/Module/tb-02.md)
+  * [TW-01 WiFi 模组](zh/W_Series/W600/Module/tw-01.md)
+  * [TW-02 WiFi 模组](zh/W_Series/W600/Module/tw-02.md)
+  * [TW-03 WiFi 模组](zh/W_Series/W600/Module/tw-03.md)
+  * [TW-07 WiFi 模组](zh/W_Series/W600/Module/tw-07.md)
 
 
 * **【二】开发工具**
