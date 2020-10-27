@@ -18,19 +18,24 @@
 
 ## 工具类
   * 软件(/GeneralSource/softwareTools.md)
+  * [OneShot一键配网](zh/W_Series/Tools/oneshot.md)
+  * [串口调试工具](zh/W_Series/Tools/serial.md)
 
 # 联盛德系列
 
 ## W60X
 
-* **【一】W600简介**
+* **【一】入门指南**
+    * [W600 Arduino入门指南](zh/W600Series/arduino.md)
+    * [W60X RT-Thread入门指南](zh/W600Series/DateSheet/rt-thread.md)
+* **【二】W600简介**
   * [W600芯片手册](zh/W_Series/W600/DateSheet/DateSheet.md)
   * [W600寄存器手册](zh/W_Series/W600/RegisterManual/RegisterManual.md)
 
-* **【二】W601简介**
+* **【三】W601简介**
   * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
 
-* **【三】W60X模组**
+* **【四】W60X模组**
   * [TB-01 WiFi 模组](zh/W_Series/W600/Module/tb-01.md)
   * [TB-02 WiFi 模组](zh/W_Series/W600/Module/tb-02.md)
   * [TW-01 WiFi 模组](zh/W_Series/W600/Module/tw-01.md)
@@ -39,14 +44,7 @@
   * [TW-07 WiFi 模组](zh/W_Series/W600/Module/tw-07.md)
 
 
-* **【二】开发工具**
-  * [OneShot一键配网](zh/W_Series/Tools/oneshot.md)
-* [串口调试工具](zh/W_Series/Tools/serial.md)
-  
-* **【二】入门指南**
-    * [W600 Arduino入门指南](zh/W600Series/arduino.md)
-    * [W60X RT-Thread入门指南](zh/W600Series/DateSheet/rt-thread.md)
-* **【三】常见问题**
+* **【五】常见问题**
   * [W600常见问题](zh/W600Series/faq/index.md)
 
 
