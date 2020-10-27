@@ -40,8 +40,8 @@
 
 
 * **【二】开发工具**
-  * [OneShot一键配网](zh/W_Series/W600/Module/tw-07.md)
-* [串口调试工具](zh/W_Series/W600/Module/tw-07.md)
+  * [OneShot一键配网](zh/W_Series/Tools/oneshot.md)
+* [串口调试工具](zh/W_Series/Tools/serial.md)
   
 * **【二】入门指南**
     * [W600 Arduino入门指南](zh/W600Series/arduino.md)
