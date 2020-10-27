@@ -34,8 +34,8 @@
 * **【二】开发工具**
 
 * **【二】入门指南**
-    * [Arduino](zh/W600Series/arduino.md)
-    * [RT-Thread](zh/W600Series/DateSheet/DateSheet.md)
+    * [W600 Arduino入门指南](zh/W600Series/arduino.md)
+    * [W60X RT-Thread入门指南](zh/W600Series/DateSheet/rt-thread.md)
 
 * **【三】常见问题**
   * [W600常见问题](zh/W600Series/faq/index.md)
