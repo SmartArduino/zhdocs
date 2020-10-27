@@ -27,17 +27,23 @@
   * [W600芯片手册](zh/W600Series/DateSheet/DateSheet.md)
   * [W600寄存器手册](zh/W600Series/RegisterManual/RegisterManual.md)
 
-* **【一】W601简介**
+* **【二】W601简介**
   * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
 
 * **【二】应用实例**
+* **【】W60X模组**
+  * [TB-01模组](zh/W_Series/W600/Module/tb-01.md)
+  * [TB-02模组](zh/W_Series/W600/Module/tb-02.md)
+  * [TW-01模组](zh/W_Series/W600/Module/tw-01.md)
+  * [TW-02模组](zh/W_Series/W600/Module/tw-02.md)
+  * [TW-03模组](zh/W_Series/W600/Module/tw-03.md)
+  * [TW-07模组](zh/W_Series/W600/Module/tw-07.md)
+
 
 * **【二】开发工具**
-
 * **【二】入门指南**
     * [W600 Arduino入门指南](zh/W600Series/arduino.md)
     * [W60X RT-Thread入门指南](zh/W600Series/DateSheet/rt-thread.md)
-
 * **【三】常见问题**
   * [W600常见问题](zh/W600Series/faq/index.md)
 
