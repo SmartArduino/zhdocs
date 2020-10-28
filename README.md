@@ -18,18 +18,18 @@
 
 ## 工具类
   * 软件(/GeneralSource/softwareTools.md)
-  * [W60X OneShot一键配网](zh/W_Series/Tools/oneshot.md)
-  * [W600串口调试工具](zh/W_Series/Tools/serial.md)
+  * [W60X OneShot一键配网](zh/zhW_Series/Tools/oneshot.md)
+  * [W600串口调试工具](zh/zhW_Series/Tools/serial.md)
 
 # 联盛德系列
 
 ## W60X
 
 * **【一】入门指南**
-  * [W600 Arduino入门指南](zh/W_Series/W600/star/arduino.md)
-  * [W60X RT-Thread入门指南](zh/W_Series/W600/star/rt-thread.md)
-  * [W600 Keil开发环境搭建](zh/W_Series/W600/star/ide.md)
-  * [W600 固件烧录指南](zh/W_Series/W600/star/download.md)
+  * [W600 Arduino入门指南](zh/zhW_Series/W600/star/arduino.md)
+  * [W60X RT-Thread入门指南](zh/zhW_Series/W600/star/rt-thread.md)
+  * [W600 Keil开发环境搭建](zh/zhW_Series/W600/star/ide.md)
+  * [W600 固件烧录指南](zh/zhW_Series/W600/star/download.md)
 * **【二】调试使用指南**
     * [W600 基于Jlink的SWD接口调试指南](app/swd.md)
     * [W600 基于RI指令集的SPI调试指南](app/spi.md)
@@ -40,17 +40,17 @@
 
 
 * **【三】W600简介**
-  * [W600芯片手册](zh/W_Series/W600/DateSheet/DateSheet.md)
-  * [W600寄存器手册](zh/W_Series/W600/RegisterManual/RegisterManual.md)
+  * [W600芯片手册](zh/zhW_Series/W600/DateSheet/DateSheet.md)
+  * [W600寄存器手册](zh/zhW_Series/W600/RegisterManual/RegisterManual.md)
 * **【四】W601简介**
-  * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
+  * [W601简介](zh/zhW_Series/W601/Introduction/Introduction.md)
 * **【五】W60X模组**
-  * [TB-01 WiFi 模组](zh/W_Series/W600/Module/tb-01.md)
-  * [TB-02 WiFi 模组](zh/W_Series/W600/Module/tb-02.md)
-  * [TW-01 WiFi 模组](zh/W_Series/W600/Module/tw-01.md)
-  * [TW-02 WiFi 模组](zh/W_Series/W600/Module/tw-02.md)
-  * [TW-03 WiFi 模组](zh/W_Series/W600/Module/tw-03.md)
-  * [TW-07 WiFi 模组](zh/W_Series/W600/Module/tw-07.md)
+  * [TB-01 WiFi 模组](zh/zhW_Series/W600/Module/tb-01.md)
+  * [TB-02 WiFi 模组](zh/zhW_Series/W600/Module/tb-02.md)
+  * [TW-01 WiFi 模组](zh/zhW_Series/W600/Module/tw-01.md)
+  * [TW-02 WiFi 模组](zh/zhW_Series/W600/Module/tw-02.md)
+  * [TW-03 WiFi 模组](zh/zhW_Series/W600/Module/tw-03.md)
+  * [TW-07 WiFi 模组](zh/zhW_Series/W600/Module/tw-07.md)
 
 * **【六】常见问题**
   * [W600常见问题](zh/W600Series/faq/index.md)
