@@ -32,7 +32,7 @@
   * [W600 固件烧录指南](zh/zhW_Series/start/download/download.md)
 * **【二】调试使用指南**
     * [W600 基于Jlink的SWD接口调试指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
-    * [W600 基于RI指令集的SPI调试指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
+    * [W600 基于RI指令集的SPI调试指南](zh/zhW_Series/Debugging/RI_SPI/spi.md)
     * [W600 无线透传调试工具使用指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
     * [AT固件版本说明](zh/zhW_Series/Debugging/Jlink/Jlink.md)
     * [兼容版本AT使用指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
