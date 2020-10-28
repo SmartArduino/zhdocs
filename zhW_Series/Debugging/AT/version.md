@@ -1,6 +1,9 @@
-# AT固件版本说明
+<center><font size=10> AT固件版本说明 </center></font>
+<center> From SZDOIT</center>
 
-![img](../.assets/at/version/version.png)
+
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/version.png)
 
 W600 系列wifi产品目前拥有两个版本的AT固件；
 
