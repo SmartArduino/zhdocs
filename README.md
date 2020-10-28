@@ -31,12 +31,12 @@
   * [W600 Keil开发环境搭建](zh/zhW_Series/start/ide/ide.md)
   * [W600 固件烧录指南](zh/zhW_Series/start/download/download.md)
 * **【二】调试使用指南**
-    * [W600 基于Jlink的SWD接口调试指南](app/swd.md)
-    * [W600 基于RI指令集的SPI调试指南](app/spi.md)
-    * [W600 无线透传调试工具使用指南](app/trans.md)
-    * [AT固件版本说明](at/version.md)
-    * [兼容版本AT使用指南](at/esp-start.md)
-    * [联盛德版本AT使用指南](at/wm-start.md)
+    * [W600 基于Jlink的SWD接口调试指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
+    * [W600 基于RI指令集的SPI调试指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
+    * [W600 无线透传调试工具使用指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
+    * [AT固件版本说明](zh/zhW_Series/Debugging/Jlink/Jlink.md)
+    * [兼容版本AT使用指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
+    * [联盛德版本AT使用指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
 
 
 * **【三】W600简介**
