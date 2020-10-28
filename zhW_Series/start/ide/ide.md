@@ -10,7 +10,7 @@ W600是联盛德新一代支持多接口、多协议的无线局域网802.11n（
 
 W600芯片只有5mm x 5mm 大小，但集成度非常高。芯片内部集成了 RF Switch、Balun、低噪声放大器、滤波器、功率放大器、电源管理模块等，此外还内置了1MByte Flash，使得芯片外围电路器件更少，且模块体积更小、成本更优。W600不仅提供了更加丰富的接口和更大的内存空间，还集成了各种加解密硬件加速器，可提供更快的加解密算法执行速度。芯片采用业界通用的 Cortex-M3 处理器，代码可移植性更强、开发环境友善。
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/block.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/block.png)
 
 # 2 准备工作
 
@@ -30,7 +30,7 @@ W600芯片只有5mm x 5mm 大小，但集成度非常高。芯片内部集成了
 
 TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发板引出了芯片的所有IO，并且内置LDO和UART传输芯片，只需一根 Micro USB 数据线与电脑连接即可使用，支持一键下载，外设拥有5个环形LED和2颗按键，调试操作极其方便。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/tb_01.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/tb_01.png)
 
 # 4 KEil 环境搭建
 
@@ -38,13 +38,13 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 由于 SDK 需要 Cortex-M3 的 Device Pack 支持，如果在线下载速度较慢 或 安装遇到问题，建议安装 [MDK 5](https://www.keil.com/download/product/) 的同时也安装对应的 [Legacy 版本](http://www.keil.com/mdk5/legacy/)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/mdk_legacy.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/mdk_legacy.png)
 
 ## 4.2 打开工程
 
 打开下载的SDK工程，找到 \SDK\Tools\Keil\Project\WM\_W600.uvproj 文件并打开
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/mdk_open_prj.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/mdk_open_prj.png)
 
 注意：若提示工程打开失败，请检查 MDK 是否按照上一章节进行正确配置
 
@@ -54,16 +54,16 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 修改 SDK 打印信息
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/modify_user_main.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/modify_user_main.png)
 
 ## 4.4 编译
 
 点击菜单栏可进行编译
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/mdk_build_prj.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/mdk_build_prj.png)
 控制台窗口输出如下：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/build_output.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/build_output.png)
 
 # 5.GCC环境搭建
 
@@ -71,17 +71,17 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 双击下载的 W600_IDE_Setup.exe ,如图，自行选择要解压的目录；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/decompression.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/decompression.png)
 
 解压后的目录如下
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/list.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/list.png)
 
 ## 5.2 配置
 
 1.  点击 ConfigTool.exe 弹出配置界面；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/En_path.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/En_path.png)
 
 2.  点击 Default 按键，自动搜寻Eclipse Path 和 Cygwin Path路径；
 
@@ -89,7 +89,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 4.  点击保存，使配置生效。可以在任何目录下，右键打开cygwin命令框。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/cygwin.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/cygwin.png)
 
 ## 5.3 导入新工程
 
@@ -97,15 +97,15 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 1.  点击 file-> import
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/import.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/import.png)
 
 2.  点击 C/C++，选择 Existing Code as Makefile Project
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/import_1.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/import_1.png)
 
 3.  去除 C++ 支持，选择 Cygwin GCC ; 点击 Browser , 选中我们之前下载好的SDK工程
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/import_2.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/import_2.png)
 
 4.  点击Finish完成工程的导入
 
@@ -113,7 +113,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 右键需要编译的工程,点击 Clean project, 清除完后再右键工程，点击 Build Project 即可，出现 Build fininsh！则编译正常无误，可以烧录固件。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/gcc_build.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/gcc_build.png) 
 
 # 6.固件烧录与调试
 
@@ -127,7 +127,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 2.  打开星通智联串口调试助手
 3. 打开对应的串口，并点击 复位设备(或按下 RST 按键) 进行设备复位
 4. 串口打印信息如下，说明开发板正常工作
-![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/fw_reboot.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/fw_reboot.png)
 
 如有异常，请参考以下方法进行检查
 
@@ -143,7 +143,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 3.  观察固件运行信息
 
- ![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/fw_download.png)
+ ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/fw_download.png)
 
 # 结束
 
