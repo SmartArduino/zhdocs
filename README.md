@@ -26,9 +26,8 @@
 ## W60X
 
 * **【一】入门指南**
-  
-    * [W600 Arduino入门指南](zh/W600Series/arduino.md)
-    * [W60X RT-Thread入门指南](zh/W600Series/DateSheet/rt-thread.md)
+  * [W600 Arduino入门指南](zh/W_Series/W600/star/arduino.md)
+    * [W60X RT-Thread入门指南](zh/W_Series/W600/star/rt-thread.md)
     * [W600 Keil开发环境搭建](zh/W600Series/DateSheet/rt-thread.md)
     * [W600 固件烧录指南](zh/W600Series/DateSheet/rt-thread.md)
 * **【二】调试使用指南**
