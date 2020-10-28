@@ -115,7 +115,7 @@
 * [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/DOIT_DT-W5G1.md)
 
 # 博流系列
-
+* [BL602芯片简介](zh/zhBouffaloLab/BL602/BL602.md)
 
 
 # 瑞昱系列
