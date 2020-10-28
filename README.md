@@ -31,16 +31,21 @@
     * [W60X RT-Thread入门指南](zh/W600Series/DateSheet/rt-thread.md)
     * [W600 Keil开发环境搭建](zh/W600Series/DateSheet/rt-thread.md)
     * [W600 固件烧录指南](zh/W600Series/DateSheet/rt-thread.md)
-* **【一】调试指南**
-    * [W600 固件烧录指南](zh/W600Series/DateSheet/rt-thread.md)
+* **【二】调试使用指南**
+    * [W600 基于Jlink的SWD接口调试指南](app/swd.md)
+    * [W600 基于RI指令集的SPI调试指南](app/spi.md)
+    * [W600 无线透传调试工具使用指南](app/trans.md)
+    * [AT固件版本说明](at/version.md)
+    * [兼容版本AT使用指南](at/esp-start.md)
+    * [联盛德版本AT使用指南](at/wm-start.md)
 
 
-* **【二】W600简介**
+* **【三】W600简介**
   * [W600芯片手册](zh/W_Series/W600/DateSheet/DateSheet.md)
   * [W600寄存器手册](zh/W_Series/W600/RegisterManual/RegisterManual.md)
-* **【三】W601简介**
+* **【四】W601简介**
   * [W601简介](zh/W_Series/W601/Introduction/Introduction.md)
-* **【四】W60X模组**
+* **【五】W60X模组**
   * [TB-01 WiFi 模组](zh/W_Series/W600/Module/tb-01.md)
   * [TB-02 WiFi 模组](zh/W_Series/W600/Module/tb-02.md)
   * [TW-01 WiFi 模组](zh/W_Series/W600/Module/tw-01.md)
@@ -48,8 +53,7 @@
   * [TW-03 WiFi 模组](zh/W_Series/W600/Module/tw-03.md)
   * [TW-07 WiFi 模组](zh/W_Series/W600/Module/tw-07.md)
 
-
-* **【五】常见问题**
+* **【六】常见问题**
   * [W600常见问题](zh/W600Series/faq/index.md)
 
 
