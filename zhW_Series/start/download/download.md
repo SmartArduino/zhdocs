@@ -48,7 +48,7 @@
 
 # 4. 星通智联下载调试软件界面展示
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/picture.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/download/picture.png)
 
 ------
 
@@ -56,15 +56,15 @@
 
 **ROM升级 -通过FLS文件升级**
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/fls.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/download/fls.png)
 
 **Secboot升级-通过img文件升级**
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/img.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/download/img.png)
 
 **擦除fls文件操作**
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/earse.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/download/earse.png)
 
 ------
 
