@@ -27,7 +27,7 @@
 
 * **【一】入门指南**
   * [W600 Arduino入门指南](zh/zhW_Series/W600/start/arduino/arduino.md)
-  * [W60X RT-Thread入门指南](zh/zhW_Series/W600/star/rt-thread.md)
+  * [W60X RT-Thread入门指南](zh/zhW_Series/start/rt-thread/rt-thread.md)
   * [W600 Keil开发环境搭建](zh/zhW_Series/start/ide/ide.md)
   * [W600 固件烧录指南](zh/zhW_Series/start/download/download.md)
 * **【二】调试使用指南**
