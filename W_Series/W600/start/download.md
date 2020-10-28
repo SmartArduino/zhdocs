@@ -1,12 +1,14 @@
-# W600 固件烧录指南
+<center> <font size=10> W600 固件烧录指南 </font></center>
 
-## 准备
+<center> from SZDOIT </center>
+
+# 1. 准备
 
 最新版本串口工具：[点击此处下载](https://download.w600.fun/?dir=tool)
 
 常用固件下载：[点击此处下载](https://download.w600.fun/?dir=firmware)
 
-## 1.文件后缀类型说明
+# 2. 文件后缀类型说明
 
 | 编号 |   文件名.后缀     | 说明                                  |
 | :--: | :-------------: | :----------------------------------- |
@@ -17,7 +19,7 @@
 
 ------
 
-## 2.固件升级方式及要点
+# 3. 固件升级方式及要点
 
 |     文件类型     |  支持ROM升级  | 支持Secboot升级 | 支持OTA升级 |
 | :-------------: | :---------: | :-------------: | :---------: |
@@ -44,29 +46,29 @@
 
 ------
 
-## 3.星通智联下载调试软件界面展示
+# 4. 星通智联下载调试软件界面展示
 
-![image](../.assets/app/download/picture.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/picture.png)
 
 ------
 
-## 4.演示
+# 5. 演示
 
 **ROM升级 -通过FLS文件升级**
 
-![image](../.assets/app/download/fls.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/fls.png)
 
 **Secboot升级-通过img文件升级**
 
-![image](../.assets/app/download/img.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/img.png)
 
 **擦除fls文件操作**
 
-![image](../.assets/app/download/earse.png)
+![image](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W600/start/earse.png)
 
 ------
 
-## 5.FAQ
+# 6. FAQ
 
 **1.如何进入ROM模式烧录fls文件**
   - 拉低W600模块的BOOTMODE(PA0)脚，然后上电（注意模组一般没有引出该引脚，使用芯片设置产品的用户可以考虑引出该引脚）；
