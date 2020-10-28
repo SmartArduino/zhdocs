@@ -29,7 +29,7 @@
   * [W600 Arduino入门指南](zh/W_Series/W600/star/arduino.md)
     * [W60X RT-Thread入门指南](zh/W_Series/W600/star/rt-thread.md)
     * [W600 Keil开发环境搭建](zh/W_Series/W600/star/ide.md)
-    * [W600 固件烧录指南](zh/W600Series/DateSheet/rt-thread.md)
+    * [W600 固件烧录指南](zh/W_Series/W600/star/download.md)
 * **【二】调试使用指南**
     * [W600 基于Jlink的SWD接口调试指南](app/swd.md)
     * [W600 基于RI指令集的SPI调试指南](app/spi.md)
