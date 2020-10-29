@@ -58,14 +58,14 @@
 
 ## W800
 
-* **【一】W800入门指南
+* 【一】W800入门指南
   
   * [W800入门手册](zh/zhW_Series/W800/Start/Start.md)
   * [W800芯片设计指导](zh/zhW_Series/W800/guide/guide.md)
   
+* 【二】W800简介
   
-  
-  * [W800 Module](C/C语言学习笔记-CH02-基本语法.md)
+  * [W800芯片手册](zh/zhW_Series/W800/guide/guide.md)
   * [W800 Development Board](C/C语言学习笔记-CH03-数组.md)
   
 * **【二】Application & Examples**
