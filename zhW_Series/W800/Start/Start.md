@@ -264,27 +264,27 @@ https://occ.t-head.cn/community/download_detail?id=
 
 a) 打开CDS Workbench（如下图）
 
-![image-20201028171743652https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171743652.png)b) Project Explorer区域，右键Import选择Existing CSKY Projects into Workspace，然后点击Next
+![image-20201028171743652](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171743652.png)b) Project Explorer区域，右键Import选择Existing CSKY Projects into Workspace，然后点击Next
 
-![image-20201028171759317](image-20201028171759317.png)
+![image-20201028171759317](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171759317.png)
 
 c) 如下图，点击右侧Browse...指定w800 sdk的工程路径
 
-![image-20201028171807885](image-20201028171807885.png)
+![image-20201028171807885](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171807885.png)
 
 d) 路径选择后，sdk工程会出现在Projects区域，默认是勾选w800_sdk，点击Finish
 
-![image-20201028171818654](image-20201028171818654.png)
+![image-20201028171818654](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171818654.png)
 
 e) 工程导入完成，在Project Explorer出现w800的sdk工程，如下图。
 
-![image-20201028171828773](image-20201028171828773.png)
+![image-20201028171828773](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171828773.png)
 
 ### 4. CDS工程编译（Build）
 
 Project Explorer选中w800 sdk工程，点击工具栏Build（或右键菜单选择Build Project或Rebuild Project）开始编译
 
-![image-20201028171848389](image-20201028171848389.png)
+![image-20201028171848389](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171848389.png)
 
 
 Buil
@@ -295,7 +295,3 @@ Buil
 w800.fls： 串口烧录
 w800_ota.img：OTA升级
 w800.map：map文件
-
-```
-
-```
