@@ -60,8 +60,8 @@
 
 * **【一】W800入门指南
   
-  * [W800入门手册](zh/W_Series/W800/Start/Start.md)
-  * [W800芯片设计指导](zh/W_Series/W800/Start/Start.md)
+  * [W800入门手册](zh/zhW_Series/W800/Start/Start.md)
+  * [W800芯片设计指导](zh/zhW_Series/W800/guide/guide.md)
   
   
   
