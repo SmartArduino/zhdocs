@@ -23,27 +23,40 @@ w 800 是一款基于XT 804 内核SoC，支持功能：
 
 ```
 ⚫ w800开发板
+
 ⚫ USB数据线（Micro USB）
+
 ⚫ PC（Windows、linux或Mac OS）
 ```
 
 **软件：**
    ⚫  工具链，用于编译w800代码
+
    ⚫ 编译工具
+
    ⚫ w800 sdk
+
    ⚫ 串口工具（支持xmodem协议）
+
    ⚫ 代码编辑器
 
 ## 3 w800开发板简介
 
 W800 Arduino开发板，提供了如下接口：
 ⚫ I2C&I2S接口
+
 ⚫ Uart 0 &SWD调试接口
+
 ⚫ SPI&Uart 1 通信接口
+
 ⚫ PWM接口
+
 ⚫ SIM 接口
+
 ⚫ GPIO
+
 ⚫ Micro USB 接口
+
 用户通过Micro USB口与上位机相连，通过UART0口进行固件烧录。
 
 ## 4 w800编译环境搭建
