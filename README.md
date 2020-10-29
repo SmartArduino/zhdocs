@@ -109,17 +109,17 @@
   * [DT-06开发板类似蓝牙HC-06](zh/ESPSeries/ESP8285/DT06/DT06.md)
 
 ## ESP32
-
-* [Arduino IDE搭建esp32开发环境](zh/zhESPSeries/ESP32/ArduinoEnvironment/ArduinoEnvironment.md)
-* [ESP-32](zh/zhESPSeries/ESP32/ESP32/ESP32.md)
-* [ESP-32u](zh/zhESPSeries/ESP32/ESP32u/esp32u.md)
+  * [Arduino IDE搭建esp32开发环境](zh/zhESPSeries/ESP32/ArduinoEnvironment/ArduinoEnvironment.md)
+  * [ESP-32](zh/zhESPSeries/ESP32/ESP32/ESP32.md)
+  * [ESP-32u](zh/zhESPSeries/ESP32/ESP32u/esp32u.md)
 
 ## 双频WiFi模组
 
-* [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/DOIT_DT-W5G1.md)
+  * [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/DOIT_DT-W5G1.md)
 
 # 博流系列
-* [BL602芯片简介](zh/zhBouffaloLab/BL602/BL602.md)
+* **【一】BL602**
+  * [BL602芯片简介](zh/zhBouffaloLab/BL602/BL602.md)
 
 
 # 瑞昱系列
