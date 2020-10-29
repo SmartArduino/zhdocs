@@ -58,12 +58,17 @@
 
 ## W800
 
-* **【一】W800 Module
-  * [W800 Chip](C/C语言学习笔记-CH01-编程基础.md)
+* **【一】W800入门指南
+  
+  * [W800入门手册](zh/W_Series/W800/Start/Start.md)
+  * [W800芯片设计指导](zh/W_Series/W800/Start/Start.md)
+  
+  
+  
   * [W800 Module](C/C语言学习笔记-CH02-基本语法.md)
   * [W800 Development Board](C/C语言学习笔记-CH03-数组.md)
   
-* [**【二】Application & Examples**](C/C-Code.md)
+* **【二】Application & Examples**
 
 
 # 乐鑫系列
