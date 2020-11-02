@@ -389,8 +389,6 @@ APB总线协议标准接口，只支持主设备控制器，I²C工作频率支�
 
 ⚫ 支持0.5和1.5停止位配置
 
-
-
 ## 6 管脚定义
 
 ![image-20201028175754745](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/DateSheet/image-20201028175754745.png)
@@ -452,5 +450,6 @@ APB总线协议标准接口，只支持主设备控制器，I²C工作频率支�
 ![image-20201028182323706](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/DateSheet/image-20201028182323706.png)
 
 ![image-20201028182431555](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/DateSheet/image-20201028182431555.png)
+
 ![image-20201028182443920](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/DateSheet/image-20201028182443920.png)
 
