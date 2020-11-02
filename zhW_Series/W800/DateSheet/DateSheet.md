@@ -12,42 +12,79 @@ W 800 芯片是一款安全 IoT Wi-Fi/蓝牙 双模 SoC芯片。支持2.4G IEEE8
 ##### ◼ 芯片外观
 
 ✓ QFN 32 封装， 4 mm x 4 mm
+
 ◼ MCU 特性
 ✓ 集成 32 位 XT 804 处理器，工作频率 240 MHz，内置DSP、浮点运算单元与安全引擎
+
 ✓ 内置 2 MB Flash，288KB RAM
+
 ✓ 集成 5 路 UART 高速接口
+
 ✓ 集成 2 路 16 比特 SD-ADC，最高采样率1KHz
+
 ✓ 集成 1 个I^2 C控制器
+
 ✓ 集成GPIO控制器，最多支持 18 个GPIO
+
 ✓ 集成 5 路PWM接口
+
 ✓ 集成 1 路 Duplex I^2 S控制器
+
 ◼ 安全特性
 
+
+
 ✓ MCU内置 Tee 安全引擎，代码可区分安全世界/非安全世界
+
 ✓ 集成 SASC/TIPC，内存及内部模块/接口可配置安全属性，防止非安全代码访问
+
 ✓ 启用固件签名机制，实现安全Boot/升级
+
 ✓ 具备固件加密功能，增强代码安全
+
 ✓ 固件加密密钥使用非对称算法分发，增强密钥安全性
+
 ✓ 硬件加密模块：RC4 256 、AES 128 、DES/ 3 DES、SHA1/MD 5 、CRC 32 、 2048 RSA,真随机数发生器
+
 ◼ Wi-Fi 特性
+
 ✓ 支持GB15629.11- 2006 ，IEEE802.11 b/g/n
+
 ✓ 支持Wi-Fi WMM/WMM-PS/WPA/WPA2/WPS
+
 ✓ 支持EDCA信道接入方式
+
 ✓ 支持20/40M带宽工作模式
+
 ✓ 支持STBC、GreenField、Short-GI、支持反向传输
+
 ✓ 支持AMPDU、AMSDU
+
 ✓ 支持IEEE802.11n MCS 0~7、MCS32物理层传输速率档位，传输速率最高到150Mbps
+
 ✓ 2/5.5/11Mbps速率发送时支持Short Preamble
+
 ✓ 支持HT-immediate Compressed Block Ack、Normal Ack、No Ack应答方式
+
 ✓ 支持CTS to self
+
 ✓ 支持Station、Soft-AP、Soft-AP/Station功能
+
 ◼ 蓝牙特性
+
 ✓ 集成蓝牙基带处理器/协议处理器，支持BT/BLE 双模工作模式，支持BT/BLE4.2 协议
+
 ◼ 电源管理
+
 ✓ 3.3V单电源供电
+
 ✓ 支持Wi-Fi节能模式功耗管理
+
 ✓ 支持工作、睡眠、待机、关机工作模式
+
 ✓ 待机功耗小于 10 uA
+
+
 
 ## 3 芯片结构
 
@@ -70,17 +107,22 @@ W 800 芯片是一款安全 IoT Wi-Fi/蓝牙 双模 SoC芯片。支持2.4G IEEE8
 
 ### 5.1 DMA控制器
 
-##### 最多支持 8 通道， 16 个DMA请求源，支持链表结构与寄存器控制。
+最多支持 8 通道， 16 个DMA请求源，支持链表结构与寄存器控制。
 
-```
 ⚫ Amba2.0标准总线接口， 8 路DMA通道
+
 ⚫ 支持基于存储器链表结构的DMA操作
+
 ⚫ 软件配置 16 个硬件请求源
+
 ⚫ 支持 1 ， 4 - burst操作模式
+
 ⚫ 支持byte、half-word，word操作
+
 ⚫ 源、目的地址不变或顺序递增可配置或在预定义地址范围内循环操作
+
 ⚫ 同步DMA请求和DMA响应硬件接口时序
-```
+
 ### 5.2 时钟与复位
 
  支持芯片时钟和复位系统的控制，时钟控制包括时钟变频，时钟关断以及自适应门控；复位控制包括系统以及子模块的软复位控制。
@@ -92,35 +134,58 @@ W 800 芯片是一款安全 IoT Wi-Fi/蓝牙 双模 SoC芯片。支持2.4G IEEE8
 ### 5.4 数字基带
 
 支持IEEE802.11a/b/g/e/n（1T1R）发射和接收机算法实现，主要参数：
+
 ⚫ 数据速率：1~54Mpbs（802.11a/b/g）， 6.5~150Mbps(802.11n)
+
 ⚫ MCS格式：MCS0~MCS7，MCS32(40MHz HT Duplicate模式)
+
 ⚫ 支持40MHz带宽non-HT Duplicate模式，6M～54M
+
 ⚫ 信号带宽：20MHz, 40MHz
 ⚫ 调制方式：DSSS(DBPSK,DQPSK,CCK)和OFDM(BPSK,QPSK,16QAM,64QAM)
+
 ⚫ 实现1T1R的MIMO-OFDM spatial multiplexing
+
 ⚫ 支持Short GI模式
+
 ⚫ 支持legacy模式与Mixed模式
+
 ⚫ 支持40MHz带宽下对20M上下边带信号的发射接收
+
 ⚫ 支持MCS0～ 7 、 32 的STBC接收
+
 ⚫ 支持Green Field模式
+
+
 
 
 ### 5.5 MAC控制器
 
 支持IEEE802.11a/b/g/e/n MAC子层的协议控制，具体规格包括：
+
 ⚫ 支持EDCA信道接入方式
+
 ⚫ 支持CSMA/CA，NAV与TXOP保护机制
+
 ⚫ Beacon、Mng、VO、VI、BE、BK五路发送队列与QoS
+
 ⚫ 支持单、广组波帧接收发送
+
 ⚫ 支持RTS/CTS，CTS2SELF，Normal ACK，No ACK帧序列
+
 ⚫ 支持重传机制以及重传速率和功率控制
+
 ⚫ 支持MPDU硬件聚合解聚合与Immediate BlockAck模式
+
 ⚫ 支持RIFS，SIFS，AIFS
+
 ⚫ 支持反向传输机制
+
 ⚫ 支持TSF计时，并且软件可配置
 
-
 ##### ⚫ 支持MIB统计信息
+
+
 
 ### 5.6 安全系统
 
