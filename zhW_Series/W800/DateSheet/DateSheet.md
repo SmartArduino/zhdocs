@@ -142,6 +142,7 @@ W 800 芯片是一款安全 IoT Wi-Fi/蓝牙 双模 SoC芯片。支持2.4G IEEE8
 ⚫ 支持40MHz带宽non-HT Duplicate模式，6M～54M
 
 ⚫ 信号带宽：20MHz, 40MHz
+
 ⚫ 调制方式：DSSS(DBPSK,DQPSK,CCK)和OFDM(BPSK,QPSK,16QAM,64QAM)
 
 ⚫ 实现1T1R的MIMO-OFDM spatial multiplexing
@@ -191,20 +192,28 @@ W 800 芯片是一款安全 IoT Wi-Fi/蓝牙 双模 SoC芯片。支持2.4G IEEE8
 
 支持IEEE802.11a/b/g/e/n协议规定的安全算法，配合完成发送接收数据帧的加解密。
 ⚫ 满足加解密吞吐率大于150Mbps
+
 ⚫ Amba2.0标准总线接口
+
 ⚫ 支持WAPI安全模式2.
+
 ⚫ 支持WEP安全模式- 64 位加密
+
 ⚫ 支持WEP安全模式- 128 位加密
+
 ⚫ 支持TKIP安全模式
+
 ⚫ 支持CCMP安全模式
+
+
 
 ### 5.7 FLASH控制器
 
-##### ⚫ 提供总线访问FLASH接口
+⚫ 提供总线访问FLASH接口
 
-##### ⚫ 提供系统总线和数据总线访问仲裁
+⚫ 提供系统总线和数据总线访问仲裁
 
-##### ⚫ 实现CACHE缓存系统提高FLASH接口访问速度
+⚫ 实现CACHE缓存系统提高FLASH接口访问速度
 
 
 ⚫ 提供对不同QFlash的兼容性
@@ -221,12 +230,20 @@ RSA运算硬件协处理器，提供Montgomery(FIOS算法)模乘运算功能。�
 支持SHA1/MD5/RC4/DES/3DES/AES/CRC/TRNG。
 
 ⚫ 支持SHA1/MD5/RC4/DES/3DES/AES/CRC/TRNG加密算法
+
 ⚫ DES/3DES支持ECB和CBC两种模式
+
 ⚫ AES支持ECB、CBC和CTR三种模式
+
 ⚫ CRC支持CRC8、CRC16_MODBUS、CRC16_CCITT和CRC32四种模式
+
 ⚫ CRC支持输入/输出反向
+
 ⚫ SHA1/MD5/CRC支持连续多包加密
+
 ⚫ 内置真随机数发生器，也支持seed种子产生伪随机数
+
+
 
 ### 5.10 I^2 C控制器
 
@@ -236,25 +253,46 @@ APB总线协议标准接口，只支持主设备控制器，I²C工作频率支�
 
 支持同步的SPI 主从功能。其工作时钟为系统内部总线时钟。其特点如下：
 ⚫ 发送和接收通路各有 8 个字深度的FIFO
+
 ⚫ master支持Motorola SPI的 4 种格式（CPOL，CPHA），TI时序，macrowire时
+
 ⚫ slave支持支持Motorola SPI的 4 种格式（CPOL，CPHA）；
+
 ⚫ 支持全双工和半双工
+
 ⚫ 主设备支持bit传输，最大支持 6553 5bit传输
+
 ⚫ 从设备支持各种长度byte的传输模式
+
 ⚫ 从设备输入的SPI_Clk最大时钟频率为系统时钟的1/
+
+
 
 ### 5.12 UART控制器
 
+
+
 ⚫ 设备端符合APB总线接口协议
+
 ⚫ 支持中断或轮询工作方式
+
 ⚫ 支持DMA传输模式，发送接收各存在 32 - byte FIFO
+
 ⚫ 波特率可编程
+
 ⚫ 5 - 8bit 数据长度，以及parity极性可配置
+
 ⚫ 1 或 2 个stop位可配置
+
 ⚫ 支持RTS/CTS流控
+
 ⚫ 支持Break帧发送与接收
+
 ⚫ Overrun，parity error，frame error，rx break frame中断指示
+
 ⚫ 最大 16 - burst byte DMA操作
+
+
 
 ### 5.13 GPIO控制器
 
@@ -280,48 +318,78 @@ APB总线协议标准接口，只支持主设备控制器，I²C工作频率支�
 ### 5.17 射频收发器
 
 ⚫ 射频收发器部分包括功率放大器、发射通路、接收通路、锁相环以及SPI在内的模块。通过调整控制端口SHDN, RXEN 和TXEN来改变芯片工作状态
+
 ⚫ 接收通路采用了零中频结构，直接将射频信号转换为基带I、Q两路输出。射频前端工作在2.4GHz，
 包含低噪放和正交混频器；基带由低通滤波器和可变增益放大器组成，实现信道滤波和增益控制；驱动放大器为ADC接口提供不同的直流输出
+
 ⚫ 发射通路包含：可编程控制滤波器，上变频混频器，可变增益放大器和功放，发射通路也采用直接变频结构。DAC的输出信号经过低通滤波器，滤掉镜像频率及带外噪声。PA输出是差分输出驱动片外天线
 
 ### 5.18 PWM控制器
 
  ⚫ 5 通道PWM信号生成功能
+
  ⚫ 2 通道输入信号捕获功能（PWM0 和PWM4两个通路）
+
  ⚫ 频率范围： 3 Hz~160KHz
+
  ⚫ 占空比最大精度： 1 /256，插入死区的计数器宽度：8bit
+
+
 
 ### 5.19 I²S控制器
 
 ⚫ 支持AMBA APB总线接口，32bit single读写操作
+
 ⚫ 支持主，从模式，可以双工工作
+
 ⚫ 支持 8 / 16 / 24 / 32 位宽，最高采样频率为128KHz
+
 ⚫ 支持单声道和立体声模式
+
 ⚫ 兼容I²S和MSB justified 数据格式，兼容PCM A/B格式
+
 ⚫ 支持DMA请求读写操作。只支持按字操作
 
 
 ### 5.20 7816/UART控制器
 
 ⚫ 设备端符合APB总线接口协议
+
 ⚫ 支持中断或轮询工作方式
+
 ⚫ 支持DMA传输模式，发送接收各存在 32 - byte FIFO
+
 ⚫ DMA只能按字节进行操作，最大 16 - burst byte DMA操作
+
 兼容UART以及 7816 接口功能：
 串口功能：
 ⚫ 波特率可编程
+
 ⚫ 5 - 8bit 数据长度，以及parity极性可配置
+
 ⚫ 1 或 2 个stop位可配置
+
 ⚫ 支持RTS/CTS流控
+
 ⚫ 支持Break帧发送与接收
+
 ⚫ Overrun，parity error，frame error，rx break frame中断指示
+
 7816 接口功能：
+
 ⚫ 兼容 ISO- 7816 - 3 T=0.T=1 模式
+
 ⚫ 兼容EVM2000协议
+
 ⚫ 可配置guard time（11 ETU-267 ETU）
+
 ⚫ 正向/反向约定可软件配置
+
 ⚫ 支持发送/接收奇偶校验及重传功能
+
 ⚫ 支持0.5和1.5停止位配置
+
+
 
 ## 6 管脚定义
 
