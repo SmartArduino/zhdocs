@@ -59,18 +59,20 @@
 
 ## W800
 
+* 【一】蓝牙配网
+  * [W800 Android_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/Start/Start.md)
+  * [W800 iOS_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/Start/Start.md)
+
+
 * 【一】W800入门指南
-  
   * [W800入门手册](zh/zhW_Series/W800/Start/Start.md)
   * [W800芯片设计指导](zh/zhW_Series/W800/guide/guide.md)
   * [WM_W800 AutoTest 产测工具操作指南 ](zh/zhW_Series/W800/Tools/UseGuide/UseGuide.md)
   * [W800_SDK_AT指令用户手册 ](zh/zhW_Series/W800/W800/ATCommadUse/ATCommadUse.md)
-  
 * 【二】W800简介
   
   * [W800芯片手册](zh/zhW_Series/W800/DateSheet/DateSheet.md)
   * [W800 Development Board](C/C语言学习笔记-CH03-数组.md)
-  
 * **【二】Application & Examples**
 
 
