@@ -53,7 +53,7 @@ DUT Device Under Test 被测器件
 
 解压 AutoTest 产测工具压缩包后并打开目录如下：
 
-![img](wps2.png)4
+![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps2.png)4
 
 
 
@@ -61,9 +61,9 @@ DUT Device Under Test 被测器件
 
 
 
-|      |                  |
-| ---- | ---------------- |
-|      | ![img](wps3.jpg) |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps3.jpg) |
 
 ### 3.1 安装 AutoTest
 
@@ -81,7 +81,7 @@ DUT Device Under Test 被测器件
 
 4> 完成上述三处修改之后保存 AutoTest.ini 并关闭。
 
-  ![img](wps4.jpg)
+  ![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps4.jpg)
 
 ## 4 AutoTest 操作步骤
 
@@ -95,7 +95,7 @@ DUT Device Under Test 被测器件
 
 点击“配置”弹框查看 Litepoint 的 IP 地址和射频线线损设置是否与测试环境一致，若不一致也可在此处修改并点击 OK；
 
-  ![img](wps5.jpg) 
+  ![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps5.jpg) 
 
 
 
@@ -103,27 +103,27 @@ DUT Device Under Test 被测器件
 
 进入 AutoTest 工具操作界面，如下图点击“文件”、“载入配置文件”选择指定的测试配置文件后，点击“打开”即可。
 
-![image-20201105184620075](image-20201105184620075.png)
+![image-20201105184620075](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/image-20201105184620075.png)
 
 
 
-![image-20201105184638076](image-20201105184638076.png)
+![image-20201105184638076](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/image-20201105184638076.png)
 
 上述配置文件已默认勾选了测试项，如果想改变测试项内容，请双击对应测试项，在弹出的设置框里修改。比如双击 11b 下“发射功率校准”即弹出下面的设置框，根据自己意图进行相应勾选，最后点击“OK”。
 
-![image-20201105184711777](image-20201105184711777.png)
+![image-20201105184711777](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/image-20201105184711777.png)
 
-![img](wps9.png)4.4 测试执行
+![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps9.png)4.4 测试执行
 
 点击 AutoTest 工具菜单栏 即可开始执行测试，执行完毕后工具会以 PASS 或 Fail 的图片显示测试结果，截取测试过程如下：
 
-![image-20201105184734611](image-20201105184734611.png)
+![image-20201105184734611](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/image-20201105184734611.png)
 
-![img](wps11.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps11.png)
 
-![image-20201105184801667](image-20201105184801667.png)
+![image-20201105184801667](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/image-20201105184801667.png)
 
-![img](wps13.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps13.png)
 
 待测试完毕，请更换其它模块后可直接点击“测试”继续执行，并自动生成相应的 log。
 
@@ -135,7 +135,7 @@ log 文件是以追加的方式累积记录的，直至 log 文件达到 50MB，
 
 I 首次双击 AutoTest 快捷方式，打开 AutoTest 失败，是怎么回事？
 
-![img](wps15.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/W_Series/W800/Tools/UseGuide/wps15.png)
 
 如果遇到如下提示，是由于 PC 系统未安装 Microsoft visual C++所致，安装后，即可打开AutoTest。
 
