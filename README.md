@@ -20,6 +20,7 @@
   * 软件(/GeneralSource/softwareTools.md)
   * [W60X OneShot一键配网](zh/zhW_Series/Tools/oneshot.md)
   * [W600串口调试工具](zh/zhW_Series/Tools/serial.md)
+  * [W800批量烧录工具](zh/zhW_Series/Tools/serial.md)
 
 # 联盛德系列
 
@@ -63,6 +64,7 @@
   * [W800入门手册](zh/zhW_Series/W800/Start/Start.md)
   * [W800芯片设计指导](zh/zhW_Series/W800/guide/guide.md)
   * [WM_W800 AutoTest 产测工具操作指南 ](zh/zhW_Series/W800/Tools/UseGuide/UseGuide.md)
+  * [W800_SDK_AT指令用户手册 ](zh/zhW_Series/W800/Tools/UseGuide/UseGuide.md)
   
 * 【二】W800简介
   
