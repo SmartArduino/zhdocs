@@ -60,6 +60,8 @@
 ## W800
 
 * 【一】蓝牙配网
+  * [W800_BleWiFi蓝牙配网 Android SDK ](zh/zhW_Series/W800/config_net/Android/SDK/Android_SDK.md)
+  * [W800_BleWiFi蓝牙配网 iOS SDK ](zh/zhW_Series/W800/config_net/iOS/SDK/iOS_SDK.md)
   * [W800 Android APP_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/config_net/Android/APP/Android.md)
   * [W800 iOS APP_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/config_net/iOS/APP/iOS.md)
   * [W800蓝牙小程序配网操作说明 ](zh/zhW_Series/W800/config_net/Small_program/Small_program.md)
