@@ -60,8 +60,8 @@
 ## W800
 
 * 【一】蓝牙配网
-  * [W800 Android_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/Start/Start.md)
-  * [W800 iOS_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/Start/Start.md)
+  * [W800 Android_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/config_net/Android/Android.md)
+  * [W800 iOS_BleWiFi蓝牙配网 ](zh/zhW_Series/W800/config_net/iOS/iOS.md)
 
 
 * 【一】W800入门指南
