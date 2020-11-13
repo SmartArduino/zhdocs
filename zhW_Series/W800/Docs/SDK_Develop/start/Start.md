@@ -15,7 +15,7 @@ w 800 是一款基于XT 804 内核SoC，支持功能：
 - 支持多种硬件加解密算法（RC 4 ，DES， 3 DES，AES，RSA，MD5，SHA1）
 - 内置安全功能
 
-![image-20201028170327441](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028170327441.png)
+![image-20201028170327441](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028170327441.png)
 
 ## 2 准备工作
 
@@ -126,7 +126,7 @@ Ubuntu虚拟机为：WinnerMicro_Ubuntu.7z
 
 从官网https://occ.t-head.cn平头哥芯片开放社区-> **技术部落** - > **资源下载** - > **工具** ，根
 据自己本地系统环境选择下载适用的“ **800 Series Toolchain** ”。
-![image-20201028170658215](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028170658215.png)
+![image-20201028170658215](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028170658215.png)
 
 下载后将编译工具链解压到的某个路径下（如opt目录），设置编译工具链路径至环境
 变量，举例如下：
@@ -196,29 +196,29 @@ w800.map：map文件
    **无奇偶校验位** ， **1 位停止位** ）
    1 ） SecureCRT下，选择新建会话（如下图），协议选择Serial（可在下拉菜单里选择）
    
-   ![image-20201028171022321](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171022321.png)
+   ![image-20201028171022321](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171022321.png)
    
     2 ） 点击下一步，进入串口选择配置页面（注意：不要勾选RTS/CTS），点击下一步设置会话名称（也可默认，只要不重复即可），点击完成
    
-   ![image-20201028171035230](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171035230.png)
+   ![image-20201028171035230](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171035230.png)
 
 ​	    3 ） 如下图，点击连接弹出连接选项，选择指定COM，然后点击完成，串口连接完成。
 
-![image-20201028171046111](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171046111.png)
+![image-20201028171046111](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171046111.png)
 
 4. 按下开发板的bootmode脚，复位启动后，模块启动后会进入升级模式，串口不断打印字符’C’（ 如下图），此时， **松开bootmode脚** 。
 
-![image-20201028171216015](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171216015.png)
+![image-20201028171216015](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171216015.png)
 
 5. 串口工具下，选择菜单传输，下拉选择发送Xmodem，弹出对话框后，选择固件w800.fls
 
-![image-20201028171242054](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171242054.png)
+![image-20201028171242054](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171242054.png)
 
 6. 点击打开，开始升级，升级完成后，串口继续打印CCC
 
 7. 复位模块，串口打印user task，即说明w800开发板已正常启动
 
-![image-20201028171445703](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171445703.png)
+![image-20201028171445703](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171445703.png)
 
 ### 7.2 Linux下升级步骤
 
@@ -277,27 +277,27 @@ https://occ.t-head.cn/community/download_detail?id=
 
 a) 打开CDS Workbench（如下图）
 
-![image-20201028171743652](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171743652.png)b) Project Explorer区域，右键Import选择Existing CSKY Projects into Workspace，然后点击Next
+![image-20201028171743652](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171743652.png)b) Project Explorer区域，右键Import选择Existing CSKY Projects into Workspace，然后点击Next
 
-![image-20201028171759317](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171759317.png)
+![image-20201028171759317](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171759317.png)
 
 c) 如下图，点击右侧Browse...指定w800 sdk的工程路径
 
-![image-20201028171807885](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171807885.png)
+![image-20201028171807885](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171807885.png)
 
 d) 路径选择后，sdk工程会出现在Projects区域，默认是勾选w800_sdk，点击Finish
 
-![image-20201028171818654](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171818654.png)
+![image-20201028171818654](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171818654.png)
 
 e) 工程导入完成，在Project Explorer出现w800的sdk工程，如下图。
 
-![image-20201028171828773](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171828773.png)
+![image-20201028171828773](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171828773.png)
 
 ### 4. CDS工程编译（Build）
 
 Project Explorer选中w800 sdk工程，点击工具栏Build（或右键菜单选择Build Project或Rebuild Project）开始编译
 
-![image-20201028171848389](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Start/image-20201028171848389.png)
+![image-20201028171848389](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/start/image-20201028171848389.png)
 
 
 Buil
