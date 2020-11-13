@@ -74,8 +74,7 @@
   * [W800_SDK_AT指令用户手册 ](zh/zhW_Series/W800/W800/ATCommadUse/ATCommadUse.md)
 * 【二】W800简介
   
-  * [W800芯片手册](zh/zhW_Series/W800/DateSheet/DateSheet.md)
-  * [W800 Development Board](C/C语言学习笔记-CH03-数组.md)
+  * [W800芯片手册](zh/zhW_Series/W800/Docs/DateSheet/DateSheet.md)
 * **【二】Application & Examples**
 
 
