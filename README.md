@@ -127,7 +127,7 @@
 
 # 博流系列
 * **【一】BL602**
-  * [BL602芯片简介](zh/zhBouffaloLab/BL602/BL602.md)
+  * [BL602芯片简介](zh/zhBouffaloLab/BL602/base/BL602.md)
 
 
 # 瑞昱系列
