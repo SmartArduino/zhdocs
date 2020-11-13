@@ -127,6 +127,7 @@
 
 # 博流系列
 * **【一】BL602**
+  * [入门指南](zh/zhBouffaloLab/BL602/start/start.md)
   * [BL602芯片简介](zh/zhBouffaloLab/BL602/base/BL602.md)
 
 
