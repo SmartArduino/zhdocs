@@ -23,9 +23,7 @@ W800 作为集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，支持 OneSh
 
 ### 2.2 APP 设置界面
 
-1.打开 APP，显示下面界面，点击右上角 
-
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps1.png)；
+1.打开 APP，显示下面界面，点击右上角 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps1.png)；
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps2.png)
 
