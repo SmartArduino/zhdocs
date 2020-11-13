@@ -156,7 +156,15 @@
 
 ## 底盘类安装使用手册
 
-* [**【 一】完整车架底盘**]
+* [**【一】机器人配件**]
+  * [2自由度支架](zh/zhRobotArm/2DOFRobotArm/2DOFRobotArm.md)
+  * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
+  * [坦克底盘之金属驱动轮](zh/zhSmartCAR/Wheel/MetaDrivingWheel/metaldrivingwheel.md)
+  * [坦克底盘之金属承重轮](zh/zhSmartCAR/Wheel/MetalBearingWheel/MetalBearingWheel.md)
+  * [坦克底盘之履带](zh/Robot/FrameChassis/track/track.md)
+
+
+* [**【 二】完整车架底盘**]
   * [C4 4WD底盘 小车](zh/zhSmartCAR/C_Series/C4/C4.md)
   * [C101小车安装说明](zh/zhSmartCAR/C_Series/C101/C101.md)
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
@@ -173,15 +181,9 @@
   * [Y100坦克底盘](zh/zhSmartCAR/Y_Series/Y100/Y100.md)
   * [YP100坦克底盘](zh/zhSmartCAR/Y_Series/YP100/YP100.md)
   * [MC300小车安装说明 ](zh/zhSmartCAR/MC_Series/MC300/MC300.md)
-* [**【 二】接线使用说明**]
+* [**【 三】接线使用说明**]
   * [T900坦克底盘小车和ESPDuino](zh/zhSmartCAR/T_Series/T900/ESPduinoT900Connect.md)
   * [ViVI人形机械人的使用说明](zh/zhRobotArm/HumanoidRobot/ViViRobot/ViViUseInstructions.md)
-* [**【三】机器人配件**]
-  * [2自由度支架](zh/zhRobotArm/2DOFRobotArm/2DOFRobotArm.md)
-  * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
-  * [坦克底盘之金属驱动轮](zh/zhSmartCAR/Wheel/MetaDrivingWheel/metaldrivingwheel.md)
-  * [坦克底盘之金属承重轮](zh/zhSmartCAR/Wheel/MetalBearingWheel/MetalBearingWheel.md)
-  * [坦克底盘之履带](zh/Robot/FrameChassis/track/track.md)
 * [**【四】机械臂**]
   * [车载机械臂](zh/Robot/FrameChassis/cararm/cararm.md)
   * [6/7自由度机械臂](zh/zhRobotArm/RobotArm/RobotArm/RobotArm.md)
