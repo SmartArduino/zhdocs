@@ -23,35 +23,35 @@ W800 作为集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，支持 OneSh
 
 ### 2.2 APP 设置界面
 
-1.打开 APP，显示下面界面，点击右上角 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps1.png)；
+1.打开 APP，显示下面界面，点击右上角 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps1.png)；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps2.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps2.png)
 
 2.进入设置界面，可以设置 BLE 扫描过滤 Organization ID，查看 APP 版本和 BleWiFi版本；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps3.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps3.png)
 
 3.点 击 Organization ID 行 ， 弹 出 设 置 Organization ID 窗 口 ， 可 以 设 置Organization ID 继续扫描过滤，也可以清空它，不过滤扫描结果；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps4.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps4.png)
 
 ### 2.3 配置 Station 模式示例
 
 1.PC 连接 W800 模组，串口工具发送 AT+ENADV 开启蓝牙配网过程；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps5.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps5.png)
 
 2.手机打开 WMBleWiFi APP，在 APP 界面下拉刷新，可以发现周边的蓝牙设备，显示在界面列表中，每项分上下两行，上面是设备名称，下方是蓝牙 UUID，有的设备不广播名称，名称部分为空；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps6.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps6.png)
 
-3.在扫描设备列表中，选择点击 W800 模组，进入到配置界面。点击![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps7.png) 按钮，弹出系统设置界面，连接需要配网的 AP，返回 WMBleWiFi 配置界面，输入密码，点击Config 按钮，开始配网过程；
+3.在扫描设备列表中，选择点击 W800 模组，进入到配置界面。点击![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps7.png) 按钮，弹出系统设置界面，连接需要配网的 AP，返回 WMBleWiFi 配置界面，输入密码，点击Config 按钮，开始配网过程；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps8.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps8.png)
 
 4.配置界面下方是日志信息，显示配网进度。分别是连接设备、发现服务和特征、密钥交换和发配网信息，配网成功后，W800 模组加网成功后，返回 WiFi Mac 地址以及 IP 地址信息；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Docs/WiFi_Config/iOS/wps9.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/iOS/wps9.png)
 
 
 
