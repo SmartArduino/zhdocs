@@ -21,27 +21,27 @@ W800 作为集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，支持 OneSh
 
 ### 2.2 APP 设置界面
 
-1.打开 APP，显示下面界面，点击右上角 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps1.png)；
+1.打开 APP，显示下面界面，点击右上角 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps1.png)；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps2.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps2.png)
 
 2.页面将显示 Settings 菜单，点击 Settings 进入设置界面；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps3.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps3.png)
 
 3.进入设置界面，可以设置 BLE 扫描过滤 Organization ID，查看 APP 版本和 BleWiFi版本；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps4.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps4.png)
 
 4.点 击 Organization ID 行 ， 弹 出 设 置 Organization ID 窗 口 ， 可 以 设 置Organization ID 继续扫描过滤，也可以清空它，不过滤扫描结果；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps5.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps5.png)
 
 ### 2.3 配置 Station 模式示例
 
@@ -49,23 +49,23 @@ W800 作为集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，支持 OneSh
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps6.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps6.png)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps7.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps7.png)
 
 2.手机打开 WMBleWiFi APP，在 APP 界面下拉刷新，可以发现周边的蓝牙设备，显示在界面列表中，每项分上下两行，上面是设备名称，下方是蓝牙 Mac 地址，有的设备不广播名称，名称部分为空；
 
-3.在扫描设备列表中，选择点击 W800 模组，进入到配置界面。点击![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps8.png) 按钮，弹出WiFi 扫描列表，选择要配置的 AP SSID，输入密码，点击 Config 按钮，开始配网过程；
+3.在扫描设备列表中，选择点击 W800 模组，进入到配置界面。点击![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps8.png) 按钮，弹出WiFi 扫描列表，选择要配置的 AP SSID，输入密码，点击 Config 按钮，开始配网过程；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps9.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps9.png)
 
 4.配置界面下方是日志信息，显示配网进度。分别是连接设备、发现服务和特征、密以及 IP 地址信息；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/config_net/Android/wps10.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps10.png)
 
 
 
