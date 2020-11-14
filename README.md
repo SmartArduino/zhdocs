@@ -85,6 +85,7 @@
   * [W800 Iperf测试工具使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/W800_Iperf.md)
   * [W800_CDS使用手册](zh/zhW_Series/W800/Docs/SDK_Develop/W800_CDS/W800_CDS.md)
   * [W800_SDK DEMO运行指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/W800_SDK_DEMO.md)
+  * [W800_SDK_OS移植指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/W800_SDK_OS.md)
 
 
 # 乐鑫系列
