@@ -74,6 +74,13 @@
   
   * [W800芯片手册](zh/zhW_Series/W800/Docs/DateSheet/manual/DateSheet.md)
   * [W800芯片设计指导](zh/zhW_Series/W800/Docs/DataSheet/guide/guide.md)
+  * [W800_QFLASH布局说明](zh/zhW_Series/W800/Docs/System_Function/W800_QFLASH/W800_QFLASH.md)
+  * [W800_ROM功能简述](zh/zhW_Series/W800/Docs/System_Function/W800_ROM/W800_ROM.md)
+  * [W800_SECBOOT功能简述](zh/zhW_Series/W800/Docs/System_Function/W800_SECBOOT/W800_SECBOOT.md)
+  * [W800_SWD调试配置指南](zh/zhW_Series/W800/Docs/System_Function/W800_SWD/W800_SWD.md)
+  * [W800_参数区使用说明](zh/zhW_Series/W800/Docs/System_Function/W800_Parameter/W800_Parameter.md)
+  * [W800_低功耗使用指导](zh/zhW_Series/W800/Docs/System_Function/W800_LowPower/W800_LowPower.md)
+  * [W800_固件生成说明](zh/zhW_Series/W800/Docs/System_Function/W800_CreatFirmware/W800_CreatFirmware.md)
 * **【二】Application & Examples**
 
 
