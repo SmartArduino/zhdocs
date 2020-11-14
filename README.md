@@ -87,7 +87,8 @@
   * [W800_SDK DEMO运行指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/W800_SDK_DEMO.md)
   * [W800_SDK_OS移植指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/W800_SDK_OS.md)
   * [ W800_SDK命令行编译指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/W800_SDK_Command.md)
-  * [ W800_SDK用户手册](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/W800_SDK_Command.md)
+  * [ W800_SDK用户手册](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Manual/W800_SDK_Manual.md)
+  * [ W800_固件升级指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Manual/W800_SDK_Manual.md)
 
 
 # 乐鑫系列
