@@ -41,7 +41,7 @@ Linux 系统下可直接在 shell 中执行编译，需要在 Linux 上安装好
 
 从官网 https://occ.t-head.cn 平头哥芯片开放社区->技术部落->资源下载->工具，根据自己本地系统环境选择下载适用的“800 Series Toolchain”。
 
-![image-20201114161043910](image-20201114161043910.png)
+![image-20201114161043910](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/image-20201114161043910.png)
 
 下载后，将编译工具链解压到磁盘，设置编译工具链路径至环境变量即可，举例如下：
 export PATH=$PATH:/opt/csky-abiv2-tools/bin
@@ -68,7 +68,7 @@ make
 make help
 此时会显示出当前 SDK 所支持的编译指令，如：
 
-![image-20201114161145488](image-20201114161145488.png)
+![image-20201114161145488](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/image-20201114161145488.png)
 
 ### 6.2 配置参数
 
@@ -76,7 +76,7 @@ make help
 make menuconfig
 进行参数配置。menuconfig 一个基于 ncurses 库的传统菜单界面的配置方式，执行后根据界面上的提示操作即可。
 
-![image-20201114161214320](image-20201114161214320.png)
+![image-20201114161214320](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/image-20201114161214320.png)
 
 ### 6.3 烧录固件
 
