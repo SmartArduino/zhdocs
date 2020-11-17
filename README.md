@@ -94,6 +94,9 @@
   * [W800批量烧录工具操作指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_Down/W800_Down.md)
   * [W800认证测试工具说明](zh/zhW_Series/W800/Docs/SDK_Develop/W800_CerTest/W800_CerTest.md)
   * [W800研发验证指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/W800_DevGuide.md)
+  * [WM_W800_SDK_DEMO使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/W800_DevGuide.md)
+  * [WiFi_自由通信接口使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_SDKDEMO/WM_W800_SDKDEMO.md)
+  * [WM_W800_CDS使用手册](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
 
 
 # 乐鑫系列
