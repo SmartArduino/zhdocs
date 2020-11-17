@@ -13,7 +13,7 @@
 
 ### 1.3 术语定义
 
-![image-20201114171515235](image-20201114171515235.png)
+![image-20201114171515235](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/image-20201114171515235.png)
 
 ### 1.4 参考资料
 
@@ -29,11 +29,11 @@
 
 W800 蓝牙系统可以分为应用程序部分、主机协议栈、控制器协议栈及蓝牙基带、射频构成。蓝牙的射频部分和 WiFi 系统共用。
 
-![image-20201114171643522](image-20201114171643522.png)
+![image-20201114171643522](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/image-20201114171643522.png)
 
 认证的 HCI 串口操作指令参见传统蓝牙非信令测试及 BLE 非信令测试文档。具体测试方法如下图所示：
 
-![image-20201114171709269](image-20201114171709269.png)
+![image-20201114171709269](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/image-20201114171709269.png)
 
 其中 W800 提供可配置的 UART 口，用于 HCI 指令的响应。综测仪通过 UART 口直接控制控制器。此时主机协议栈处于 freeze 状态。
 
@@ -47,7 +47,7 @@ Bluedroid 包含了传统蓝牙和低功耗蓝牙协议栈，同控制器交互�
 
 #### 2.3.2 蓝牙 bluedroid 架构图
 
-![image-20201114171750205](image-20201114171750205.png)
+![image-20201114171750205](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/image-20201114171750205.png)
 
 我们移植后，保留了 STACK,BTA 和简化的 BTIF 三层。用户开发应用程序直接基于 BTIF 层开展。
 
@@ -154,16 +154,16 @@ HFP 定义了音频网关(AG)和免提组件(HF)两个角色：
 
 #### 2.8.1 蓝牙系统软件代码位置
 
-![image-20201114172633526](image-20201114172633526.png)
+![image-20201114172633526](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/image-20201114172633526.png)
 
 Btapp 目录即蓝牙示例代码，用户可以参考或基于此代码进行二次开发。
 应用程序文件列表：
 
-![image1](image1.png)
+![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/image1.png)
 
 涉及到头文件如下
 
-![image-20201114172846759](image-20201114172846759.png)
+![image-20201114172846759](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/image-20201114172846759.png)
 
 更多信息请查看官方文档：[《W800_蓝牙系统架构及API描述》](https://pan.baidu.com/s/1JKg8TZb3cF6E-anYEjDmmQ ) 提取码：doit 
 
