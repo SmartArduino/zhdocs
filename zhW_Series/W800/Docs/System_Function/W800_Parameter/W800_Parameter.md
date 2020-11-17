@@ -13,11 +13,11 @@
 
 ### 1.3 术语定义
 
-![image-20201114095103047](image-20201114095103047.png)
+![image-20201114095103047](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114095103047.png)
 
 ## 2 QFLASH 参数区布局
 
-![image-20201114095145220](image-20201114095145220.png)
+![image-20201114095145220](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114095145220.png)
 
 本文档以 X=1 为例，即 Flash 容量为 2MByte。
 
@@ -28,7 +28,7 @@
 MAC 地址和 RF 参数。
 参数布局：
 
-![image-20201114095233873](image-20201114095233873.png)
+![image-20201114095233873](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114095233873.png)
 
 ### 2.2 用户参数区
 
@@ -45,7 +45,7 @@ MAC 地址和 RF 参数。
 系统运行时所需的相关参数
 参数布局：
 
-![image-20201114095321327](image-20201114095321327.png)
+![image-20201114095321327](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114095321327.png)
 
 1）系统参数 1 区：0x81FC000-0x81FCFFF
 
@@ -95,7 +95,7 @@ W800 模块启动时会从关键参数区把所需参数读取出来使用。
 
 3）参数区 CRC 都不正确的情况下，首先尝试参数恢复，如果尝试恢复后，参数依然都不正确，则使用默认参数值作为运行时使用参数，同时，更新参数区的内容为默认参数。
 
-![image1](image1.png)
+![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image1.png)
 
 #### 4.2.2 参数使用阶段
 
@@ -126,11 +126,11 @@ W800 的默认 QFLASH 的布局所能提供给用户的区域为 240KByte。但�
 
 1) 依据用户编译的 w800.img 确定的所用运行区空间
 
-![image-20201114100031469](image-20201114100031469.png)
+![image-20201114100031469](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114100031469.png)
 
 2) 依据 w800.img 的压缩比来确定所用的升级区空间
 
-![image-20201114100050917](image-20201114100050917.png)
+![image-20201114100050917](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114100050917.png)
 
 3) 依据 w800.img 的大小按照 QFLASH 的 BLOCK（64Kbyte）区间向上取整划分（需要重点关注）。
 
@@ -140,7 +140,7 @@ W800 的默认 QFLASH 的布局所能提供给用户的区域为 240KByte。但�
 
 
 
-![image-20201114100120590](image-20201114100120590.png)
+![image-20201114100120590](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114100120590.png)
 
 6) 依据确定的运行区 IMAGE HEADER 的起始位置调整 IMAGE 生成的参数(下划线部分)
 
@@ -169,11 +169,11 @@ W800.img：560KByte
 
 1) 用户的新空间如图黄色部分
 
-![image-20201114100313591](image-20201114100313591.png)
+![image-20201114100313591](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114100313591.png)
 
 2) 新的代码空间调整为：
 
-![image-20201114100336189](image-20201114100336189.png)
+![image-20201114100336189](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_Parameter/image-20201114100336189.png)
 
 3) w800.img 生成修改为：
 wm_tool.exe -b w800.bin -o w800 -it $img_type -fc 0 -ra 08080400 -ih 08080000 -ua 08010000 -nh 0 -un0

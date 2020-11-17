@@ -9,7 +9,7 @@
 
 ### 1.2 术语定义
 
-![image-20201114090538067](image-20201114090538067.png)
+![image-20201114090538067](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SECBOOT/image-20201114090538067.png)
 
 ### 1.3 文献索引
 
@@ -18,7 +18,7 @@
 
 ## 2 SECBOOT 流程图
 
-![image1](image1.png)
+![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SECBOOT/image1.png)
 
 ## 3 SECBOOT 功能
 

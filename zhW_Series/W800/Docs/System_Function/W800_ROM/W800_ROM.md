@@ -10,13 +10,13 @@ W800 的 ROM 功能。
 
 ### 1.2 术语定义
 
-![image-20201114084248740](image-20201114084248740.png)
+![image-20201114084248740](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image-20201114084248740.png)
 
 ## 2 ROM 基本功能
 
 ### 2.1 ROM 流程图
 
-![image-20201114084449368](image-20201114084449368.png)
+![image-20201114084449368](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image-20201114084449368.png)
 
 ### 2.2 引导程序
 
@@ -41,20 +41,20 @@ W800 的程序最终是要运行在 QFLASH 里（代码的运行基址：0x80000
 
 利用 Xmodem 协议实现把 IMAGE 升级到 QFLASH 或内存区域，升级到内存区域的Image 在升级完成后即跳转到内存执行，升级的 FLASH 的需要重启后跳转执行。升级 IMAGE 格式：
 
-![image-20201114084602692](image-20201114084602692.png)
+![image-20201114084602692](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image-20201114084602692.png)
 
 W800 的 IMAGE 包括 header、image area 和 signature 三部分。Header 包含magic_no、img_attr 等内容，其中 img_attr 是一个 Uint32 类型，包含 img_type、code_encrypt 等字段。
 W800 的 IMAGE header 字段描述：
 
-![image-20201114084638592](image-20201114084638592.png)
+![image-20201114084638592](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image-20201114084638592.png)
 
 W800 的 IMAGE Attribute 字段描述：
 
-![image1](image1.png)
+![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image1.png)
 
 W800 的 Flash 区域划分：
 
-![image-20201114085010140](image-20201114085010140.png)
+![image-20201114085010140](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image-20201114085010140.png)
 
 ROM 程序根据 upgrade_area_addr 参数，判断第一个 header 的 img_type 是否为sec boot，如果是，在校验 header 和 img 的 crc 和签名，比较版本号，如果校验通过并且版本更新，则将 header 搬到 img_header_addr 的地址，将 img 和 signature 搬到img_addr 的地址。
 
@@ -81,7 +81,7 @@ W800 的 ROM 程序支持模块生产阶段的部分操作：波特率切换，Q
 
 #### 2.6.1 命令列表
 
-![image2](image2.png)
+![image2](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image2.png)
 
 #### 2.6.2 常用指令集合
 
@@ -117,7 +117,7 @@ QFlash 擦除(2M)： 21 0a 00 c3 35 32 00 00 00 02 00 fe 01
 
 ROM 启动过程中，如果遇到异常，则会进入 ROM 右侧死循环程序，然后打印一个错误码，指示当前遇到的错误信息，供使用者分析遇到的问题。错误码定义如下:
 
-![image3](image3.png)
+![image3](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image3.png)
 
 ## 3 QFLASH 和 RAM 使用情况
 
@@ -126,13 +126,13 @@ ROM 启动过程中，如果遇到异常，则会进入 ROM 右侧死循环程�
 W800 支持四地址模式，最大支持 128MB Flash，但是，ROM 程序仅支持三地址模式，最大支持 16MB 地址访问。
 ROM 视角的 QFLASH 布局：
 
-![image-20201114090057824](image-20201114090057824.png)
+![image-20201114090057824](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image-20201114090057824.png)
 
 ### 3.2 RAM 的使用
 
 W800 的内存分成两块：160Kbyte 和 128Kbyte，ROM 里的分布如下：
 
-![image-20201114090200382](image-20201114090200382.png)
+![image-20201114090200382](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_ROM/image-20201114090200382.png)
 
 
 

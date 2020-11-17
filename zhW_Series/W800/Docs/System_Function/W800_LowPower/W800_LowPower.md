@@ -33,7 +33,7 @@ MCU：Micro Control Unit，单片机（上位机）
 
 这三种低功耗模式区别如下：
 
-![image-20201114100739746](image-20201114100739746.png)
+![image-20201114100739746](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114100739746.png)
 
 说明：
 
@@ -70,12 +70,12 @@ W800 在连接 AP 以后，会在 AP 广播 Beacon 帧的两次 DTIM 间隔时�
 
 格式（ASCII）：
 
-![image-20201114100904521](image-20201114100904521.png)
+![image-20201114100904521](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114100904521.png)
 
 参数：
 enable：使能标志，定义如下：
 
-![image-20201114100936744](image-20201114100936744.png)
+![image-20201114100936744](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114100936744.png)
 
 ### 4.2 使用场景
 
@@ -117,16 +117,16 @@ PMU 定时器唤醒通过接口 void tls_pmu_timer0_start(u16 second) 或 voidtl
 
 格式（ASCII）：
 
-![image-20201114101107959](image-20201114101107959.png)
+![image-20201114101107959](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101107959.png)
 
 参数：
 ps_type：节能模式，定义如下：
 
-![image-20201114101130680](image-20201114101130680.png)
+![image-20201114101130680](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101130680.png)
 
 wake_type： Standby/Sleep 唤醒模式，定义如下：
 
-![image-20201114101152550](image-20201114101152550.png)
+![image-20201114101152550](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101152550.png)
 
 delay_time：进入 Standby/Sleep模式的延时时间，单位 10ms，有效值100 ～10000ms；
 
@@ -174,16 +174,16 @@ PMU 定时器唤醒通过接口 void tls_pmu_timer0_start(u16 second) 或 voidtl
 
 格式（ASCII）：
 
-![image-20201114101348270](image-20201114101348270.png)
+![image-20201114101348270](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101348270.png)
 
 参数：
 ps_type：节能模式，定义如下：
 
-![image-20201114101407150](image-20201114101407150.png)
+![image-20201114101407150](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101407150.png)
 
 wake_type： Standby/Sleep 唤醒模式，定义如下：
 
-![image-20201114101429742](image-20201114101429742.png)
+![image-20201114101429742](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101429742.png)
 
 delay_time：进入 Standby/Sleep模式的延时时间，单位 10ms，有效值100 ～10000ms；
 
@@ -217,7 +217,7 @@ Wi-Fi 不可用时，CPU 时钟可配置为小于 40MHz 的时钟，最小可配
 
 ①W800 开发板
 
-![image-20201114101558799](image-20201114101558799.png)
+![image-20201114101558799](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101558799.png)
 
 由于测试的是 W800 SOC 本身功耗，所以，在测试之前，将 W800 开发板本身对功耗存在影响的相关器件去除，具体如下：
 
@@ -230,18 +230,18 @@ B→ 为避免电容充放电过程对测试功耗的干扰，将 W800 开放板
 
 ②电源输入设备
 
-![image-20201114101651797](image-20201114101651797.png)
+![image-20201114101651797](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101651797.png)
 
 使用 Agilent 66319D 向 W800 提供 3.3V 稳定电源输入。
 ③电流计量设备
 
-![image-20201114101711325](image-20201114101711325.png)
+![image-20201114101711325](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101711325.png)
 
 使用 Agilent 34401A 串入 66319D 向 W800 的供电电路中，以精确记录经过 W800的电流。
 
 ④Agilent 14565A DCS 软件
 
-![image-20201114101747182](image-20201114101747182.png)
+![image-20201114101747182](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101747182.png)
 
 通过该软件对 66319D 设备的操控，可自动记录和计算 W800 的精确电流数据。
 
@@ -249,7 +249,7 @@ B→ 为避免电容充放电过程对测试功耗的干扰，将 W800 开放板
 
 该模式的测试连接图如下，即 34401A 串入 66319D 向 W800 的供电电路中，如下图：
 
-![image-20201114101816262](image-20201114101816262.png)
+![image-20201114101816262](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101816262.png)
 
 #### 8.2.1 测试步骤
 
@@ -269,7 +269,7 @@ AT+ENTS=1, 1, 5000, 30000 ---设置 W800 在 5 秒后进入 Standby 状态并持
 
 该模式的测试连接图如下，即 66319D 直接向 W800 供电。
 
-![image-20201114101916125](image-20201114101916125.png)
+![image-20201114101916125](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114101916125.png)
 
 8.3.1 测试步骤
 * 66319D 上电后，依次按键 Recall 和 Enter；
@@ -288,13 +288,13 @@ AT+ENTS=2, 1, 5000, 30000 ---设置 W800 在 5 秒后进入 Sleep 状态并持�
 
 完成上述命令，等待 8 秒后，按照图 7 中执行序号 7 和 8，即可获得 W800 在 sleep状态下的电流数据
 
-![image-20201114102042318](image-20201114102042318.png)
+![image-20201114102042318](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114102042318.png)
 
 #### 8.3.2 测试结果
 
 打开保存的数据文件预览如下：
 
-![image-20201114102104796](image-20201114102104796.png)
+![image-20201114102104796](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_LowPower/image-20201114102104796.png)
 
 ### 8.4 PS-Mode 模式测试
 
