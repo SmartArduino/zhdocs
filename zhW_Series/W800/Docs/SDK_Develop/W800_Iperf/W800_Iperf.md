@@ -43,7 +43,7 @@ ip：服务端 ip 地址，点分十进制格式；
 
 bandwidth：udp 测试带宽值，十进制表示，其单位可用设置如下：
 
-![image-20201114135007345](image-20201114135007345.png)
+![image-20201114135007345](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135007345.png)
 
 time：测试持续的总时长，十进制表示，单位秒；
 
@@ -53,7 +53,7 @@ blocksize：tcp分块大小，十进制表示，单位字节；
 
 PC 端提供的 Iperf 测试工具为“wm_perf.exe”，可以通过使用“wm_perf.exe -h”得到其所有的用法：
 
-![image-20201114135046869](image-20201114135046869.png)
+![image-20201114135046869](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135046869.png)
 
 ### 2.2 使用示例
 
@@ -61,25 +61,25 @@ PC 端提供的 Iperf 测试工具为“wm_perf.exe”，可以通过使用“wm
 
 给模块发送指令“AT+THT=s,-i=1”即可，这时会有如下显示：
 
-![image-20201114135123954](image-20201114135123954.png)
+![image-20201114135123954](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135123954.png)
 
 #### 2.2.2 模块做 UDP 测试
 
 如 果 用 作 Server 的 IP 地 址 为 192.168.19.102 ， 那 么 给 模 块 发 送 指 令“AT+THT=c,192.168.19.102,UDP,-b=5M,-t=10,-i=1”即可，这时会有如下显示：
 
-![image-20201114135156276](image-20201114135156276.png)
+![image-20201114135156276](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135156276.png)
 
 #### 2.2.3 模块做 TCP Client 测试
 
 如 果 用 作 Server 的 IP 地 址 为 192.168.19.102 ， 给 模 块 发 送 指 令“AT+THT=c,192.168.19.102,TCP,-l=1024,-t=10,-i=1”即可，这时会有如下显示：
 
-![image-20201114135227531](image-20201114135227531.png)
+![image-20201114135227531](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135227531.png)
 
 #### 2.2.4 PC 端做 Server 测试
 
 在 PC 端执行“wm_perf -s -i 1”即可，这时会有如下显示：
 
-![image-20201114135247897](image-20201114135247897.png)
+![image-20201114135247897](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135247897.png)
 
 #### 2.2.5 PC 端做 TCP Client 测试
 
