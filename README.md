@@ -91,7 +91,9 @@
   * [ W800_固件升级指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_FirewareUpdate/W800_FirewareUpdate.md)
   * [ W800_蓝牙系统架构及API描述](zh/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/W800_BLEAPI.md)
   * [ W800开发板接口使用指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_BLEAPI/W800_BLEAPI.md)
-  * [ W800开发板接口使用指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_Board/W800_Board.md)
+  * [W800批量烧录工具操作指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_Down/W800_Down.md)
+  * [W800认证测试工具说明](zh/zhW_Series/W800/Docs/SDK_Develop/W800_CerTest/W800_CerTest.md)
+  * [W800研发验证指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/W800_DevGuide.md)
 
 
 # 乐鑫系列
