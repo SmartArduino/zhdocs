@@ -97,6 +97,14 @@
   * [WM_W800_SDK_DEMO使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/W800_DevGuide.md)
   * [WiFi_自由通信接口使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_SDKDEMO/WM_W800_SDKDEMO.md)
   * [WM_W800_CDS使用手册](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
+  * [WM_W800_SDK_OS移植指导](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_SDKOS/WM_W800_SDKOS.md)
+  * [WM_W800_SDK脚本编译指南](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_SDKShell/WM_W800_SDKShell.md)
+  * [WM_W800_SDK用户手册](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
+  * [WM_W800_SWD调试配置指南](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
+  * [WM_W800_低功耗使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
+  * [WM_W800_固件升级指导](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
+  * [WM_W800_快速入门](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
+  * [WM_WiFi_自由通信接口使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/WM_W800_CDS/WM_W800_CDS.md)
 
 
 # 乐鑫系列
