@@ -201,6 +201,7 @@
   * [Y100坦克底盘](zh/zhSmartCAR/Y_Series/Y100/Y100.md)
   * [YP100坦克底盘](zh/zhSmartCAR/Y_Series/YP100/YP100.md)
   * [MC300小车安装说明 ](zh/zhSmartCAR/MC_Series/MC300/MC300.md)
+  * [红外遥控循迹避障小车 ](zh/zhSmartCAR/TrackingObstacleCar/TrackingObstacleCar.md)
 * [**【 三】接线使用说明**]
   * [T900坦克底盘小车和ESPDuino](zh/zhSmartCAR/T_Series/T900/ESPduinoT900Connect.md)
   * [ViVI人形机械人的使用说明](zh/zhRobotArm/HumanoidRobot/ViViRobot/ViViUseInstructions.md)
