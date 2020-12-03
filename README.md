@@ -22,6 +22,7 @@
   * [W600串口调试工具](zh/zhW_Series/Tools/serial.md)
   * [W800批量烧录工具](zh/zhW_Series/Tools/serial.md)
   * [W800 SDK及相关资源](zh/zhW_Series/W800/SDK/SDK.md)
+  * [W800官方固件](https://github.com/SmartArduino/zhdocs/tree/master/zhW_Series/W800/Firmware)
 
 # 联盛德系列
 
