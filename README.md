@@ -21,6 +21,7 @@
   * [W60X OneShot一键配网](zh/zhW_Series/Tools/oneshot.md)
   * [W600串口调试工具](zh/zhW_Series/Tools/serial.md)
   * [W800批量烧录工具](zh/zhW_Series/Tools/serial.md)
+  * [W800 SDK及相关资源](zh/zhW_Series/W800/SDK/SDK.md)
 
 # 联盛德系列
 

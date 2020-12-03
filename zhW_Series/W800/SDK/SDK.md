@@ -1,4 +1,4 @@
-<center><font size=10> W800 SDK </center></font>
+<center><font size=10> W800 SDK及相关资源 </center></font>
 <center> From SZDOIT</center>
 
 ​	这里提供的SDK、开发环境等相关资料，请自行下载：
