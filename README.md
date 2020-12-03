@@ -69,10 +69,10 @@
   * [W800蓝牙小程序配网操作说明 ](zh/zhW_Series/W800/Docs/Small_program/Small_program.md)
 
 
-* 【一】W800入门指南
+* 【二】W800入门指南
   * [W800入门手册](zh/zhW_Series/W800/Docs/SDK_Develop/start/Start.md)
   * [W800_SDK_AT指令用户手册 ](zh/zhW_Series/W800/Docs/AT_Command/ATCommadUse.md)
-* 【二】W800简介
+* 【三】W800简介
   
   * [W800芯片手册](zh/zhW_Series/W800/Docs/DateSheet/manual/DateSheet.md)
   * [W800芯片设计指导](zh/zhW_Series/W800/Docs/DataSheet/guide/guide.md)
@@ -83,7 +83,7 @@
   * [W800_参数区使用说明](zh/zhW_Series/W800/Docs/System_Function/W800_Parameter/W800_Parameter.md)
   * [W800_低功耗使用指导](zh/zhW_Series/W800/Docs/System_Function/W800_LowPower/W800_LowPower.md)
   * [W800_固件生成说明](zh/zhW_Series/W800/Docs/System_Function/W800_CreatFirmware/W800_CreatFirmware.md)
-* **【二】SDK API 和 开发指导**
+* **【四】SDK API 和 开发指导**
   * [W800 Iperf测试工具使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/W800_Iperf.md)
   * [W800_CDS使用手册](zh/zhW_Series/W800/Docs/SDK_Develop/W800_CDS/W800_CDS.md)
   * [W800_SDK DEMO运行指南](zh/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/W800_SDK_DEMO.md)
@@ -128,7 +128,7 @@
 
 ## ESP8285
 
-* **【二】ESP8285模组**
+* **【一】ESP8285模组**
   * [DMP-L1](zh/zhESPSeries/ESP8285/DOIT_DMP-L1/DOIT_DMP-L1.md)
   * [DMP-P1](zh/zhESPSeries/ESP8285/DOIT_DMP-P1/DOIT_DMP-P1.md)
   * [ESP-M1](zh/ESPSeries/ESP8285/espm1/espm1.md)
