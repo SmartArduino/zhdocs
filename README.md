@@ -252,7 +252,7 @@
 ## 电源
 
 * [18650电池](zh/zhEngine/18650/18650.md)
-* [11.1V 5400mAh航模电池](zh/zhEngine/ModelAircraftBatteries/ModelAircraftBatteries.md)
+* [5400mAh航模电池](zh/zhEngine/ModelAircraftBatteries/ModelAircraftBatteries.md)
 
 
 
