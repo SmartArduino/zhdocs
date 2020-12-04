@@ -242,6 +242,9 @@
 ## 发动机
 * [**【二】电机**]
   * [9v 电机](zh/Robot/Engine/9vMotor/9vmotor.md)
+  * [DT37GB-520高扭矩直流减速电机](zh/Robot/Engine/9vMotor/9vmotor.md)
+  * [33GB-520直流减速电机](zh/Robot/Engine/9vMotor/9vmotor.md)
+  * [XD_37GB520有刷直流大功率电机](zh/Robot/Engine/9vMotor/9vmotor.md)
 * [**【二】舵机**]
   * [DS3218 舵机](zh/zhEngine/ds3218/ds3218.md)
   * [舵机测试仪使用](zh/Robot/Engine/servotester/servoTester.md)
