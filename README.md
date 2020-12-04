@@ -252,7 +252,7 @@
 ## 电源
 
 * [18650电池](zh/zhEngine/18650/18650.md)
-* [航模电池](zh/FrontEnd/Vue/vue-base-notes.md)
+* [11.1V 5400mAh航模电池](zh/zhEngine/11.1VAircraftBatteries/11.1VAircraftBatteries.md)
 
 
 
