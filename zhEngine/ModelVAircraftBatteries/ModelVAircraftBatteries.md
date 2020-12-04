@@ -1,4 +1,4 @@
-<center><font size=10> 11.1V 5400mAh航模电池 </center></font>
+<center><font size=10> 5400mAh航模电池 </center></font>
 <center> From SZDOIT</center>
 
 ## 1 简介
