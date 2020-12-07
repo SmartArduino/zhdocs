@@ -3,7 +3,7 @@
 
 ## 1 简介
 
-​	11.1V航模电池是一款低价格、高品质的3S锂电池，使用于智能小车、机器人、航拍等
+​	11.1V航模电池是一款低价格、高品质的3S锂电池，适用于智能小车、机器人、航拍等
 
 ![battery1](https://github.com/SmartArduino/zhdocs/raw/master/zhEngine/ModelAircraftBatteries/battery1.png)
 
