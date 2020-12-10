@@ -6,13 +6,7 @@
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps2.jpg) 
-
- 
-
-##  
-
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps2.jpg) ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps3.jpg) 
 
 # 2. 参数规格
 
