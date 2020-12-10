@@ -7,9 +7,9 @@
 
 如果手机没有自动跳转到配网界面，请打开手机浏览器输入：htt://192.168.4.1，等待进入配网界面。请在跳网面页中选择您的家庭WiFi名称，且请在password中输入密码，点击join。
 
-![wps0](wps0.jpg)
+![wps0](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps0.jpg)
 
-![img](wps1.jpg)![img](wps2.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps1.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps2.jpg) 
 
  
 
@@ -21,19 +21,19 @@
 
  
 
-![img](wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps3.jpg) 
 
 2：请把手机连接到你的家庭WiFi网络
 
 注意：苹果手机和设备必须是在同一个家庭WiFi网络下，即配置网络是选择的WiFi网络（例如设备配置的是连接PB9这个路由器，那么苹果手机也要连接到PB9这个路由）。
 
-![img](wps4.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps4.jpg) 
 
 3：打开苹果手机Home APP 点击添加配件，请点击“没有代码或无法扫描”点击刷新出来的设备，仍然添加，等待加密校验（大约30S），添加设备成功。以后方便操作请重新命名，并享受它
 
-![img](wps5.jpg)![img](wps6.jpg)![img](wps7.jpg)![img](wps8.jpg)![img](wps9.jpg)![img](wps10.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps5.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps6.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps7.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps8.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps9.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps10.jpg)
 
-![img](wps11.jpg)![img](wps12.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps11.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/MultifunctionalSensor/wps12.jpg) 
 
  
 
