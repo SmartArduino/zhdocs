@@ -175,6 +175,7 @@
 * [DoHome国标智能插座](zh/zhSmartProduct/DoHomeGBSmartSocket/DoHomeGBSmartSocket.md)
 * [DoHome圣诞灯](zh/zhSmartProduct/DoHomeChristmasTree/DoHomeChristmasTree.md)
 * [HomeKit WiFi智能 灯带控制器](zh/zhSmartProduct/HomeKitLightbeltController/HomeKitLightbeltController.md)
+* [月球灯的使用说明](zh/zhSmartProduct/MoonLight/MoonLight.md)
 ## WiFi探针
 
 * [SSID广告机](zh/Prober/ssid/ssid.md)
