@@ -1567,7 +1567,7 @@ const uint8_t presetMod[9][8] =
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps69.png) 
 
-## 6.3.AT指令
+### 6.3.AT指令
 
 BL602/BL604模组都支持AT固件进行快速开发，AT固件的demo在SDK目录下的customer_appbl602_demo_at，本例程通过AT指令实现一些wifi和ble的一些操作。
 
