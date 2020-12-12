@@ -548,7 +548,7 @@ static void ble_connect_cb(uint8_t status, char addr){     //蓝牙连接状态�
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps37.png) 
 
-## 4.2.蓝牙配网
+### 4.2.蓝牙配网
 
 在SDK下的路径...customer_appsdk_app_ble_sync有蓝牙配网的例程，编译例程后烧录程序，用微信扫一扫扫描此二维码，进入配网小程序。
 
