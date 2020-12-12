@@ -24,6 +24,10 @@
   * [W800 SDK及相关资源](zh/zhW_Series/W800/SDK/SDK.md)
   * [W800官方固件](https://github.com/SmartArduino/zhdocs/tree/master/zhW_Series/W800/Firmware)
 
+## 源码
+
+  * [BL602 示例源码](https://github.com/SmartArduino/Doiting_BL)
+
 # 联盛德系列
 
 ## W60X
