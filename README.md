@@ -22,7 +22,7 @@
   * [W60X OneShot一键配网](zh/zhW_Series/Tools/oneshot.md)
   * [W600串口调试工具](zh/zhW_Series/Tools/serial.md)
   * [W800批量烧录工具](zh/zhW_Series/Tools/serial.md)
-  * [Arduino UNO WiFi/蓝牙视屏控制套件APK软件](https://github.com/SmartArduino/SmartArduino.github.io/blob/master/docs/Robot/Controller/app/base.apk)
+  * [Arduino UNO WiFi/蓝牙/视屏控制套件APK软件](https://github.com/SmartArduino/SmartArduino.github.io/blob/master/docs/Robot/Controller/app/base.apk)
 * **【二】源码**
   * [W800 SDK及相关资源](zh/zhW_Series/W800/SDK/SDK.md)
   * [W800官方固件](https://github.com/SmartArduino/zhdocs/tree/master/zhW_Series/W800/Firmware)
