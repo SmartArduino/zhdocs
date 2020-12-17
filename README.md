@@ -156,7 +156,7 @@
   * [ESP-M2](zh/zhESPSeries/ESP8285/DOIT_ESP-M2/DOIT_ESP-M2.md)
   * [ESP-M3](zh/zhESPSeries/ESP8285/DOIT_ESP-M3/DOIT_ESP-M3.md)
   * [ESP-M4](zh/zhESPSeries/ESP8285/DOIT_ESP-M4/DOIT_ESP-M4.md)
-* ### **【二】ESP8285开发板**
+* ### 【二】ESP8285开发板
   
   * [DT-06开发板类似蓝牙HC-06](zh/ESPSeries/ESP8285/DT06/DT06.md)
 
@@ -170,7 +170,8 @@
   * [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/DOIT_DT-W5G1.md)
 
 # 博流系列
-* **【一】BL602**
+* ### 【一】BL602
+  
   * [入门指南](zh/zhBouffaloLab/BL602/start/start.md)
   * [BL602/BL604芯片数据手册](zh/zhBouffaloLab/BL602/datasheet/datasheet.md)
   * [博流BL602&BL604开发板教程](zh/zhBouffaloLab/BL602/DevelopmentTutorial/DevelopmentTutorial.md)
@@ -204,7 +205,8 @@
 
 ## 底盘类安装使用手册
 
-* [**【一】机器人配件**]
+* ### 【一】机器人配件
+  
   * [2自由度支架](zh/zhRobotArm/2DOFRobotArm/2DOFRobotArm.md)
   * [2自由度云台](zh/Robot/FrameChassis/2dofplatform/2dofplatform.md)
   * [坦克底盘之金属驱动轮](zh/zhSmartCAR/Wheel/MetaDrivingWheel/metaldrivingwheel.md)
@@ -212,7 +214,8 @@
   * [坦克底盘之履带](zh/Robot/FrameChassis/track/track.md)
 
 
-* [**【 二】完整车架底盘**]
+* ### 【 二】完整车架底盘
+  
   * [C4 4WD底盘 小车](zh/zhSmartCAR/C_Series/C4/C4.md)
   * [C101小车安装说明](zh/zhSmartCAR/C_Series/C101/C101.md)
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
@@ -230,19 +233,23 @@
   * [YP100坦克底盘](zh/zhSmartCAR/Y_Series/YP100/YP100.md)
   * [MC300小车安装说明 ](zh/zhSmartCAR/MC_Series/MC300/MC300.md)
   * [红外遥控循迹避障小车 ](zh/zhSmartCAR/TrackingObstacleCar/TrackingObstacleCar.md)
-* [**【 三】接线使用说明**]
+* ### 【 三】接线使用说明
+  
   * [T900坦克底盘小车和ESPDuino](zh/zhSmartCAR/T_Series/T900/ESPduinoT900Connect.md)
   * [ViVI人形机械人的使用说明](zh/zhRobotArm/HumanoidRobot/ViViRobot/ViViUseInstructions.md)
-* [**【四】机械臂**]
+* ### 【四】机械臂
+  
   * [车载机械臂](zh/Robot/FrameChassis/cararm/cararm.md)
   * [6/7自由度机械臂](zh/zhRobotArm/RobotArm/RobotArm/RobotArm.md)
   * [6自由度云台机械臂](zh/zhRobotArm/RobotArm/6DOFYunTaiRobotArm/6DOFYunTaiRobotArm.md)
   * [4DOF亚克力机械臂](zh/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/4DOFAcrylicMechanicalArm.md)
   * [4自由度机械臂](zh/zhRobotArm/RobotArm/3DOFRobotArm/3DOFRobotArm.md)
-* [**【五】爪子**]
+* ### 【五】爪子
+  
   * [G6爪子](zh/zhRobotArm/claws/G6/G6.md)
   * [G8爪子](zh/zhRobotArm/claws/G8/G8.md)
-* [**【六】人形机器人**]
+* ### 【六】人形机器人
+  
   * [8自由度人形机器人](zh/zhRobotArm/HumanoidRobot/8DOFRobot/8DOFRobot.md)
   * [9自由度人形机器人](zh/zhRobotArm/HumanoidRobot/9DOFRobot/9DOFRobot.md)
   * [13自由度人形机器人](zh/zhRobotArm/HumanoidRobot/13DOFRobot/13DOFRobot.md)
@@ -266,12 +273,14 @@
 * [USB转UART/SPI/IIC/TTL等多功能适配器](zh/zhControlPanel/MultifunctionAdapter/MultifunctionAdapter.md)
 
 ## 发动机
-* [**【二】电机**]
+* ### 【一】电机
+  
   * [9v 电机](zh/Robot/Engine/9vMotor/9vmotor.md)
   * [DT37GB-520高扭矩直流减速电机](zh/Robot/Engine/9vMotor/9vmotor.md)
   * [33GB-520直流减速电机](zh/Robot/Engine/9vMotor/9vmotor.md)
   * [XD_37GB520有刷直流大功率电机](zh/Robot/Engine/9vMotor/9vmotor.md)
-* [**【二】舵机**]
+* ### 【二】舵机
+  
   * [DS3218 舵机](zh/zhEngine/ds3218/ds3218.md)
   * [舵机测试仪使用](zh/Robot/Engine/servotester/servoTester.md)
 
