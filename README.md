@@ -21,13 +21,13 @@
 
 ## 工具类
 
-* ### **【一】软件**
+* ### 【一】软件
   
   * [W60X OneShot一键配网](zh/zhW_Series/Tools/oneshot.md)
   * [W600串口调试工具](zh/zhW_Series/Tools/serial.md)
   * [W800批量烧录工具](zh/zhW_Series/Tools/serial.md)
   * [Arduino UNO WiFi/蓝牙/视屏控制套件APK软件](https://github.com/SmartArduino/SmartArduino.github.io/blob/master/docs/Robot/Controller/app/base.apk)
-* ### **【二】源码**
+* ### 【二】源码
   
   * [W800 SDK及相关资源](zh/zhW_Series/W800/SDK/SDK.md)
   * [W800官方固件](https://github.com/SmartArduino/zhdocs/tree/master/zhW_Series/W800/Firmware)
@@ -40,13 +40,13 @@
 
 ## W60X
 
-* ### **【一】入门指南**
+* ### 【一】入门指南
   
   * [W600 Arduino入门指南](zh/zhW_Series/start/arduino/arduino.md)
   * [W60X RT-Thread入门指南](zh/zhW_Series/start/rt-thread/rt-thread.md)
   * [W600 Keil开发环境搭建](zh/zhW_Series/start/ide/ide.md)
   * [W600 固件烧录指南](zh/zhW_Series/start/download/download.md)
-* ### **【二】调试使用指南**
+* ### 【二】调试使用指南
     
     * [W600 基于Jlink的SWD接口调试指南](zh/zhW_Series/Debugging/Jlink/Jlink.md)
     * [W600 基于RI指令集的SPI调试指南](zh/zhW_Series/Debugging/RI_SPI/spi.md)
@@ -56,14 +56,14 @@
     * [联盛德版本AT使用指南](zh/zhW_Series/Debugging/AT/wm-start.md)
 
 
-* ### **【三】W600简介**
+* ### 【三】W600简介
   
   * [W600芯片手册](zh/zhW_Series/W600/DateSheet/DateSheet.md)
   * [W600寄存器手册](zh/zhW_Series/W600/RegisterManual/RegisterManual.md)
-* ### **【四】W601简介**
+* ### 【四】W601简介
   
   * [W601简介](zh/zhW_Series/W601/Introduction/Introduction.md)
-* ### **【五】W60X模组**
+* ### 【五】W60X模组
   
   * [TB-01 WiFi 模组](zh/zhW_Series/W600/Module/tb-01.md)
   * [TB-02 WiFi 模组](zh/zhW_Series/W600/Module/tb-02.md)
@@ -72,12 +72,12 @@
   * [TW-03 WiFi 模组](zh/zhW_Series/W600/Module/tw-03.md)
 * [TW-07 WiFi 模组](zh/zhW_Series/W600/Module/tw-07.md)
   
-* ### **【六】常见问题**
+* ### 【六】常见问题
   
   * [W600常见问题](zh/W600Series/faq/index.md)
 
 
-## **W800**
+## W800
 
 * ### 【一】蓝牙配网
   
@@ -103,7 +103,7 @@
   * [W800_参数区使用说明](zh/zhW_Series/W800/Docs/System_Function/W800_Parameter/W800_Parameter.md)
   * [W800_低功耗使用指导](zh/zhW_Series/W800/Docs/System_Function/W800_LowPower/W800_LowPower.md)
   * [W800_固件生成说明](zh/zhW_Series/W800/Docs/System_Function/W800_CreatFirmware/W800_CreatFirmware.md)
-* ### **【四】SDK API 和 开发指导**
+* ### 【四】SDK API 和 开发指导
   
   * [W800 Iperf测试工具使用指导](zh/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/W800_Iperf.md)
   * [W800_CDS使用手册](zh/zhW_Series/W800/Docs/SDK_Develop/W800_CDS/W800_CDS.md)
@@ -127,9 +127,9 @@
 ## ESP8266
 * [从零开始学习ESP8266](zh/zhESPSeries/start/start.md)
 
-* ### **【一】ESP8266芯片**
+* ### 【一】ESP8266芯片
   
-* ### **【二】ESP8266模组**
+* ### 【二】ESP8266模组
   
   * [ESP-F](zh/zhESPSeries/ESP8266/DOIT_ESP-F/DOIT_ESP-F.md)
   * [ESP-F1](zh/zhESPSeries/ESP8266/DOIT_ESP-F1/DOIT_ESP-F1.md)
@@ -140,7 +140,7 @@
   * [ESP-01S](zh/zhESPSeries/ESP8266/DOIT_ESP-01S/DOIT_ESP-01S.md)
   * [ESP-07](zh/zhESPSeries/ESP8266/DOIT_ESP-07/DOIT_ESP-07.md)
   
-* ### **【三】ESP8266开发板**
+* ### 【三】ESP8266开发板
   
   * [ESPduino=带WiFi的Arduino开发板](zh/ESPSeries/ESP8266/ESPDUINO/espduino.md)
   * [WiFi扩展板=给Arduino增加WiFi](zh/zhControlPanel/WiFiShiled/WiFiShiled.md)
