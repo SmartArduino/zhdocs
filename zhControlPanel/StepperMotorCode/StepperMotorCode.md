@@ -3,13 +3,13 @@
 
 ## 1 控制板
 
-![wps1](wps1.jpg)
+![wps1](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/StepperMotorCode/wps1.jpg)
 
 这款板子的详细资料，请查阅：https://gitnova.com/#/zh/zhControlPanel/DOIT-ARM/DOIT-ARM
 
 ## 2 接线
 
-![wps2](wps2.png)
+![wps2](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/StepperMotorCode/wps2.png)
 
 ## 3 蓝牙WiFi控制软件
 
