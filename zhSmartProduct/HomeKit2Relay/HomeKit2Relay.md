@@ -4,7 +4,7 @@
 
 ## 1 外观及参数
 
-![img](wps48.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps48.jpg) 
 
 |       参数       |            说明            |
 | :--------------: | :------------------------: |
@@ -20,7 +20,7 @@
 
 ## 2 接口简介
 
-![img](wps49.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps49.jpg) 
 
  
 
@@ -47,35 +47,35 @@ For HomeKit Model（仅苹果手机）:
 
 注意：如果手机没有自动跳转到配网页面，请打开手机浏览器输入：http://192.168.4.1。等待进入配网页面。
 
-![img](wps50.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps50.jpg) 
 
 第二步：请在跳转页面中选择你的家庭WiFi名称，且在password中输入密码，点击join图标（如图2），并且查看智能插座指示灯在常亮状态。（图中WiFi账号仅供参考）。
 
 注意：如果没有找到您的路由器或者智能插座在其他状态。请查看常见问题，并且重新给智能插座配网。
 
-![img](wps51.jpg)![img](wps52.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps51.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps52.jpg) 
 
 第三步：检查你的苹果手机否安装“家庭 APP”，如果没有安装“家庭 APP”，请在App Store下载“家庭 APP”（如图3）。如果已经安装，请进行第四步。
 
  
 
-![img](wps53.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps53.jpg) 
 
 第四步：确保苹果手机连接到你的家庭WiFi网络（如图4）
 
 注意：苹果手机和智能插座必须是在同一个家庭WiFi网络下。
 
-![img](wps54.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps54.jpg) 
 
 第五步：打开苹果手机Home APP， 点击添加配件，点击“没有代码或无法扫描”，点击设备，点击仍然添加，输入设置代码：12345678，等待加密校验（30s-50s），添加设备成功。为了以后方便操作请重新命名。
 
-![img](wps55.png)![img](wps56.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps55.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps56.png)
 
-![img](wps57.jpg)![img](wps58.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps57.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps58.png)
 
-![img](wps59.png)![img](wps60.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps59.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps60.jpg)
 
-![img](wps61.jpg)![img](wps62.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps61.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKit2Relay/wps62.jpg)
 
  
 
