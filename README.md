@@ -188,7 +188,9 @@
 
 ## 智能产品
 
+* [HomeKit 继电器模块](zh/zhSmartProduct/HomeKit1Relay/HomeKit1Relay.md)
 * [HomeKit 2路继电器模块](zh/zhSmartProduct/HomeKit2Relay/HomeKit2Relay.md)
+* [HomeKit 4路继电器模块](zh/zhSmartProduct/HomeKit4Relay/HomeKit4Relay.md)
 * [HomeKit DoHome温湿度采集器](zh/zhSmartProduct/HomeKitTemAndHum/HomeKitTemAndHum.md)
 * [HomeKit四合一多功能传感器](zh/zhSmartProduct/MultifunctionalSensor/MultifunctionalSensor.md)
 * [HomeKit红外人体感应器](zh/zhSmartProduct/HumanSensor/HumanSensor.md)
