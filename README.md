@@ -296,6 +296,8 @@
 
 * ### 【三】其他模块
 
+   *  [32路舵机控制板使用说明](zh/zhControlPanel/32SERVO/32SERVO.md)
+   
    * [BN880 GPS + 罗盘一体模块数据手册](zh/zhControlPanel/BN880/BN880.md)
 
 ## 发动机
