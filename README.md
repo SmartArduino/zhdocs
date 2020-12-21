@@ -95,7 +95,7 @@
 * ### 【三】W800简介
   
   * [W800芯片手册](zh/zhW_Series/W800/Docs/DateSheet/manual/DateSheet.md)
-  * [W800芯片设计指导](zh/zhW_Series/W800/Docs/DataSheet/guide/guide.md)
+  * [W800芯片设计指导](zh/zhW_Series/W800/Docs/DateSheet/guide/guide.md)
   * [W800_QFLASH布局说明](zh/zhW_Series/W800/Docs/System_Function/W800_QFLASH/W800_QFLASH.md)
   * [W800_ROM功能简述](zh/zhW_Series/W800/Docs/System_Function/W800_ROM/W800_ROM.md)
   * [W800_SECBOOT功能简述](zh/zhW_Series/W800/Docs/System_Function/W800_SECBOOT/W800_SECBOOT.md)
