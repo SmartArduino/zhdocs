@@ -174,11 +174,11 @@
 
   * ### 【一】DT-W5G1简介
 
-    * [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/DOIT_DT-W5G1.md)
+    * [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/Profile/DOIT_DT-W5G1.md)
 
   * ### 【二】相关工具
 
-    * [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/DOIT_DT-W5G1.md)
+    * [DT-W5G1相关工具下载](zh/zhESPSeries/DOIT_DT-W5G1/Tools/Tools.md)
 
 # 博流系列
 * ### 【一】BL602/BL604简介
