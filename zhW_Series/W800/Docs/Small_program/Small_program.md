@@ -5,28 +5,19 @@
 
 step1:手机打开WiFi和蓝牙功能，微信搜索 WMBleWiFi 小程序,打开小程序
 
-
-
 step2:给W800输入AT指令启动蓝牙配网
 
 AT+BTEN=1,6
+
 AT+ONESHOT=4
-
-
 
 step3:在小程序设备列表中搜索并选择 WM-xx:xx:xx 设备
 
-
-
 step4:填入需要连接的ssid和密码，点击“配置”按键启动蓝牙配网流程
-
-
 
 step5:配网成功后，W800输入如下AT指令退出蓝牙配网
 
 AT+BTDES
-
-
 
 **支持与服务**
 
