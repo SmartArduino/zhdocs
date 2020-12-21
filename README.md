@@ -171,13 +171,13 @@
 # 博流系列
 * ### 【一】BL602/BL604简介
 
-  * [BL602/BL604芯片数据手册](zh/zhBouffaloLab/BL602/datasheet/datasheet.md)
+  * [BL602/BL604芯片数据手册](zh/zhBouffaloLab/BL602_BL604/datasheet/datasheet.md)
 
 * ### 【二】BL602/BL604开发指导
   
-  * [入门指南](zh/zhBouffaloLab/BL602/start/start.md)
+  * [入门指南](zh/zhBouffaloLab/BL602_BL604/start/start.md)
 
-  * [博流BL602&BL604开发板教程](zh/zhBouffaloLab/BL602/DevelopmentTutorial/DevelopmentTutorial.md)
+  * [博流BL602&BL604开发板教程](zh/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/DevelopmentTutorial.md)
   * [BL602/BL604参考手册](zh/zhBouffaloLab/BL602_BL604/ReferenceManual/ReferenceManual.md)
 
 
