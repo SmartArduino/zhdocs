@@ -74,7 +74,7 @@
   
 * ### 【六】常见问题
   
-  * [W600常见问题](zh/zhW600Series/faq/index.md)
+  * [W600常见问题](zh/zhW600Series/W600/faq/index.md)
 
 
 ## W800
