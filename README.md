@@ -266,17 +266,37 @@
 
 ## 控制器
 
-* [基于ESPDuino的智能小车固件](zh/zhControlPanel/ESPDuino/firmware.md)
-* [智能小车App](zh/zhControlPanel/ESPDuino/AppforSmartCar.md)
-* [大功率板](zh/zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
-* [ESPduino控制器](zh/zhControlPanel/ESPDuino/ESPDuino.md)
-* [Arduino传感器认识与应用](zh/zhControlPanel/Sensor/Sensor.md)
-* [Arduino的电机驱动板使用](zh/Robot/Controller/controller/unomotorshield.md)
-* [基于手柄的32路舵机控制板使用](zh/Robot/Controller/ps2/PS2SERVO32.md)
-* [基于手柄的Arduino电机驱动板使用](zh/Robot/Controller/ps2/ps2.md)
-* [4路电机16路舵机扩展板使用](zh/Robot/Controller/ps2/4motor16servo.md)
-* [4路步进电机3D打印机械臂控制板](zh/zhControlPanel/DOIT-ARM/DOIT-ARM.md)
-* [USB转UART/SPI/IIC/TTL等多功能适配器](zh/zhControlPanel/MultifunctionAdapter/MultifunctionAdapter.md)
+* ### 【一】智能小车控制板
+
+  * [基于ESPDuino的智能小车固件](zh/zhControlPanel/ESPDuino/firmware.md)
+
+  * [智能小车App](zh/zhControlPanel/ESPDuino/AppforSmartCar.md)
+
+  * [大功率板](zh/zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
+
+  * [ESPduino控制器](zh/zhControlPanel/ESPDuino/ESPDuino.md)
+
+  * [Arduino的电机驱动板使用](zh/Robot/Controller/controller/unomotorshield.md)
+
+  * [基于手柄的32路舵机控制板使用](zh/Robot/Controller/ps2/PS2SERVO32.md)
+
+  * [基于手柄的Arduino电机驱动板使用](zh/Robot/Controller/ps2/ps2.md)
+
+  * [4路电机16路舵机扩展板使用](zh/Robot/Controller/ps2/4motor16servo.md)
+
+  * [4路步进电机3D打印机械臂控制板](zh/zhControlPanel/DOIT-ARM/DOIT-ARM.md)
+
+  * [USB转UART/SPI/IIC/TTL等多功能适配器](zh/zhControlPanel/MultifunctionAdapter/MultifunctionAdapter.md)
+
+
+* ### 【二】传感器模块
+
+   * [Arduino传感器认识与应用](zh/zhControlPanel/Sensor/Sensor.md)
+
+
+* ### 【三】其他模块
+
+   * [BN880 GPS + 罗盘一体模块数据手册](zh/zhControlPanel/BN880/BN880.md)
 
 ## 发动机
 * ### 【一】电机
