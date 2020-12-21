@@ -2,7 +2,7 @@
 
 <center> from SZDOIT </center>
 
-#  基本参数
+##  1 基本参数
 
 型  号：DoLED05
 
@@ -36,7 +36,9 @@ APP 软件类型：DoHome
 
 使用寿命：40000H
 
-# 产品特色（小图标）
+![image-20201221164122474](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/image-20201221164122474.png)
+
+## 2 产品特色（小图标）
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps1.jpg) 
 
@@ -48,15 +50,15 @@ APP 软件类型：DoHome
 
 天猫精灵 google assistant Alexa 
 
-# 使用步骤
+## 3 使用步骤
 
-## 1 灯泡安装
+### 3.1 灯泡安装
 
 按实际情况安装灯泡后再打开电源开关
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps2.jpg) 
 
-## 2 下载手机App
+### 3.2 下载手机App
 
 在应用商店搜索“DoHome”，或扫描以下二维码下载并安装“DoHome”手机客户端软件。
 
@@ -64,7 +66,7 @@ APP 软件类型：DoHome
 
  
 
-## 3 灯泡的控制方式
+### 3.3 灯泡的控制方式
 
   灯泡有3种控制方式:
 
@@ -80,7 +82,7 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
 ü ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps9.jpg)Amazon Alexa： 
 
-### 3.1 本地局域网控制
+#### 3.3.1 本地局域网控制
 
 1) 打开手机的WiFi设置，找到并连接灯的WiFi热点名称为“DoHome_xxxx”，默认密码：12345678;
 
@@ -88,7 +90,7 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
 注意：在此控制模式下，将无法完成灯泡控制的部分功能，如，远程控制灯泡，语音控制等网络功能；
 
-### 3.2 互联网远程控制
+#### 3.3.2 互联网远程控制
 
 1) 手机联网：确保手机已连接互联网WiFi，并能上网；
 
@@ -148,7 +150,7 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
 图6 远程开启及重命名
 
-## 3.3 语音控制
+### 3.4 语音控制
 
   可点击如图2所示的菜单图标![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps10.jpg)，在第三方集成中找到相关使用帮助。
 
@@ -182,7 +184,7 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
  d) 至此，可以Google Assistant语音控制您的DoHome设备了。
 
-# 常见问题
+## 常见问题
 
 Q：设备的WiFi热点名称是什么？默认密码是多少？
 
@@ -210,7 +212,7 @@ A：方便在日后使用语音控制时，能很快记住并说出设备的名�
 
 
 
-# 支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
