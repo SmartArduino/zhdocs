@@ -173,7 +173,7 @@
 
   * [BL602/BL604芯片数据手册](zh/zhBouffaloLab/BL602/datasheet/datasheet.md)
 
-* ### 【二】 BL602/BL604开发指导
+* ### 【二】BL602/BL604开发指导
   
   * [入门指南](zh/zhBouffaloLab/BL602/start/start.md)
 
