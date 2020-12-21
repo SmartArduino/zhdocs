@@ -161,8 +161,14 @@
   * [DT-06开发板类似蓝牙HC-06](zh/ESPSeries/ESP8285/DT06/DT06.md)
 
 ## ESP32
-  * [Arduino IDE搭建esp32开发环境](zh/zhESPSeries/ESP32/ArduinoEnvironment/ArduinoEnvironment.md)
-  * [ESP-32](zh/zhESPSeries/ESP32/ESP32/ESP32.md)
+
+  * ### 【一】开发环境搭建
+
+    * [Arduino IDE搭建esp32开发环境](zh/zhESPSeries/ESP32/ArduinoEnvironment/ArduinoEnvironment.md)
+
+  * ### 【二】ESP-32简介
+
+    * [ESP-32](zh/zhESPSeries/ESP32/ESP32/ESP32.md)
 
 ## 双频WiFi模组
 
