@@ -175,6 +175,7 @@
   * ### 【一】DT-W5G1简介
 
     * [DT-W5G1](zh/zhESPSeries/DOIT_DT-W5G1/Profile/DOIT_DT-W5G1.md)
+    * [DT-W5G1原理图](zh/zhESPSeries/DOIT_DT-W5G1/Schematic/Schematic.md)
 
   * ### 【二】相关工具
 
