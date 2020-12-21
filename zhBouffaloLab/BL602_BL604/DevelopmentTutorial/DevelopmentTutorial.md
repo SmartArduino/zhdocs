@@ -11,7 +11,7 @@ BL602 / BL604是用于超低功耗应用的Wi-Fi + BLE组合芯片组。无线�
 
 支持灵活的GPIO配置。BL602共有16个GPO，BL 604共有23个GPO。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps1.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps1.jpg) 
 
 ### 1.2.芯片主要特点
 
@@ -155,39 +155,39 @@ USB 接口有三种功能：
 
 接着查看电脑的设备管理器，如下图表示驱动已经正确安装，可以跳过这一节：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps2.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps2.png) 
 
 如下图，表示要安装驱动：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps3.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps3.png) 
 
 安装驱动步骤一:CH340 串口驱动位置：.开发软件USB-SERIAL CH340 Driver.rar，解压后如下：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps4.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps5.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps4.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps5.png) 
 
 安装驱动步骤二:把开发板通过 USB 线接到电脑上（要打开开发板电源），提示安装驱动如下：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps6.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps6.png) 
 
 安装驱动步骤三:打开电脑的设备管理器，查看串口的驱动是否已自动安装，如下图是未安装的。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps7.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps7.png) 
 
 安装驱动步骤四:右键更新驱动，如下图：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps8.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps8.png) 
 
 安装驱动步骤五:选择第一步解压好的目录：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps9.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps9.png) 
 
 安装驱动步骤六:选择确定后，有可能会出现以下的提示，选择“始终安装此驱动程序软件”。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps10.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps10.png) 
 
 安装驱动步骤七:安装完成后，设备管理器，如下图：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps11.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps11.png) 
 
 串口驱动程序安装好之后，关于串口程序下载和调试，后面会陆续讲解。
 
@@ -221,7 +221,7 @@ GitHub下载速度较慢，可通过网盘下载完整的SDK：
 
 2. 添加环境变量，填写真实的路径export BL60X_SDK_PATH="$HOME/Doiting_BL/bl_iot_sdk"
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps12.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps12.jpg)
 
 ### 2.3.测试编译环境
 
@@ -243,31 +243,31 @@ Building Finish. To flash build output.
 
 程序编译好后，会在项目目录下生成build_out文件夹，生成的.bin文件就是我们烧录的固件。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps13.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps13.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps14.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps14.jpg) 
 
 在SDK中已经包含烧录工具，位于....../bl_iot_sdk/tools/flash_tool。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps15.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps15.jpg) 
 
 打开烧录工具
 
 1.选择Partition Table, 选择partition_cfg_2M.toml
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps16.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps16.jpg) 
 
 2.选择Boot2 Bin,选择blsp_boot2.bin
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps17.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps17.jpg) 
 
 3. 选择Firmware Bin，根据自己编译出的固件位置选择编译好的固件
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps18.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps18.jpg) 
 
 4．开始烧录，按住D8后按一下EN进入烧录模式，
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps19.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps19.jpg) 
 
  
 
@@ -281,9 +281,9 @@ Building Finish. To flash build output.
 
 BL602/BL604的函数入口在main.c文件中，系统的函数入口为bfl_main(void)函数，编译成功后，烧录程序。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps20.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps20.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps21.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps21.jpg) 
 
  
 
@@ -291,25 +291,25 @@ BL602/BL604的函数入口在main.c文件中，系统的函数入口为bfl_main(
 
 为了方便开发，在bfl_main(void)系统主函数中已经将一些常用的系统函数初始化，后续的开发只需要通过app_main.c文件的void user_main(void)作为函数入口即可。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps22.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps22.jpg) 
 
 为方便调试，示例程序已通过处理使串口打印输出能输出红色和绿色两种颜色，白色部分为系统输出，LOGI(TAG, "LED :%d",value)输出为绿色，LOGE(TAG, "LED :%d",value)，输出为红色。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps23.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps23.jpg) 
 
 编译完成后，烧录程序，将LED灯接到GPIO1，便可以看到LED灯以一秒的频率闪烁。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps24.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps24.jpg)
 
 ### 3.3.PWM呼吸灯
 
 接着上节的GPIO实现LED闪烁效果，本节通过PWM控制来实现LED灯有暗变亮由亮变暗的呼吸效果，BL602/BL604共有五组PWM，其中GPIO与PWM对应的关系如下图：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps25.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps25.jpg) 
 
 选用PWM1控制GPIO1来实现呼吸灯功能
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps26.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps26.jpg) 
 
 编译完成后，烧录程序，将LED灯接到GPIO1，便可以看到LED灯的呼吸效果
 
@@ -337,11 +337,11 @@ gpio_num：gpio
 
 raw_flag：原始数据还是转换成voltage的值
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps27.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps27.jpg) 
 
 编译完成后，烧录程序，将GPIO12接到VCC或GND，可以看到串口输出测量的电压数值和原始数值。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps28.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps28.jpg) 
 
 ### 3.5.FLASH读写操作
 
@@ -353,21 +353,21 @@ EfErrCode ef_set_env_blob(const char key, const void value_buf, size_t buf_len);
 
 size_t ef_get_env_blob(const char key, void value_buf, size_t buf_len, size_t saved_value_len);
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps29.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps29.jpg) 
 
 编译完成后，烧录程序，可以看到串口输出两组wifi信息，绿色打印输出的为存储到FALSH的信息，红色打印输出为从FLASH读取到的信息
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps30.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps30.jpg) 
 
 ### 3.6.定时器控制LED闪烁
 
 本例程通过BL602的定时器实现LED灯的闪烁，Timer库相关的函数如下：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps31.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps31.jpg) 
 
 功能实现：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps32.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps32.jpg) 
 
 编译完成后，烧录程序，每2秒输出一个times，LED灯以2秒的频率闪烁
 
@@ -430,7 +430,7 @@ void ci_loop_proc()
 
 编译完成后烧录程序，打开串口测试工具，发送数据。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps33.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps33.jpg) 
 
 ## 四.蓝牙通讯
 
@@ -540,27 +540,27 @@ static void ble_connect_cb(uint8_t status, char addr){     //蓝牙连接状态�
 
 打开“蓝牙调试器”APP，找到模块发射出的蓝牙，点击设置UUID
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps34.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps35.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps34.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps35.jpg) 
 
 连接成功后发送字符“ok”便会收到模块回复一个“ok”，且LED灯会点亮，手机发送“off”,同意也会收到“off”，此时LED灯会熄灭。串口会输出接收到的蓝牙数据
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps36.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps36.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps37.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps37.png) 
 
 ### 4.2.蓝牙配网
 
 在SDK下的路径...customer_appsdk_app_ble_sync有蓝牙配网的例程，编译例程后烧录程序，用微信扫一扫扫描此二维码，进入配网小程序。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps38.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps38.jpg) 
 
 进入小程序后点击搜索，选择搜索到的蓝牙设备，点击获取wifi列表，选择需要连接的wifi，输入密码点击发送密码，等待连接，连接成功后能看到wifi的相关信息。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps39.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps40.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps39.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps40.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps41.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps41.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps42.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps42.jpg) 
 
 连接成功后串口会输出wifi相关信息
 
@@ -570,7 +570,7 @@ static void ble_connect_cb(uint8_t status, char addr){     //蓝牙连接状态�
 
 系统初始化：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps43.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps43.jpg) 
 
 ```
 WIFI初始化相关函数：
@@ -651,7 +651,7 @@ static void event_cb_wifi_event(input_event_t event, void private_data)
 
 Wifi连接成功后会输出连接的相关信息
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps44.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps44.jpg) 
 
 ### 5.2.TCP CLIENT
 
@@ -776,31 +776,31 @@ void wifi_event_handler(wifi_event_indicate_t event){
 
 在例程中根据你自己的TCP服务器修改IP地址和端口号，将程序编译好完成后烧录到模块，下面用TCP测试工具进行测试。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps45.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps45.jpg) 
 
 本例程所用到的TCP测试工具，下载地址：[http://bbs.doit.am/forum.php?mod=viewthread&tid=174&highlight=tcp![img](file:///C:UsersADMINI~1AppDataLocalTempksohtml4088wps46.jpg)](http://bbs.doit.am/forum.php?mod=viewthread&tid=174&highlight=tcp)也可以用其他TCP调试工具进行测试。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps47.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps47.jpg) 
 
  
 
 按win+R打开程序搜索，输入cmd按回车打开cmd窗口，输入ipconfig查看本地的IP地址，在调试工具中创建服务器，将IP地址指定为查看到的本机IP地址。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps48.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps48.jpg) 
 
 创建服务器后启动服务器
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps49.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps49.jpg) 
 
 等待模块进行TCP连接，连接成功后会向服务器发送“hello”,串口会输出相关信息，同时在TCP调试工具中会出现一个新的连接，
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps50.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps50.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps51.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps51.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps52.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps52.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps53.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps53.jpg) 
 
 ### 5.3.TCP SERVER
 
@@ -896,19 +896,19 @@ __exit:
 
 编译好程序后，将固件烧录到模块后复位，观察串口输出，当连接上wifi后，用TCP测试工具建立TCP client连接。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps54.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps54.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps55.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps55.jpg) 
 
 创建成功后点击连接，连接成功后串口会输出该连接的IP和端口
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps56.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps56.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps57.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps57.jpg) 
 
 连接成功后进行通讯测试，在测试工具中发送的数据，设备在接收到数据后会将数据发送回客户端，同时串口会打印出数据。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps58.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps58.jpg) 
 
 ## 六．综合项目
 
@@ -1306,23 +1306,23 @@ APP测试
 
 1. 扫码下载APP
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps59.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps59.jpg) 
 
 2.进入APP点击右上角添加设备，选择彩色灯
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps60.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps60.jpg) 
 
 2. 按APP提示进行配网操作
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps61.jpg) ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps62.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps61.jpg) ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps62.png)
 
 4.添加设备成功，能从Dohome  APP控制设备
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps63.jpg) ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps64.png)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps63.jpg) ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps64.png)
 
 配网成功后，可使用app控制，也可以绑定智能音箱控制。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps65.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps65.jpg) 
 
 绑定完智能音箱的账号后，就可以使用我们自己的智能音箱进行控制。
 
@@ -1557,15 +1557,15 @@ const uint8_t presetMod[9][8] =
 
 1.扫码下载APP
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps66.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps66.jpg) 
 
 2.连接设备
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps67.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps68.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps67.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps68.jpg) 
 
 3. APP控制设备，可在APP选择多种震动模式
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps69.png) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps69.png) 
 
 ### 6.3.AT指令
 
@@ -1573,15 +1573,15 @@ BL602/BL604模组都支持AT固件进行快速开发，AT固件的demo在SDK目�
 
 编译完成后，在烧录前需要最烧录工具下的一个文件就修改，打开该文件，找到uart部分将两组uart所用的引脚互换，修改后保存，保存后烧录固件到模块。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps70.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps70.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps71.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps71.jpg) 
 
  
 
 复位模块，选择波特率为115200，发送AT返回OK则说明AT固件运行正常
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps72.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps72.jpg) 
 
  
 
@@ -1589,27 +1589,27 @@ TCP server测试
 
 1.设置wifi模式：AT+CWMODE=1
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps73.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps73.jpg) 
 
 2.连接wifi：AT+CWJAP=Doit,doit3305
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps74.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps74.jpg) 
 
 3.设置自动连接: AT+CWAUTOCONN=1
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps75.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps75.jpg) 
 
 5.建立TCP server: AT+CIPSERVER=1,80
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps76.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps76.jpg) 
 
 6.用TCP测试工具进行通讯测试，
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps77.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps77.jpg) 
 
 客户端的串口输出：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps78.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps78.jpg) 
 
  
 
@@ -1623,29 +1623,29 @@ TCP CLITNT测试
 
 1.设置wifi模式：AT+CWMODE=1
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps79.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps79.jpg) 
 
 2.连接wifi：AT+CWJAP=Doit,doit3305
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps80.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps80.jpg) 
 
 3.设置自动连接: AT+CWAUTOCONN=1
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps81.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps81.jpg) 
 
 4.在测试工具中新建一个TCP server
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps82.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps82.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps83.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps83.jpg) 
 
 5.查询PC的IP地址，用于连接TCP server,进入CMD窗口，输入ipconfig
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps84.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps84.jpg) 
 
 6.连接TCP server: AT+CIPSTART=1,TCP,192.168.9.146,80
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps85.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps85.jpg) 
 
  
 
@@ -1653,7 +1653,7 @@ TCP CLITNT测试
 
 服务器发送数据到模块：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps86.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps86.jpg) 
 
 模块发送数据到TCP server:
 
@@ -1663,7 +1663,7 @@ TCP CLITNT测试
 
 2.发送需要发送的数据
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602/DevelopmentTutorial/wps87.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/DevelopmentTutorial/wps87.jpg) 
 
  
 
