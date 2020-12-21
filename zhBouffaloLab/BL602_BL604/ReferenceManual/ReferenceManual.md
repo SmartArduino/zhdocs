@@ -25,15 +25,15 @@
 
 ​		BL602总线连接与地址访问总结如下。总线主包括CPU,SDIO,DMA,加密引擎,调试接口。总线从包括内存,外设,WiFi/BLE。除了加密引擎只能访问内存外，其余总线主皆可访问所有总线从。
 
-![image-20201221101913726](image-20201221101913726.png)
+![image-20201221101913726](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/ReferenceManual/image-20201221101913726.png)
 
 ​		地址访问主要以 [27:24] 来区分” 存储” 或” 外设”，可忽略 [31:28]。内存空间是连续的 X2008000~X204BFFF (272KBSRAM)，只读内存 X1000000，深度睡眠内存 X0010000。片外空间是 X3000000 (最大支持 16MB Flash)。外设空间是 X0000000~X000F000。
 
-![wps1](wps1.png)
+![wps1](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/ReferenceManual/wps1.png)
 
 中断源共 64 个，列举如下，电平或边沿触发由 CPU 配置，可屏蔽使用。
 
-![wps2](wps2.png)
+![wps2](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/ReferenceManual/wps2.png)
 
 ## 2. 复位和时钟
 
@@ -56,7 +56,7 @@
 – 软件系统复位（reg_ctrl_sys_reset）：通过软件触发此寄存器的上升沿，保留必要的逻辑处理如电源管理单元，进行芯片部分系统复位
 – 软件模块复位：根据特定模块的需求，设置软件复位
 
-![image-20201221102532976](image-20201221102532976.png)
+![image-20201221102532976](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/ReferenceManual/image-20201221102532976.png)
 
 ### 2.3 时钟源
 
@@ -70,7 +70,7 @@
 
 ​		外围设备时钟包括: Flash、UART、I2C、SPI、PWM、IR-remote、ADC、DAC
 
-![image-20201221102628413](image-20201221102628413.png)
+![image-20201221102628413](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/ReferenceManual/image-20201221102628413.png)
 
 更多详细资料，请查阅：https://pan.baidu.com/s/1FbLGDo58mGEbqCdhmMLDxg 
 提取码：doit 
