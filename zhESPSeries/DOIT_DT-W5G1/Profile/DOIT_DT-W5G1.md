@@ -8,7 +8,7 @@ DT-W5G1模块核心处理器采用超低功耗处理器、2G&5G双频芯片。�
 
 
 
-![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G13.png)
+![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G13.png)
 
 DT-W5G1模块支持标准的IEEE802.11 a/b/g/n协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
@@ -16,7 +16,7 @@ DT-W5G1模块供最大实用性，为Wi-Fi功能嵌入其他系统提供无限�
 
 DT-W5G1模块具有大带宽远距离通信特性，可以用于无线图传。
 
-![DT-W5G11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G11.png)
+![DT-W5G11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G11.png)
 
 <center>图1. 1 模块结构图</center>
 
@@ -24,13 +24,13 @@ DT-W5G1模块具有大带宽远距离通信特性，可以用于无线图传。
 
 <center>表1. 1模块主要参数</center>
 
-![DT-W5G110](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G110.png)
+![DT-W5G110](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G110.png)
 
 # 二. 接口定义
 
 DT-W5G1接口定义如下图所示。
 
-![DT-W5G12](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G12.png)
+![DT-W5G12](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G12.png)
 
 <center>图2. 1模块管脚图</center>
 
@@ -79,15 +79,15 @@ DT-W5G1接口定义如下图所示。
 
 模组的外观尺寸为 17.5mm x 34.5mm x 3mm（如图所示）。该模组默认采用的Flash容量为16Mbits（2M Bytes）。
 
-![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G13.png)
+![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G13.png)
 
 <center>图3. 1 模组外观</center>
 
-![DT-W5G14](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G14.png)
+![DT-W5G14](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G14.png)
 
 <center>(a) 俯视图</center>
 
-![DT-W5G15](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G15.png)
+![DT-W5G15](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G15.png)
 
 <center>(b) 侧视图</center>
 
@@ -103,7 +103,7 @@ DT-W5G1接口定义如下图所示。
 
 <center>表4. 1电气特性</center>
 
-![DT-W5G111](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G111.png)
+![DT-W5G111](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G111.png)
 
 # 五. 功耗
 
@@ -124,17 +124,17 @@ DT-W5G1接口定义如下图所示。
 
 <center>表6. 1 Wi-Fi射频特征（2G）</center>
 
-![DT-W5G112](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G112.png)
+![DT-W5G112](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G112.png)
 
 <center>表6. 2 Wi-Fi射频特征（5G）</center>
 
-![DT-W5G113](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G113.png)
+![DT-W5G113](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G113.png)
 
 # 七. 推荐炉温曲线
 
 推荐炉温曲线如下：
 
-![DT-W5G16](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G16.png)
+![DT-W5G16](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G16.png)
 
 <center>图7. 1 推荐炉温曲线</center>
 
@@ -142,7 +142,7 @@ DT-W5G1接口定义如下图所示。
 
 模块最小系统电路图如下：
 
-![DT-W5G17](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G17.png)
+![DT-W5G17](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G17.png)
 
 <center>图8. 1最小系统</center>
 
@@ -160,11 +160,11 @@ DT-W5G1接口定义如下图所示。
 
 Wi-Fi模块可以直接焊接到PCB板上。为了使您的终端产品获得最佳的射频性能，请注意根据本指南合理设计模块及天线在底板上的摆放位置。
 
-![DT-W5G18](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G18.png)
+![DT-W5G18](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G18.png)
 
 <center>推荐放置方式</center>
 
-![DT-W5G19](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/DT-W5G19.png)
+![DT-W5G19](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G19.png)
 
 <center>次优放置方式（天线下面不可铺铜、不可有金属物体）</center>
 
