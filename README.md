@@ -286,7 +286,7 @@
 
   * [智能小车App](zh/zhControlPanel/ESPDuino/AppforSmartCar.md)
 
-  * [大功率板](zh/zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
+  * [MEGA328P大功率直流电机控制板](zh/zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
 
   * [ESPduino控制器](zh/zhControlPanel/ESPDuino/ESPDuino.md)
 
