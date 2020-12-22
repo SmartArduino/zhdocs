@@ -128,7 +128,9 @@
 * [从零开始学习ESP8266](zh/zhESPSeries/start/start.md)
 
 * ### 【一】ESP8266芯片
-  
+
+  * [ESP8266芯片数据手册](zh/zhESPSeries/ESP8266/ESP8266Chip/ESP8266Chip.md)
+
 * ### 【二】ESP8266模组
   
   * [ESP-F](zh/zhESPSeries/ESP8266/DOIT_ESP-F/DOIT_ESP-F.md)
