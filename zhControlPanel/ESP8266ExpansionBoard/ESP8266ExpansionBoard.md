@@ -216,7 +216,7 @@ ESP8266串口WiFi扩展板的WiFi模式可以配置为AP或者STA模式。
 
 ![image-20201222101800693](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESP8266ExpansionBoard/image-20201222101800693.png)
 
-**购买及技术服务**
+## 购买及技术服务
 
 　　本串口WiFi扩展板购买地址：[ https://szdoit.taobao.com/](https://szdoit.taobao.com/)。
 
@@ -227,22 +227,3 @@ ESP8266串口WiFi扩展板的WiFi模式可以配置为AP或者STA模式。
 其他链接：
 ESP8266透传固件：[http://bbs.doit.am/forum.php?mod ... =179&extra=page%3D1](http://bbs.doit.am/forum.php?mod=viewthread&tid=179&extra=page%3D1)
 应用案例：[http://bbs.doit.am/forum.php?mod ... =177&extra=page%3D1](http://bbs.doit.am/forum.php?mod=viewthread&tid=177&extra=page%3D1)
-
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
