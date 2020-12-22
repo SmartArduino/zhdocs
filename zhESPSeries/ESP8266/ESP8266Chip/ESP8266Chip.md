@@ -5,7 +5,7 @@
 
 ESP8266EX 由乐鑫公司开发，提供了了一套高度集成的 Wi-Fi SoC 解决方案，其低功耗、紧凑设计和高稳定性可以满足用户的需求。
 
-![image-20201222153513132](image-20201222153513132.png)
+![image-20201222153513132](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222153513132.png)
 
 ESP8266EX 拥有完整的且自成体系的 Wi-Fi 网络功能，既能够独立应用，也可以作为从机搭载于其他主机 MCU 运行行。当 ESP8266EX 独立应用时，能够直接从外接 Flash 中启动。内置的高速缓冲存储器器有利利于提高系统性能，并且优化存储系统。此外 ESP8266EX 只需通过SPI/SDIO 接口或 I2C/UART 口即可作为 Wi-Fi 适配器器，应用到基于任何微控制器器的设计中。
 
@@ -63,7 +63,7 @@ ESP8266EX 还集成了了增强版的 Tensilica’s L106 钻⽯石系列列 32-b
 
 ### 1.2. 技术参数
 
-![image1](image1.png)
+![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image1.png)
 
 ### 1.3 应用
 
@@ -93,17 +93,17 @@ ESP8266EX 还集成了了增强版的 Tensilica’s L106 钻⽯石系列列 32-b
 
 ## 2. 管脚定义
 
-![image-20201222154635001](image-20201222154635001.png)
+![image-20201222154635001](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222154635001.png)
 
 管脚定义如表 2-1 所示。
 
-![image2](image2.png)
+![image2](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image2.png)
 
 ## 3. 功能描述
 
 ESP8266EX 的功能原理理如图 3-1 所示。
 
-![image-20201222154956754](image-20201222154956754.png)
+![image-20201222154956754](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222154956754.png)
 
 ### 3.1. CPU、存储和 Flash
 
@@ -135,7 +135,7 @@ ESP8266EX 使用外置 SPI Flash 存储用户程序。理理论上最大可支�
 
 • 可支持 OTA：最少支持 1 MB
 
-![image-20201222155400733](image-20201222155400733.png)
+![image-20201222155400733](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222155400733.png)
 
 ### 3.2. AHB 和 AHB 模块
 
@@ -157,13 +157,13 @@ APB 模块充当解码器器。但只可以访问 ESP8266EX 主模块内可编�
 
 尽管晶体振荡器器的内部校准功能使得一系列列的晶体满足时钟生成条件，但是晶体的质量量仍然是影响获得合适的相位噪声和 Wi-Fi 灵敏敏度的因素。请参照表 3-1 来测量量频率偏移。
 
-![image3](image3.png)
+![image3](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image3.png)
 
 #### 3.3.2. 外部时钟参考要求
 
 外部时钟的频率在 24 MHz 到 52 MHz 之间。为了了使射频性能良好，时钟需满⾜足要求如表3-2 所示。
 
-![image-20201222155830574](image-20201222155830574.png)
+![image-20201222155830574](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222155830574.png)
 
 ### 3.4. 射频
 
@@ -185,7 +185,7 @@ ESP8266EX 射频主要包含以下模块。
 
 根据 IEEE802.11b/g/n 标准，射频收发器器支持以下信道。
 
-![image-20201222160151901](image-20201222160151901.png)
+![image-20201222160151901](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222160151901.png)
 
 #### 3.4.2. 2.4 GHz 接收器器
 
@@ -237,7 +237,7 @@ ESP8266EX 专为移动设备、可穿戴电⼦子产品和物联网应用设计�
 
 节能模式共有三种：激活模式、睡眠模式和深度睡眠模式。ESP8266EX 在深度睡眠模式下（RTC 时钟仍处于工作状态）消耗的电流约为 20 μA；处于连接状态时消耗的电流少于1.0 mA (DTIM = 3) 或 0.6 mA (DTIM = 10)。
 
-![image-20201222160813755](image-20201222160813755.png)
+![image-20201222160813755](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222160813755.png)
 
 • 关闭：CHIP_PU 管脚处于低功耗状态。RTC 停止工作。所有寄存器被清除。
 
@@ -265,7 +265,7 @@ ESP8266EX 共有 17 个 GPIO 管脚，通过配置适当的寄存器可以给它
 
 ESP8266EX 拥有 1 个从机 SDIO 接口，接口管脚定义如下表 4-1 所示。支持 4-bit 25 MHz SDIO v1.1 和 4-bit 50 MHz SDIO v2.0。
 
-![image-20201222161337624](image-20201222161337624.png)
+![image-20201222161337624](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222161337624.png)
 
 ### 4.3. 串行外设接口 (SPI/HSPI)
 
@@ -273,73 +273,73 @@ ESP8266EX 拥有 1 个通用从机/主机 SPI，1 个从机 SDIO/SPI，和 1 个
 
 #### 4.3.1. 通用 SPI（主机/从机）
 
-![image-20201222161440407](image-20201222161440407.png)
+![image-20201222161440407](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222161440407.png)
 
 #### 4.3.2. HSPI（从机）
 
-![image-20201222161509919](image-20201222161509919.png)
+![image-20201222161509919](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222161509919.png)
 
 ### 4.4. I2C 接口
 
 ESP8266EX 拥有 1 个 I2C 接口，用于连接微控制器以及外围设备，如传感器等。I2C 接定义如表 4-4 所示。
 
-![image-20201222161603654](image-20201222161603654.png)
+![image-20201222161603654](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222161603654.png)
 
 ### 4.5. I2S 接口
 
 ESP8266EX 拥有 1 个 I2S 输入接口和 1 个 I2S 输出接口。I2S 主要用于音频数据采集、处理理和传输，也可用于串行数据输入输出，如支持 LED 彩灯（WS2812 系列列）。I2S 管脚定义如表 4-5 所示。I2C 接口功能可以使用复用 GPIO 通过软件编程实现，支持链表DMA。
 
-![image-20201222161747485](image-20201222161747485.png)
+![image-20201222161747485](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222161747485.png)
 
 ### 4.6. 通用异步收发器 (UART)
 
 ESP8266EX 拥有两个 UART 接口，分别为 UART0 和 UART，接口定义如表 4-6 所示。
 
-![image4](image4.png)
+![image4](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image4.png)
 
 ### 4.7. 脉冲宽度调制 (PWM)
 
 ESP8266EX 拥有 4 个 PWM 输出接口，如表 4-7 所示。用户可自行扩展。
 
-![image-20201222162006541](image-20201222162006541.png)
+![image-20201222162006541](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222162006541.png)
 
 ### 4.8. IR 遥控接口
 
 ESP8266EX 芯片目前定义了了 1 个 IR 红外遥控接口，该接口定义如表 4-8 所示。
 
-![image-20201222162041733](image-20201222162041733.png)
+![image-20201222162041733](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222162041733.png)
 
 ### 4.9. ADC（模/数转换器器）
 
 ESP8266EX 内置了一个 10-bit 精度的 SAR ADC。TOUT（管脚 6）定义如表 4-9 所示。
 
-![image5](image5.png)
+![image5](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image5.png)
 
 ### 4.10. LED Light 和 Button 接⼝口
 
 ESP8266EX 拥有多达 17 个 GPIO 接口，均可定义作为 LED 与 Button 的控制接口。基于目前 ESP8266EX 一些示例例设计的应用，我们对 LED 与 Button 的 GPIO 接口定义如表 4-10 所示。
 
-![image-20201222162309581](image-20201222162309581.png)
+![image-20201222162309581](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222162309581.png)
 
 ## 5. 电气参数
 
 ### 5.1. 电气特性
 
-![image-20201222162356003](image-20201222162356003.png)
+![image-20201222162356003](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222162356003.png)
 
 ### 5.2. 功耗
 
-![image6](image6.png)
+![image6](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image6.png)
 
 ### 5.3. Wi-Fi 射频特征
 
 表 5-3 中数据是在室内温度下，电压为 3.3V 和 1.1V 时分别测得。
 
-![image-20201222162556650](image-20201222162556650.png)
+![image-20201222162556650](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222162556650.png)
 
 ## 6. 封装信息
 
-![image-20201222162618402](image-20201222162618402.png)
+![image-20201222162618402](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/ESP8266Chip/image-20201222162618402.png)
 
 
 
