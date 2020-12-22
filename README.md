@@ -27,6 +27,7 @@
   * [W600串口调试工具](zh/zhW_Series/Tools/serial.md)
   * [W800批量烧录工具](zh/zhW_Series/Tools/serial.md)
   * [Arduino UNO WiFi/蓝牙/视屏控制套件APK软件](https://github.com/SmartArduino/SmartArduino.github.io/blob/master/docs/Robot/Controller/app/base.apk)
+  * [智能小车App](zh/zhControlPanel/ESPDuino/AppforSmartCar.md)
 * ### 【二】源码
   
   * [W800 SDK及相关资源](zh/zhW_Series/W800/SDK/SDK.md)
@@ -284,7 +285,7 @@
 
   * [基于ESPDuino的智能小车固件](zh/zhControlPanel/ESPDuino/firmware.md)
 
-  * [智能小车App](zh/zhControlPanel/ESPDuino/AppforSmartCar.md)
+  * 
 
   * [MEGA328P大功率直流电机控制板](zh/zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
 
