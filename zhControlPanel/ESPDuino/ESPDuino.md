@@ -2,13 +2,13 @@
 
 <center> from SZDOIT </center>
 
-#  简介
+##  1. 简介
 
 本手册只是简单介绍如何搭建 ESPduino 的开发环境及相关参数设置。新版 ESPduino 开发板无需按键。
 
 ![ESPDuino1](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino1.jpg)
 
-# 一、安装 ESPduino 开发环境
+## 2. 安装 ESPduino 开发环境
 
 在下面链接中下载 Arduino 软件(Arduino1.6.8+ESP2.1.0)
 
@@ -18,7 +18,7 @@
 
 在运行 Arduino IDE 之前，需要安装 CH340 驱动，下载地址：[http://espduino.doit.am/](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/http://espduino.doit.am/)
 
-## 二、运行 Arduino IDE
+## 3. 运行 Arduino IDE
 
 安装上述链接的安装文件后，默认的安装环境是 ESPduino。主要参数如下：
 
@@ -41,7 +41,7 @@ Flash size：“4M（3M SPIFFS）”；
 
 
 
-#  三、测试 Arduino IDE
+##  4. 测试 Arduino IDE
 
 ​	在第二节中已经将 ESPduino 的开发环境基本搭建确认好后，接下来需要用 Arduino 自动的实例程序来测试一下 ESPduino 的开发环境。
 
@@ -57,7 +57,7 @@ Flash size：“4M（3M SPIFFS）”；
 
 ![ESPDuino6](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino6.png) 
 
-#  四、搭建 ESPduino 环境第二种方法
+##  5. 搭建 ESPduino 环境第二种方法
 
 1.下载 Arduino:
 
@@ -81,7 +81,7 @@ a)打开“文件”‐>首选项
 
 ![ESPDuino10](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino10.png)
 
-# 五、要点
+## 6. 要点
 
 1）安装指定链接下载的 Arduino 软件，可以直接使用，选择示例时，请选择 ESP8266 中的示例；
 
@@ -93,7 +93,7 @@ a)打开“文件”‐>首选项
 
 5）如果选择 ESPDduino（ESP‐13 module）不能下载，请选择 NodeMCU 1.0 (ESP‐12E Module). 
 
-# 支持与服务
+## 支持与服务
 
 购买地址：
 
