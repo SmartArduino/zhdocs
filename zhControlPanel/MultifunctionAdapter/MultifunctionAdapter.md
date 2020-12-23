@@ -2,9 +2,9 @@
 
 <center> from SZDOIT </center>
 
-# 一、产品简介
+## 一、产品简介
 
-## 1.1 性能与技术指标
+### 1.1 性能与技术指标
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps1.png) 
 
@@ -68,7 +68,7 @@
 
 ● 工作温度： -40°C - +85°C
 
-## 1.2 典型应用
+### 1.2 典型应用
 
 ● I2C 总线测试， I2C 接口的元器件寄存器读写，EEPROM 存储数据读写
 
@@ -76,7 +76,7 @@
 
 ● 串口程序调试，单片机下载，STC ISP 下载
 
-## 1.3 通信协议转换
+### 1.3 通信协议转换
 
 ● USB 与 I2C 总线接口协议转换；
 
@@ -84,21 +84,21 @@
 
 ● USB与 UART 串口通信协议转换；
 
-## 1.4 产品清单
+### 1.4 产品清单
 
 ● USB 转 I2C/UART/SPI 适配器主板
 
 ## 二、外形与接口描述
 
-## 2.1 产品外形
+### 2.1 产品外形
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps2.png) 
 
-## 2.2 适配器对外接口定义
+### 2.2 适配器对外接口定义
 
 ​	本适配器为多功能合一产品, 涉及接口有 SPI 接口, I2C 接口, UART 接口, I2C 与UART 接口，异步串口预留接口，打印并口等。
 
-### 2.2.1 SPI 接口（XH2.54MM 直插针）
+#### 2.2.1 SPI 接口（XH2.54MM 直插针）
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps3.jpg) 
 
@@ -113,7 +113,7 @@
 | VDD      | P       | 电源输出，电压可为 3.3V 或者 5V 或者无 |
 | GND      | P       | 信号地                                 |
 
-### 2.2.2 I2C 接口（PH2.25MM 排针）
+#### 2.2.2 I2C 接口（PH2.25MM 排针）
 
 ​	![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps4.jpg)
 
@@ -128,7 +128,7 @@
 
  
 
-### 2.2.3 UART 接口（PH2.25排针 ）
+#### 2.2.3 UART 接口（PH2.25排针 ）
 
 ​	![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps5.jpg)
 
@@ -139,7 +139,7 @@
 | GND      | P       | 信号地                                     |
 | VDD      | P       | 电源输出，电压可为 3.3V 或者 5V 或者无     |
 
-### 2.2.4 I2C 与UART 接口（XH2.5MM 弯插针）
+##### 2.2.4 I2C 与UART 接口（XH2.5MM 弯插针）
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps6.jpg) 
 
@@ -157,7 +157,7 @@
 | GND      | P       | 信号地                                     |
 | VDD      | P       | 电源输出，电压可为 3.3V 或者 5V 或者无     |
 
-### 2.2.5 异步串口预留接口
+#### 2.2.5 异步串口预留接口
 
 ​	异步串口即 UART 的全信号预留接口位于适配器主板正面中间位置，共 20 个插孔，可以安装双排 2.54MM 间距的插针或者 DC3-20P 简易牛角座。
 
@@ -186,17 +186,17 @@
 | 19       | VCC      | P       | 电源，电压与芯片电压一致                           |
 | 20       | PWR      | P       | 电源，电压可选与 VCC 或者 VDD 一致                 |
 
-## 2.3 功能切换开关
+### 2.3 功能切换开关
 
 ​	适配器用哪种功能由适配器的 USB 转换芯片上电初始化状态决定，初始化过程完成芯片的功能配置，功能切换需要给适配器重新上电（重新插拔）。
 
-### 2.3.1 I2C/SPI 与 UART 功能配置
+#### 2.3.1 I2C/SPI 与 UART 功能配置
 
 ​	适配器功能切换跳线位于 USB 接口旁，通过调整跳线冒的位置来实现常用功能之间的切换。
 
 I2C 与 SPI 功能的配置相同，为![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps8.png)；UART 串口功能配置为![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps9.jpg)	。
 
-### 2.3.2 MEM/EPP 等其他功能配置
+#### 2.3.2 MEM/EPP 等其他功能配置
 
 ​	适配器可以直接通过 SCL 和 SDA 引脚的连接组合来配置芯片的功能。
 
@@ -208,33 +208,33 @@ I2C 与 SPI 功能的配置相同，为![img](https://github.com/SmartArduino/zh
 
 注：在不适用 I2C 功能时，务必与目标机断开 I2C 连接，否则可能影响芯片其他功能的配置。
 
-## 2.4 I/O 电平选择
+### 2.4 I/O 电平选择
 
 ​	适配器的 USB 芯片支持 3.3V 和 5V 的工作电压，因此，适配器的输出接口 IO 信号 TTL 电平可以通过调整芯片的工作电压来切换 3.3V TTL 和 5V TTL。
 
-### 2.4.1 3.3V I/O 电平选择
+#### 2.4.1 3.3V I/O 电平选择
 
 ​	3.3V TTL IO 电平通过调整芯片右侧 Level Select 跳线帽位于 3.3V 一侧来实现，如下图所示：
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps10.png)
 
-### 2.4.2 5V I/O 电平选择
+#### 2.4.2 5V I/O 电平选择
 
 ​	5V TTL IO 电平通过将芯片右侧 Level Select 跳线帽置于 5V 一侧来实现，如下图所示：
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps11.png)
 
-## 2.5 对外接口电源电压选择
+### 2.5 对外接口电源电压选择
 
 ​	适配器可以对外提供与 IO 信号电平一致的电源电压，或者与 IO 信号电平无关的 5V 电源电压，也可以不对外提供电源输出。该功能可以通过调整位于两个白色座子中间的 PWR-SEL 跳线来实现。
 
-### 2.5.1 5V 供电电压
+#### 2.5.1 5V 供电电压
 
 ​	将 PWR-SEL 红色跳线帽置于 5V 侧，则适配器输出接口 VDD 的电压为5V，与芯片当前工作电压无关。配置如下图所示：
 
  ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps12.png) 
 
-### 2.5.2 3.3V 供电电压
+#### 2.5.2 3.3V 供电电压
 
 ​	将 PWR-SEL 红色跳线帽置于 VCC 侧，则适配器输出接口 VDD 的电压与芯片当前工作电压保持一致。配置如下图所示：
 
@@ -242,25 +242,25 @@ I2C 与 SPI 功能的配置相同，为![img](https://github.com/SmartArduino/zh
 
 若要 3.3V 电源电压输出，则芯片工作电压必须设置为 3.3V。
 
-## 2.6 指示灯
+### 2.6 指示灯
 
 ​	指示灯位于 SPI 接口两侧，在给适配器上电后，会有短暂的配置时间，待 USB 芯片完成功能配置后，不同功能指示灯会有不同的状态，由此可以判断 USB 芯片的功能配置是否成功，以及 USB 芯片的工作状态。
 
-### 2.6.1 I2C/SPI 功能指示灯状态
+#### 2.6.1 I2C/SPI 功能指示灯状态
 
 ​	适配器在配置为 I2C 和SPI 功能时，指示灯状态相同，红色指示灯 TNOW常亮，绿色指示灯 RDY	。
 
-### 2.6.2 UART 功能指示灯状态
+#### 2.6.2 UART 功能指示灯状态
 
 ​	适配器在配置为UART 串口功能时，红色指示灯灭，绿色指示灯 RDY 亮。在串口有数据传送时 TNOW 指示灯闪烁。
 
-# 三、上位机应用软件
+## 三、上位机应用软件
 
-## 3.1 驱动程序的安装
+### 3.1 驱动程序的安装
 
 ​	适配器的驱动程序有两个： 并口驱动和串口驱动。在使用不同功能的时候适配会自动调用合适的驱动，不会产生冲突。所以，无论用什么功能，推荐两种驱动都安装。
 
-### 3.1.1 并口驱动程序安装
+#### 3.1.1 并口驱动程序安装
 
 ​	打开资料包，找到存放驱动的文件夹，鼠标双击 CH341PAR.EXE 开始并口
 
@@ -276,7 +276,7 @@ I2C 与 SPI 功能的配置相同，为![img](https://github.com/SmartArduino/zh
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps15.png)
 
-### 3.1.2 串口驱动程序安装
+#### 3.1.2 串口驱动程序安装
 
 ​	打开资料包，找到存放驱动的文件夹，鼠标双击 CH341SER.EXE 开始串口驱动的安装：
 
@@ -290,9 +290,9 @@ I2C 与 SPI 功能的配置相同，为![img](https://github.com/SmartArduino/zh
 | ---- | ------------------------------------------------------------ |
 |      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps17.png) |
 
-## 3.2 I2C 应用软件
+### 3.2 I2C 应用软件
 
-### 3.2.1 USB2I2C 上位机软件
+#### 3.2.1 USB2I2C 上位机软件
 
 ​	软件有两个子页面，I2C 接口和 EEPROM 读写接口，界面如下：
 
@@ -304,7 +304,7 @@ EEPROM 读写界面
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps19.png)
 
-#### 3.2.1.1 I2C 接口
+##### 3.2.1.1 I2C 接口
 
 ​	本软件以流模式读写兼容 I2C 的两线同步串口，调用的是驱动接口中 API USB IO_Stream I2C 函数，详细描述如下：
 
@@ -338,7 +338,7 @@ A0 为从设备的 I2C 地址，00 为写入起始位置地址，后面 01~08 �
 
 
 
-#### 3 2.1.2 EEPROM 读写
+##### 3 2.1.2 EEPROM 读写
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
@@ -360,7 +360,7 @@ EEPROM 读写是调用驱动库中 EEPROM 专用 API 函数来实现的：
 
 本软件提供源码，位于软件目录 Resource 下，供二次开发 I2C 上位机软件参考。
 
-### 3.2.2 USB2IIC&SPI 上位机软件（I2C 部分）
+#### 3.2.2 USB2IIC&SPI 上位机软件（I2C 部分）
 
 本软件主要以演示 I2C 和 SPI 功能为主，具有丰富菜单界面，存放于USB2IIC&SPI_EXE 文件夹。I2C 接口菜单如下：
 
@@ -384,7 +384,7 @@ I2C 协议通信界面如下，操作方式与协议测试页面相同。
 
 本软件提供附带 SDK 源码，位于文件夹 USB2IIC&SPI_SDK 下。
 
-## 3.3 SPI 应用软件
+### 3.3 SPI 应用软件
 
 SPI 工作模式参见下表：
 
@@ -398,7 +398,7 @@ SPI 工作模式参见下表：
 | ---- | ------------------------------------------------------------ |
 |      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps35.jpg) |
 
-### 3.3.1 USB2SPI 上位机软件
+#### 3.3.1 USB2SPI 上位机软件
 
 ​	软件调用驱动库中 USBIO_StreamSPI4 接口库 API 函数以流模式读写兼容 SPI 的 4 线制同步串口，界面如下，
 
@@ -434,7 +434,7 @@ SPI 工作模式参见下表：
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps53.png)
 
-### 3.3.2 USB IIC&SPI 上位机软件（SPI 部分）
+#### 3.3.2 USB IIC&SPI 上位机软件（SPI 部分）
 
 USB2IIC&SPI 软件 SPI 接口菜单如下：
 
@@ -460,13 +460,13 @@ SPI 协议通信界面如下，操作方式与协议测试页面相同。
 
 本软件提供附带 SDK 源码，位于文件夹 USB2IIC&SPI_SDK 下。
 
-## 3.4 UART 串口软件
+### 3.4 UART 串口软件
 
 适配器支持单工、半双工或者全双工异步串行通讯。串行数据包括 1 个低电平起始位、 5 到 9 个数据位、 1 或 2 个高电平停止位，支持奇校验/偶校验/标志校验/空白校验。支持常用通讯波特率：50、75、100、110、134.5、150、300、600、900、1200、1800、2400、3600、4800、9600、14400、19200、28800、33600、38400、56000、57600、76800、115200、128000、153600、230400、460800、921600、1500000、2000000 等。串口发送信号的波特率误差小于 0.3％，串口接收信号的允许波特率误差不小于 2％。在计算机端的 Windows 操作系统下，适配器的驱动程序能够仿真标准串口，所以绝大部分原串口应用程序完全兼容，通常不需要作任何修改。本适配器资料包内搜集了多款常用的串口软件，一般置于 USB2UART 文件夹内。
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/MultifunctionAdapter/wps57.png)
 
-# 四、支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
@@ -485,7 +485,7 @@ SPI 协议通信界面如下，操作方式与协议测试页面相同。
 | 技术支持群9                                         | 278888909                                                    |
 | 技术支持群10                                        | 278888900                                                    |
 
-# 五、免责申明和版权公告
+## 免责申明和版权公告
 
 本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
 
@@ -495,6 +495,6 @@ Wi-Fi联盟成员标志归Wi-Fi联盟所有。
 
 文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明
 
-# 六、注 意
+## 注 意
 
 由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
