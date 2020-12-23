@@ -2,13 +2,13 @@
 
 <center> from SZDOIT </center>
 
-# 一、产品简介
+## 一、产品简介
 
 DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560主芯片，16MHz主频。主板支持4个电机驱动，默认为16细分。支持多种屏幕、7引脚以内的OLED显示频，可外接SD卡，预留有I2C、SPI、UART等接口；本司提供一套完整的使用工具，操作简单使用方便。同时可支持Marlin2.0固件。
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps1.jpg)
 
-# 二、适用环境
+## 二、适用环境
 
 1. 3D打印机
 
@@ -18,7 +18,7 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 
 4. DIY小车
 
-# 三、产品特点
+## 三、产品特点
 
 1. 采用MEGA2560 主芯片，运行主频高达16MHz
 
@@ -36,7 +36,7 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 
  
 
-# 四、产品参数
+## 四、产品参数
 
 | 型号           | DOIT-ARM       | 安装孔尺寸       | 89.479.3mm |
 | -------------- | -------------- | ---------------- | ---------- |
@@ -46,7 +46,7 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 | 颜色传感器接口 | TSC系列传感器  | 温度传感器接口   | NTC100K    |
 | 电机接口       | X、Y、Z、E     | 电机最大驱动频率 | 10KHz      |
 
-# 五、机械参数
+## 五、机械参数
 
  
 
@@ -54,23 +54,23 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 
 <center>注：手动测量，存在偏差，以实物为准</center>
 
-# 六、接线图
+## 六、接线图
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps3.jpg) 
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps4.jpg) 
 
-# 七、Pin脚
+## 七、Pin脚
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/wps5.jpg) 
 
-# 八、特别注意
+## 八、特别注意
 
 1. 通电前请确保正负极正确连接
 
 2. 请不要在通电的情况下插拔电机和驱动，容易造成驱动电机烧坏；也不要在电机运行中调电流。正确的做法是：先断开电源，拔掉电机，在重新上电，调电位器，测量电位器上的输出电压，直到测量的电压与预期的相同。切勿插反驱动，否则会烧坏驱动，甚至烧坏主板
 
-# 支持与服务
+## 支持与服务
 
 资料链接：[https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/DOIT-ARM/https://pan.baidu.com/s/1HjifsFO_NUOxqmooWwyEXg ) 
 
@@ -93,7 +93,7 @@ DOIT-ARM是四博智联推出的一款多轴打印 3D控制板，搭建MEGA2560�
 | 技术支持群9                                         | 278888909                                                    |
 | 技术支持群10                                        | 278888900                                                    |
 
-# 免责申明和版权公告
+## 免责申明和版权公告
 
 本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
 
