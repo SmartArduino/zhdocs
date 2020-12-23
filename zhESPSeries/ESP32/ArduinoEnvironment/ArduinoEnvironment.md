@@ -2,19 +2,19 @@
 
 <center> from SZDOIT </center>
 
-# 一、开发环境搭建
+## 一、开发环境搭建
 
-## （一）使用windows环境开发，安装步骤：
+### （一）使用windows环境开发，安装步骤：
 
-### 1． 安装Arduino IDE 
+#### 1． 安装Arduino IDE 
 
 - 可以从[arduino.cc](https://www.arduino.cc/en/Main/Software) 下载Arduino IDE客户端。
 
-### 2． 安装Git GUI
+#### 2． 安装Git GUI
 
 - 可以从[git-scm.com](https://git-scm.com/download/win) 下载Git GUI客户端。
 
-### 3． 打开Git GUI 选择Clone Existing Repository
+#### 3． 打开Git GUI 选择Clone Existing Repository
 
 在Source Location选项键入https://github.com/espressif/arduino-esp32.git
 
@@ -26,25 +26,25 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ArduinoEnvironment/wps1.jpg) 
 
-### 4． 点击Clone，等待安装完成
+#### 4． 点击Clone，等待安装完成
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ArduinoEnvironment/wps2.jpg) 
 
-### 5． 安装完成
+#### 5． 安装完成
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ArduinoEnvironment/wps3.jpg) 
 
-### 6点击.打开刚才定义的目录下的tools文件夹，点击get.exe，开始下载库文件
+#### 6点击.打开刚才定义的目录下的tools文件夹，点击get.exe，开始下载库文件
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ArduinoEnvironment/wps4.jpg) 
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ArduinoEnvironment/wps5.jpg) 
 
-### 7. 下载完成后打开Arduino IDE可以看到板卡中已经可以选择ESP 32开发板
+#### 7. 下载完成后打开Arduino IDE可以看到板卡中已经可以选择ESP 32开发板
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ArduinoEnvironment/wps6.jpg) 
 
-### 8.板卡选择ESP32 Dev Modeule，打开示例的WiFi Scan 点击上传
+#### 8.板卡选择ESP32 Dev Modeule，打开示例的WiFi Scan 点击上传
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ArduinoEnvironment/wps7.jpg) 
 
@@ -58,7 +58,7 @@
 
 更多详情请参见https://github.com/espressif/arduino-esp32
 
-# 二、支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
