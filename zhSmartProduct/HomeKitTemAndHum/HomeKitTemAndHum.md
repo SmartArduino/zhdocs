@@ -2,19 +2,19 @@
 
 <center> from SZDOIT </center>
 
-# 1. 产品外观
+## 1. 产品外观
 
 
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps2.jpg) ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps3.jpg) 
 
-# 2. 参数规格
+## 2. 参数规格
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps4.jpg)
 
-# 3. 如何使用
+## 3. 如何使用
 
-## Step1：配置设备联网
+### Step1：配置设备联网
 
 设备上电,开启一个Homekit-sensor_xxxx的热点,连接“Homekit-sensor_xxxx”的热点，其密码为:无，大约等待3秒钟，手机将自动跳转到配网界面，注：若有多台设备，请注意区分不同的热点名字。
 
@@ -22,7 +22,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps5.jpg) ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitTemAndHum/wps6.jpg)
 
-## Step2：加入到HomeKit家庭
+### Step2：加入到HomeKit家庭
 
 1）请把手机连接到你的家庭WiFi网络
 
@@ -72,7 +72,7 @@ Q2: 我想自己二次开发，更新设备里面的固件应该如何操作。
 
 二次开发见：https://github.com/SmartArduino/DoHome/tree/master/DoHome_HomeKit_Temperature_Humidity_Sensor
 
-# 支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
@@ -91,7 +91,7 @@ Q2: 我想自己二次开发，更新设备里面的固件应该如何操作。
 | 技术支持群9                                         | 278888909                                                    |
 | 技术支持群10                                        | 278888900                                                    |
 
-# 免责申明和版权公告
+## 免责申明和版权公告
 
 本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
 
@@ -101,7 +101,7 @@ Wi-Fi联盟成员标志归Wi-Fi联盟所有。
 
 文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明 
 
-# 注 意
+## 注 意
 
 由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
 
