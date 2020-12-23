@@ -1,7 +1,7 @@
 <center><font size=10> Arduino传感器认识与应用 </center></font>
 <center> From SZDOIT</center>
 
-# 1. 按钮开关
+## 1. 按钮开关
 
 ![image-20201021152159434](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021152159434.png)
 
@@ -30,7 +30,7 @@
  }
 ```
 
-# 2. 无源蜂鸣器
+## 2. 无源蜂鸣器
 
 ![image-20201021152454242](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021152454242.png)
 
@@ -88,7 +88,7 @@ void loop()
  }
 ```
 
-# 3. 有源蜂鸣器
+## 3. 有源蜂鸣器
 
 ![image-20201021154550578](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021154550578.png)
 
@@ -110,7 +110,7 @@ void loop()
 
 ```
 
-# 4. 激光传感器
+## 4. 激光传感器
 
 ![image-20201021154729352](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021154729352.png)
 
@@ -129,7 +129,7 @@ void loop()
  }
 ```
 
-# 5. 光明传感器
+## 5. 光明传感器
 
 ![image-20201021154944918](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021154944918.png)
 
@@ -150,7 +150,7 @@ void loop()
  }
 ```
 
-# 6. 倾斜开关
+## 6. 倾斜开关
 
 ![image-20201021155157494](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155157494.png)
 
@@ -179,7 +179,7 @@ void loop()
  }
 ```
 
-# 7. 水银开关传感器
+## 7. 水银开关传感器
 
 ![image-20201021155544285](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155544285.png)
 
@@ -206,7 +206,7 @@ void loop()
  }
 ```
 
-# 8. 魔术光环（一对）
+## 8. 魔术光环（一对）
 
 ![image-20201021155731452](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155731452.png)
 
@@ -246,7 +246,7 @@ void loop()
  //两者相加的和为255，亮度此消彼涨的关系
 ```
 
-# 9. 震动开关
+## 9. 震动开关
 
 ![image-20201021160127323](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160127323.png)
 
@@ -275,7 +275,7 @@ void loop()
  }
 ```
 
-# 10. 敲击传感器
+## 10. 敲击传感器
 
 ![image-20201021160355193](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160355193.png)
 
@@ -302,7 +302,7 @@ void loop()
  }
 ```
 
-# 11. 双色共阴LED模块
+## 11. 双色共阴LED模块
 
 ![image-20201021160602087](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160602087.png)
 
@@ -334,7 +334,7 @@ void loop()
  }
 ```
 
-# 12. 三色RGB模块（DIP封装）
+## 12. 三色RGB模块（DIP封装）
 
 ![image-20201021160751192](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160751192.png)
 
@@ -368,11 +368,11 @@ void loop()
  }
 ```
 
-# 13. 三色RGB模块（SMD封装）
+## 13. 三色RGB模块（SMD封装）
 
 ![image-20201021160916456](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160916456.png)
 
-# 14. 7彩自动闪烁LED模块
+## 14. 7彩自动闪烁LED模块
 
 ![image-20201021161020147](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161020147.png)
 
@@ -390,7 +390,7 @@ void loop()
  }
 ```
 
-# 15. 金属触摸传感器
+## 15. 金属触摸传感器
 
 ![image-20201021161156278](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161156278.png)
 
@@ -417,7 +417,7 @@ void loop()
  }
 ```
 
-# 16. 火焰传感器
+## 16. 火焰传感器
 
 ![image-20201021161329591](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161329591.png)
 
@@ -446,7 +446,7 @@ void loop()
  }
 ```
 
-# 17. 手指测心跳模块
+## 17. 手指测心跳模块
 
 ![image-20201021161505831](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161505831.png)
 
@@ -475,7 +475,7 @@ void loop()
  }
 ```
 
-# 18. 红外避障传感器
+## 18. 红外避障传感器
 
 ![image-20201021161636492](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161636492.png)
 
@@ -503,7 +503,7 @@ void loop()
  }
 ```
 
-# 19. 寻线传感器
+## 19. 寻线传感器
 
 ![image-20201021161800378](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161800378.png)
 
@@ -532,7 +532,7 @@ void loop()
  }
 ```
 
-# 20. 光折断传感器
+## 20. 光折断传感器
 
 ![image-20201021161946778](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161946778.png)
 
@@ -559,7 +559,7 @@ void loop()
  }
 ```
 
-# 21. 线性霍尔磁力传感器
+## 21. 线性霍尔磁力传感器
 
 ![image-20201021162119834](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162119834.png)
 
@@ -588,7 +588,7 @@ void loop()
  }
 ```
 
-# 22. 模拟霍尔传感器
+## 22. 模拟霍尔传感器
 
 ![image-20201021162309106](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162309106.png)
 
@@ -609,7 +609,7 @@ void loop()
  }
 ```
 
-# 23. 大磁簧传感器
+## 23. 大磁簧传感器
 
 ![image-20201021162442863](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162442863.png)
 
@@ -638,7 +638,7 @@ void loop()
  }
 ```
 
-# 24. 迷你磁环传感器
+## 24. 迷你磁环传感器
 
 ![image-20201021162628168](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162628168.png)
 
@@ -665,7 +665,7 @@ void loop()
  }
 ```
 
-# 25. 旋转编码器
+## 25. 旋转编码器
 
 ![image-20201021162745527](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162745527.png)
 
@@ -726,7 +726,7 @@ void loop()
  }
 ```
 
-# 26. 麦克风声音传感器
+## 26. 麦克风声音传感器
 
 ![image-20201021163334891](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021163334891.png)
 
@@ -775,11 +775,11 @@ void loop()
  }
 ```
 
-# 27. 高感度声音传感器
+## 27. 高感度声音传感器
 
 ![image-20201021163920513](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021163920513.png)
 
-# 28. 模拟式温度传感器
+## 28. 模拟式温度传感器
 
 ![image-20201021163956427](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021163956427.png)
 
@@ -806,13 +806,13 @@ void loop()
  }
 ```
 
-# 29. 数字温度传感器
+## 29. 数字温度传感器
 
 ![image-20201021164115425](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164115425.png)
 
 ![image-20201021164129619](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164129619.png)
 
-# 30. 温湿度传感器
+## 30. 温湿度传感器
 
 ![image-20201021164158738](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164158738.png)
 
@@ -874,7 +874,7 @@ void loop()
  }
 ```
 
-# 31. DS18b20 数字温度传感器模块
+## 31. DS18b20 数字温度传感器模块
 
 ![image-20201021164745872](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164745872.png)
 
@@ -904,7 +904,7 @@ void loop()
  }
 ```
 
-# 32. 红外发射
+## 32. 红外发射
 
 ![image-20201021164954060](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164954060.png)
 
@@ -931,7 +931,7 @@ void loop()
  }
 ```
 
-# 33. 红外接收
+## 33. 红外接收
 
 ![image-20201021165121862](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165121862.png)
 
@@ -958,7 +958,7 @@ void loop()
  }
 ```
 
-# 34. Joystick PS2 摇杆
+## 34. Joystick PS2 摇杆
 
 ![image-20201021165302402](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165302402.png)
 
@@ -990,7 +990,7 @@ void loop()
  }
 ```
 
-# 35. 继电器
+## 35. 继电器
 
 ![image-20201021165444099](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165444099.png)
 
