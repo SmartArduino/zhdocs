@@ -1,7 +1,7 @@
 <center><font size=10> ESP-12E模块数据手册</center></font>
 <center> From SZDOIT</center>
 
-# 一、概述 
+## 一、概述 
 
 ESP-12E WiFi 模块是一款低功耗高性价比的嵌入式无线网络控制模块。可满足智能电网、楼宇自动化、安防、智能家居、远程医疗等物联网应用的需求。 
 
@@ -13,13 +13,13 @@ ESP-12E WiFi 模块是一款低功耗高性价比的嵌入式无线网络控制�
 
 图-1  对比图（立体图）
 
-# 二、主要特性 
+## 二、主要特性 
 
-## 2.1 架构
+### 2.1 架构
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12E/wps17.png)
 
-## 2.2 硬件参数 
+### 2.2 硬件参数 
 
 • 工作电压：3.3V （3.0 ~ 3.6V） 
 
@@ -67,7 +67,7 @@ o 支持 Station / SoftAP / SoftAP + Station 无线网络模式
 
 o 模组尺寸 24mm  16mm  3mm 
 
-# 三、引脚描述 
+## 三、引脚描述 
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12E/wps18.jpg) 
 
@@ -106,9 +106,9 @@ o 模组尺寸 24mm  16mm  3mm
 
  
 
-# 四、功能描述 
+## 四、功能描述 
 
-## 4.1 MCU 
+### 4.1 MCU 
 
 ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精简模式，主频支持 80MHz 和 160MHz，支持 RTOS。目前 WiFi 协议栈只用了 20%的处理能力，其余可以用来做应用开发。MCU 可通过以下接口和芯片其他部分协同工作： 
 
@@ -118,9 +118,9 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
 • 访问控制器的 AHB 接口； 
 
-## 4.2 存储 
+### 4.2 存储 
 
-### 4.2.1 内置 SRAM 与 ROM 
+#### 4.2.1 内置 SRAM 与 ROM 
 
 基于 Demo SDK 的使用 SRAM 情况，用户可用剩余 SRAM 空间为： 
 
@@ -128,13 +128,13 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
 • 目前 ESP8266EX 片上没有可编程 ROM，用户程序存放在 SPI Flash 中。 
 
-### 4.2.2 SPI Flash 
+#### 4.2.2 SPI Flash 
 
 • ESP8266EX 芯片支持使用 SPI 接口的外置 FLASH，理论最大支持 16MB 的 SPI Flash。 
 
 • ESP-12E 模块配置了 32Mbit 的 SPI Flash，可满足一般客户的使用需求。 
 
-## 4.3 接口定义及描述 
+### 4.3 接口定义及描述 
 
 表-2 接口定义及描述 
 
@@ -149,9 +149,9 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 |           | UART1: IO2(TXD)                                              | UART0 在 ESP8266-12S 上电默认会输出一些打印信息。对此敏感的应用，可以使用 UART 的内部引脚交换功能，在初始化的时候，将 U0TXD,U0RXD 分别与 U0RTS;U0CTS 交换。硬件上将 MTDOMTCK 连接到对应的外部 MCU 的串口进口通信 |
 | I2S 接口  | I2S 输入： IO12 (I2SI_DATA); IO13 (I2SI_BCK ); IO14 (I2SI_WS); ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12E/wps20.png)I2S 输出: IO15 (I2SO_BCK ); IO3 (I2SO_DATA); IO2 (I2SO_WS ); | 主要用于音频采集、 处理和传输                                |
 
-# 五、电气特性 
+## 五、电气特性 
 
-## 5.1 功耗 
+### 5.1 功耗 
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12E/wps21.png) 
 
@@ -182,7 +182,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
 • 所有测量数据是基于没有 SAW 滤波器的情况，在天线接口处测试。 
 
-## 5.2 RF 特性 
+### 5.2 RF 特性 
 
 表-4 射频参数 
 
@@ -207,7 +207,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
  
 
-## 5.3 数字端口特征 
+### 5.3 数字端口特征 
 
 表-5 数字端口特征 
 
@@ -225,7 +225,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
  
 
-## 5.5 倾斜升温 
+### 5.5 倾斜升温 
 
 表-7 倾斜升温 
 
@@ -243,13 +243,13 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
  
 
-# 六、原理图 
+## 六、原理图 
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12E/wps22.jpg) 
 
 图-5 ESP-12E 原理图
 
-# 七、最小系统 
+## 七、最小系统 
 
  
 
@@ -271,7 +271,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
 5) 模块的 RXD 接 MCU 的 TXD，模块的 TXD 接 MCU 的 RXD； 
 
-# 八、推荐 PCB 设计 
+## 八、推荐 PCB 设计 
 
 ESP-12E模组可以焊接到 PCB 板上。为了使终端产品获得最佳的射频性能，请注意根据本指南合理设计模组及天线在底板上的摆放位置。 
 
@@ -291,13 +291,13 @@ PCB 天线放在底板上也是允许的，只要天线下方不铺铜即可，�
 
  方案 3：天线沿板边放置且下方均不铺铜 
 
-# 九、外围走线建议 
+## 九、外围走线建议 
 
 ESP-12E 集成了高速 GPIO 和外设接口，这可能会产生严重的开关噪声。如果一些应用对于功耗和
 
 EMI 特性要求较高，建议在数字 I/O 线上串联 10 ~ 100 欧姆的电阻。这样可以在开关电源时抑制过冲，并使信号变得平稳。串联电阻也能在一定程度上防止静电释放（ESD）。 
 
-#  免责申明和版权公告
+##  免责申明和版权公告
 
 本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
 
@@ -307,13 +307,13 @@ Wi-Fi联盟成员标志归Wi-Fi联盟所有。
 
 文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明
 
-# 注 意
+## 注 意
 
 由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
 
  
 
-# 支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
