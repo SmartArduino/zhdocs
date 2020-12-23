@@ -6,7 +6,7 @@
 
 
 
-# 一、简介
+## 一、简介
 
 本产品HomeKit的版本，没有iphone手机，配置相对繁琐（参见HomeKit For Android部分），请购买DoHome版本。DoHome版本已经对接了各大智能音箱，需要下载DoHome APP才能使用。
 
@@ -34,11 +34,11 @@
 
  
 
-# 二、HomeKit For iphone
+## 二、HomeKit For iphone
 
 如果使用HomeKit功能，请使用iphone手机进行如下操作:
 
-## 第一步
+### 第一步
 
 请打开苹果手机WiFi列表（如图一），找到Homekit_xxxx 的WIFI 热点并连接。大约等待3秒钟，手机将自动跳转到配网界面。
 
@@ -46,7 +46,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps12.jpg) 
 
-## 第二步
+### 第二步
 
 请在跳网面页中选择您的家庭WiFi名称，且请在password中输入密码，点击join （如图二）。等待手机配网页跳转到WIFI列表页面（如图三），确定智能插头指示灯常亮。（图中WIF 账号仅供参考）
 
@@ -54,19 +54,19 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps15.jpg) 
 
-## 第三步
+### 第三步
 
 检查您是否安装Home APP ，如果没有Home  APP请在App Store商城下载一个Home  APP（如图四）。
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps16.jpg)
 
-## 第四步
+### 第四步
 
 请把手机连接到你的家庭WiFi网络（如图五），注意：苹果手机和智能插座必须是在同一个家庭WiFi网络下。
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps17.jpg) 
 
-## 第五步
+### 第五步
 
 打开苹果手机Home  APP 点击添加配件，请点击“没有代码或无法扫描”点击刷新出来的设备，仍然添加，等待加密校验（大约30S），添加设备成功。以后方便的操做请重新命名，并享受它
 
@@ -78,7 +78,7 @@
 
 注意：如果没有刷新设备，请确认手机和智能插座是否在同一个局域网络。请确认指示灯是否在常亮状态，如果添加失败，请查看常见问题。
 
-## 第六步
+### 第六步
 
 如果您要用alexa 、谷歌助手、天猫精灵、小爱同学、等智能音响设备或是需要定时等更多功能请见常见问题。
 
@@ -128,7 +128,7 @@ DoHome 版APP使用:
 
 注意：如有疑问，请点击右上角菜单栏”≡”，查看帮助，点击使用说明。
 
-# 常见问题
+## 常见问题
 
 Q:homekit用户如何使用alexa 、谷歌助手、天猫精灵、小爱同学等智能音响设备？如何通过DoHome使用定时等更多 功能
 
@@ -186,7 +186,7 @@ Q:配网过程中要注意哪些事项
 
 
 
-#  支持与服务
+##  支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
