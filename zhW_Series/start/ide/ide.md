@@ -4,7 +4,7 @@
 
 本文档旨在指导用户创建 W600 的软件环境。本文将通过一个简单的例子来说明如何使用 W600 进行应用开发，包括环境配置、程序编译、固件下载等步骤。
 
-# 1 概述
+## 1 概述
 
 W600是联盛德新一代支持多接口、多协议的无线局域网802.11n（1T1R）低功耗 WLAN SoC 芯片。芯片内置 Cortex-M3 CPU处理器和Flash，集成射频收发前端RF Transceiver，CMOS PA功率放大器，基带处理器/媒体访问控制，集成电源管理电路，支持丰富的外围接口， 支持多种加解密协议。W600提供给客户的二次开发空间更大、芯片外围电路器件更少、开发更简便，性价比更优势。
 
@@ -12,7 +12,7 @@ W600芯片只有5mm x 5mm 大小，但集成度非常高。芯片内部集成了
 
 ![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/block.png)
 
-# 2 准备工作
+## 2 准备工作
 
 · 电脑: 开发环境支持Keil 和GCC
 
@@ -26,21 +26,21 @@ W600芯片只有5mm x 5mm 大小，但集成度非常高。芯片内部集成了
 
 · Micro USB 线（需支持数据传输）
 
-# 3 开发板介绍
+## 3 开发板介绍
 
 TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发板引出了芯片的所有IO，并且内置LDO和UART传输芯片，只需一根 Micro USB 数据线与电脑连接即可使用，支持一键下载，外设拥有5个环形LED和2颗按键，调试操作极其方便。
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/tb_01.png)
 
-# 4 KEil 环境搭建
+## 4 KEil 环境搭建
 
-## 4.1 安装MDK 环境搭建
+### 4.1 安装MDK 环境搭建
 
 由于 SDK 需要 Cortex-M3 的 Device Pack 支持，如果在线下载速度较慢 或 安装遇到问题，建议安装 [MDK 5](https://www.keil.com/download/product/) 的同时也安装对应的 [Legacy 版本](http://www.keil.com/mdk5/legacy/)
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/mdk_legacy.png)
 
-## 4.2 打开工程
+### 4.2 打开工程
 
 打开下载的SDK工程，找到 \SDK\Tools\Keil\Project\WM\_W600.uvproj 文件并打开
 
@@ -48,7 +48,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 注意：若提示工程打开失败，请检查 MDK 是否按照上一章节进行正确配置
 
-## 4.3 修改 Demo 示例
+### 4.3 修改 Demo 示例
 
 找到main.c，此处的 void UserMain(void) 是用户程序的函数入口
 
@@ -56,7 +56,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/modify_user_main.png)
 
-## 4.4 编译
+### 4.4 编译
 
 点击菜单栏可进行编译
 
@@ -65,9 +65,9 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/build_output.png)
 
-# 5.GCC环境搭建
+## 5.GCC环境搭建
 
-## 5.1 安装
+### 5.1 安装
 
 双击下载的 W600_IDE_Setup.exe ,如图，自行选择要解压的目录；
 
@@ -77,7 +77,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/list.png)
 
-## 5.2 配置
+### 5.2 配置
 
 1.  点击 ConfigTool.exe 弹出配置界面；
 
@@ -91,7 +91,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/cygwin.png)
 
-## 5.3 导入新工程
+### 5.3 导入新工程
 
 双击 IDE.exe 打开IDE应用程序, IDE内置了一份W600的SDK，不是最新版本，建议更新
 
@@ -109,19 +109,19 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 4.  点击Finish完成工程的导入
 
-## 5.4 编译
+### 5.4 编译
 
 右键需要编译的工程,点击 Clean project, 清除完后再右键工程，点击 Build Project 即可，出现 Build fininsh！则编译正常无误，可以烧录固件。
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/gcc_build.png) 
 
-# 6.固件烧录与调试
+## 6.固件烧录与调试
 
 注意：由于我们在硬件上将 W600 的 RESET 引脚和串口芯片的 RTS 引脚连接在了一起，当您在使用其它串口工具（如 SecureCRT）时，需要去掉开发板上面的 R100 电阻，否则串口可能会无输出。
 
 固件烧录和调试需依赖[星通智联串口调试助手](https://docs.w600.fun/?p=tools/serial.md)
 
-## 6.1 连接设备
+### 6.1 连接设备
 
 1. 将开发板与电脑通过 Micro USB 线进行连接
 2.  打开星通智联串口调试助手
@@ -135,7 +135,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 * 若未能发现新增串口，请尝试更换一根 Micro USB 数据线；
 * 出现其它打印信息内容或者乱码，请联系对应的销售人员或技术支持人员；
 
-## 6.2 固件烧录及运行
+### 6.2 固件烧录及运行
 
 1. 选择对应的固件，支持 FLS 和 img 格式；FLS 是 WM_W600_sec.img + secboot.img 的合并文件，一般用于芯片的首次下载，之后仅烧录 WM_W600_SEC.img即可。
 
@@ -145,7 +145,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
  ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/ide/fw_download.png)
 
-# 结束
+## 结束
 
 恭喜！你已完成 W600的入门！
 

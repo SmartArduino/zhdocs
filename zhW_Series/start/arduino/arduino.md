@@ -2,17 +2,17 @@
 <center><font size=10>W600 Arduino 入门指南</center></font>
 <center> From SZDOIT</center>
 
-# 1.简介
+## 1.简介
 
 [Arduino](https://baike.baidu.com/item/Arduino) 是一款便捷灵活、方便上手的开源电子原型平台。现在，W600芯片可以直接支持Arduino环境开发，开发者可以使用熟悉的Arduino函数和库编写代码，并直接在W600上面运行，无需外部微控制器。让开发者更便捷进行产品设计。
 
-# 2.准备工作
+## 2.准备工作
 
 -  1 x W600 开发板（推荐使用 [TB-01](http://shop.thingsturn.com)）
 -  1 × Micro USB B 电缆
 -  1 × PC（目前仅 Windows 环境可用）
 
-# 3. 环境搭建
+## 3. 环境搭建
 
 1. 通过 https://www.arduino.cc/en/Main/Software 下载 Arduino IDE 开发环境，建议使用最新版本。
 2. 启动 Arduino，并打开“首选项”窗口。在附加开发板管理器网址中添加`http://arduino.w600.fun/package_w600_index.json`
@@ -52,6 +52,6 @@
 
 ​	同时，可以看到开发板上面的指示灯在不停的闪烁。
 
-# 4 其他
+## 4 其他
 
 有任何疑问和建议，可在问答社区 https://ask.w600.fun 提出问题。
