@@ -2,9 +2,9 @@
 
 <center> from SZDOIT </center>
 
-# 1. 智能小车APP
+## 1. 智能小车APP
 
-* ## 1.1 WiFi小车APP:
+* ### 1.1 WiFi小车APP:
 
     该APP对应以下两款控制套件:
 
@@ -15,7 +15,7 @@
     4. iOS软件: https://itunes.apple.com/us/app/doit-car/id1072418610?l=zh&ls=1&mt=8;
     4. Android软件：http://en.doit.am/DoitCar_2016_0115.apk
 
-* ## 1.2 WiFi视屏小车APP:
+* ### 1.2 WiFi视屏小车APP:
   
     该APP对应以下控制套件.
     
@@ -38,13 +38,13 @@
 * [用户手册](https://github.com/SmartArduino/ESPboard/blob/master/Manul_for_Video_Car.pdf)
 * [如何下载固件](https://github.com/SmartArduino/SZDOITWiKi/wiki/Arduino---ESPduino)
 
-      
+  ​    
 
     2. 源码: https://github.com/SmartArduino/ESPboard/blob/master/Android_Source.zip
     2. 安装软件：https://github.com/SmartArduino/ESPboard/blob/master/MyWifiCar_en.apk
     3. iOS软件直接在app商店搜索"doitvideocar" 下载即可
 
-* ## 1.3 Arduino DIY WiFi、蓝牙、手柄、避障、循迹APP:
+* ### 1.3 Arduino DIY WiFi、蓝牙、手柄、避障、循迹APP:
   
    该APP适用于以下控制套件.
    
