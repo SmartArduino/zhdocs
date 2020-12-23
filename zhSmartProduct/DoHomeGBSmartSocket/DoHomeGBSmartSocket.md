@@ -4,7 +4,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps1.jpg) 
 
-# 功能键与指示灯说明
+## 功能键与指示灯说明
 
 按键：
 
@@ -20,7 +20,7 @@
 
 - 红灯亮通电，红灯灭断电；
 
-# 技术参数
+## 技术参数
 
 型号：DoHome-GB
 
@@ -39,21 +39,21 @@
 
 地址：深圳市南山区西丽民企科技园2栋西座4楼
 
-# 开始使用
+## 开始使用
 
-## 1.下载软件
+### 1.下载软件
 
 扫描二维码下载DoHome APP，并注册登录
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps2.jpg) 
 
-## 2.接入电源
+### 2.接入电源
 
 将产品接入电源，长按开关键5秒钟，蓝色led开始快速闪烁
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps3.jpg) 
 
-## 3.添加设备
+### 3.添加设备
 
 确认手机已连接可用的WiFi网络，在DoHome APP中点击添加设备。
 
@@ -65,19 +65,19 @@
 
  
 
-## 4.网络配置
+### 4.网络配置
 
 在配置界面输入手机当前连接的WiFi密码。按照页面说明，返回手机的WLAN设置，连接“DoHome_XXXX”的热点，其密码为“12345678”。若有多台设备，请注意区分不同的设备！
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps7.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps8.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps9.jpg) 
 
-## 5.配网完成
+### 5.配网完成
 
 配网完成，蓝色灯由闪烁状态变为常亮，点击完成成功添加设备。
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps10.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeGBSmartSocket/wps11.jpg) 
 
-# 支持与服务 
+## 支持与服务 
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
