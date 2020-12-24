@@ -3,7 +3,7 @@
 
 
 
-# 一、材料清单
+## 一、材料清单
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps25.jpg)
 
@@ -31,73 +31,73 @@
 
 注意：180度舵机不同于普通电机，有固定的角度。所有舵机在出货前都已经是中位90度状态，在安装上机械臂之前，请勿随意转动舵机角度，否则会导致安装失败！（若不慎在安装前转动了舵机，请按角度需要将舵机复位。）
 
-# 二、安装过程
+## 二、安装过程
 
-## Step 1: 安装足部结构
+### Step 1: 安装足部结构
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps26.png) 
 
-## Step 2: 把舵机放到右边的角落
+### Step 2: 把舵机放到右边的角落
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps27.png) 
 
 脚结构安装完成后，开始安装舵机。首先调整中间位置，然后把舵机放到右角。
 
-## Step 3: 把舵机放在左转弯处
+### Step 3: 把舵机放在左转弯处
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps28.png) 
 
-## Step 4: 把舵机放在中间
+### Step 4: 把舵机放在中间
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps29.png) 
 
 然后把舵机放在中间。所以转向的角度范围已经设置好了。这样安装舵机机器人的关节范围最大。(在具体的应用中。，可合理选择安装位置的角度，避免出现死角。
 
-## Step 5: 安装两个舵机
+### Step 5: 安装两个舵机
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps30.png) 
 
 两个舵机按上述步骤调整到合适的角度，开始安装。
 
-## Step 6: 按下图方式安装长U支架
+### Step 6: 按下图方式安装长U支架
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps31.png) 
 
 调整舵角方向，舵角方向与长U型支架的孔径一致。接下来安装长U型支架。
 
-## Step 7: 固定舵机
+### Step 7: 固定舵机
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps32.png) 
 
-## Step 8: 安装腿接头
+### Step 8: 安装腿接头
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps33.png) 
 
 接下来安装腿接头。准备配件。
 
-## Step 9: 安装L型支架
+### Step 9: 安装L型支架
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps34.png) 
 
 你应该先安装L型支架，否则将很难安装舵机支架。
 
-## Step 10: 完成伺服器的安装
+### Step 10: 完成伺服器的安装
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps35.png) 
 
 将舵机调到合适的角度，然后开始安装。
 
-## Step 11: 安装机器人腰部
+### Step 11: 安装机器人腰部
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps36.png) 
 
 机器人腰部应采用u形梁安装。
 
-## Step 12: 安装机器人的机械手
+### Step 12: 安装机器人的机械手
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps37.png) 
 
-## Step 13: 完成整个安装
+### Step 13: 完成整个安装
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/9DOFRobot/wps38.png) 
 
@@ -110,7 +110,7 @@
 
 
 
-# 支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
