@@ -1,11 +1,11 @@
 <center><font size=10> ViVi人形机器人使用说明 </center></font>
 <center> From SZDOIT</center>
 
-# 【基础篇】
+## 【基础篇】
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/wps1.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/wps2.png)
 
-## 1 手机APP介绍及控制
+### 1 手机APP介绍及控制
 
 安卓版：
 
@@ -57,7 +57,7 @@ ViVi人形机器人APP具有控制机器人进行单个动作演示和通过编�
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/wps18.jpg) 
 
-## 2 充电说明
+### 2 充电说明
 
 ViVi人形机器人的电源是4.8V电池，需要用所配的专用充电器给其充电，正常情况下，充满电池需要2小时，满电状态下的电源可以供机器人连续工作30分钟。
 
@@ -79,7 +79,7 @@ ViVi人形机器人的电源是4.8V电池，需要用所配的专用充电器给
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/wps26.jpg) 
 
-## 3 固件烧录过程
+### 3 固件烧录过程
 
 硬件材料：
 
@@ -107,13 +107,13 @@ ViVi人形机器人的电源是4.8V电池，需要用所配的专用充电器给
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/wps34.jpg) 
 
-## 4 注意事项
+### 4 注意事项
 
 ① vivi机器人在电源突然没电的时候由于舵机的特性导致双手和双脚会瞬间不规则扭曲呈痉挛状，这属于正常现象，需要马上关闭电源，然后将手脚按原来的位置原路线旋转回初始化状态，特别是双臂，切不可不按舵机旋转路线的胡乱旋转到常规状态，这样会导致下次开机时舵机转角不准确，影响下次使用，严重者甚至会造成舵机的永久性损坏！
 
 ②充电时切记要确保电池正负极没接错再让其长时间充电，避免因为短路而烧坏控制板甚至发生其他不可预料的后果！
 
-## 5 Mesh组网功能介绍（附录）
+### 5 Mesh组网功能介绍（附录）
 
 ViVi人性机器人的升级版自带可WiFi Mesh自组网功能，上电后可以自动识别或创建WiFi组网，理论上无论多少台机器人都可以实现组网功能，将N台带同样自组网功能的机器人都开机后，手机连上其中一个创建的热点“ViVi_Mesh”，密码是123456789，然后打开APP按第1章的操作方法，即可同时控制该已经组成网络的N台机器人同步进行动作演示了。
 
@@ -127,13 +127,13 @@ http://v.youku.com/v_show/id_XMjk5NjQyMTY1Ng==.html?spm=a2h3j.8428770.3416059.1
 
 注意：ViVi机器人出厂自带的是单机版的程序，Mesh组网功能的这里仅作介绍，并非默认提供；
 
-# 【高级篇】
+## 【高级篇】
 
-## 6主程序上传至开发板
+### 6主程序上传至开发板
 
 代码上传至开发板分网页上传、串口工具两种模式。网页上传前提是控制板已经上传过代码并能开启wifi热点或连接路由器，如果初次上传程序到开发板则需要用串口工具上传代码。
 
-### 6.1 串口上传固件
+#### 6.1 串口上传固件
 
 打开专用的串口工具
 
@@ -177,9 +177,9 @@ http://v.youku.com/v_show/id_XMjk5NjQyMTY1Ng==.html?spm=a2h3j.8428770.3416059.1
 
 5.串口调试（未配置smartconfig）
 
-### 6.2 网页上传固件(AP模式) 
+#### 6.2 网页上传固件(AP模式) 
 
-#### 6.2.1 AP模式
+##### 6.2.1 AP模式
 
 AP模式即通过连接控制板的wifi热点对其进行配置。连接控制板wifi热点后在浏览器上输入192.168.4.1/update  进入下载页面，并选择需要上传的BIN文件点击上传。网页左下角有程序上传进度。
 
@@ -191,7 +191,7 @@ AP模式即通过连接控制板的wifi热点对其进行配置。连接控制�
 
 7.上传进度显示
 
-## 7 动作文件上传至开发板
+### 7 动作文件上传至开发板
 
 人形机器人的动作文件的上传需要专门的文件上传工具MotionInstaller.exe,通过串口工具上传代码，串口一定要用PL2303串口工具上传，否则上传不成功。注意：烧写动作文件时需要先把00_Lstep.json一起上传，以确定动作文件的起始地址位置。
 
@@ -225,17 +225,17 @@ AP模式即通过连接控制板的wifi热点对其进行配置。连接控制�
 
 12.动作上传成功
 
-## 8 图形化编辑动作Graphical editing action
+### 8 图形化编辑动作Graphical editing action
 
 如果用户想自己设计人形机器人的动作可以通过motion_editor.exe图形化编辑软件进行开发。motion_editor功能很强大，不仅能够编辑人形机器人的动作还是在线模拟仿真、实时控制等。
 
-### 8.1 软件图标
+#### 8.1 软件图标
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/wps49.jpg) 
 
 15.图标
 
-### 8.2 软件功能解释
+#### 8.2 软件功能解释
 
 （1）打开动作文件夹
 
@@ -287,7 +287,7 @@ AP模式即通过连接控制板的wifi热点对其进行配置。连接控制�
 
 18.动作文件空文件Action file empty file
 
-## 9 代码编译工具Code compilation tool
+### 9 代码编译工具Code compilation tool
 
 控制板的核心是ESP8266，其编译器是ArduinoIDE的二次开发，工具名称为arduino-1.6.8_SDK_1.5.4。
 
@@ -305,7 +305,7 @@ AP模式即通过连接控制板的wifi热点对其进行配置。连接控制�
 
 20.选择文件Select the file
 
-## 10 程序相关资料链接
+### 10 程序相关资料链接
 
 用户如果需要自行开发或者修改内部代码则可以参考一下网站：
 
@@ -315,7 +315,7 @@ AP模式即通过连接控制板的wifi热点对其进行配置。连接控制�
 
 机器人代码下载及解释
 
-# 附录. 设计资料
+## 附录. 设计资料
 
 | 四博智联资源                                           |                                                              |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
@@ -348,7 +348,7 @@ AP模式即通过连接控制板的wifi热点对其进行配置。连接控制�
 | 资源整合                                                     | [ESP8266官⽅论坛](http://bbs.espressif.com/)                 |
 | [ESP8266资源合集](http://www.espressif.com/zh-hans/products/hardware/esp8266ex/resources) |                                                              |
 
-# 免责申明和版权公告
+## 免责申明和版权公告
 
 本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
 
@@ -358,6 +358,6 @@ Wi-Fi联盟成员标志归Wi-Fi联盟所有。
 
 文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。
 
-# 注 意
+## 注 意
 
 由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
