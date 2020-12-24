@@ -1,7 +1,7 @@
 <center><font size=10> DT-W5G1原理图 </center></font>
 <center> From SZDOIT</center>
 
-![image-20201221173957240](image-20201221173957240.png)
+![image-20201221173957240](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Schematic/image-20201221173957240.png)
 
 
 
