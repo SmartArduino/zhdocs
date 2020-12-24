@@ -7,7 +7,7 @@
 
 
 
-# 一、发货清单
+## 一、发货清单
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/8DOFRobot/wps1.jpg)
 
@@ -25,13 +25,13 @@
 | ---- | ------------ | ------ | ------------- | ---------- |
 | 数量 | 120          | 80     | 10            | 4          |
 
-# 二、安装过程
+## 二、安装过程
 
 安装时采用从下往上一次安装，具体安装步骤如下：
 
 注意：此过程中必须保证每个关节的舵机都处于中间位置即P1500位置。正常收到的舵机一般都处于P1500位置。购买了控制板的朋友可以通过相关的板子去检测修改下。角度校中好后不要试图用手或者其他方式转动舵机的输出轴。上面的过程既是对舵机角度的校中也是初步检测舵机跟控制板的问题，所以必不可少。完成上面的检测后就可以安装了。
 
-## 1.安装脚掌
+### 1.安装脚掌
 
 1) 取出一个脚板和一个多功能支架，使用M3*8螺丝和M3螺母固定，如下图：
 
@@ -45,7 +45,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/8DOFRobot/wps7.jpg) 
 
-## 2.安装小腿
+### 2.安装小腿
 
 1) 取出一个段短U支架，使用M3*8螺丝将其一端固定在舵机上，如下图：
 
@@ -59,7 +59,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/8DOFRobot/wps10.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/8DOFRobot/wps11.jpg) 
 
-## 3.安装大腿
+### 3.安装大腿
 
 1) 取出一个多功能支架，使用M3*8螺丝和M3螺母将其固定在短U支架上，如下图：
 
@@ -71,13 +71,13 @@
 
 到此机械人的一只脚已经完成了，使用同样的方法将另一只脚也安装好。
 
-## 4.安装腰部
+### 4.安装腰部
 
 1) 取出U型梁和安装好的两只脚，使用M3*8螺丝将其固定，如下图：
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/8DOFRobot/wps14.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/8DOFRobot/wps15.jpg) 
 
-## 5.安装机械人肩膀
+### 5.安装机械人肩膀
 
 1) 取出两个多功能支架，使用M3*8螺丝和M3螺母将其固定在多功能支架上，而且为了以后安装方便，可以在多功能支架上放M38螺丝，如下图：
 
@@ -87,7 +87,7 @@
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/8DOFRobot/wps17.jpg) 
 
-## 6.安装机械人手柄
+### 6.安装机械人手柄
 
 1) 先取出一个多功能支架，使用M3*8螺丝按下图位置放置：
 
@@ -111,7 +111,7 @@
 
 到此机械人的一只手柄安装完成，使用同样的方法安装好另一只手
 
-## 7.安装剩余部分
+### 7.安装剩余部分
 
 1) 取出安装好的主干部分和两只手柄，使用M38螺丝和M3螺母分别将两只手柄固定在主干上。如：
 
@@ -130,7 +130,7 @@
 
 
 
-# 支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
