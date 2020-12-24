@@ -1,7 +1,7 @@
 <center><font size=10> ViVi 人形机器人-组装与调试 </center></font>
 <center> From SZDOIT</center>
 
-# 一、物料清单
+## 一、物料清单
 
 ![image-20201021183203993](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/image-20201021183203993.png)
 
@@ -11,7 +11,7 @@
 
 ![image-20201021183324889](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/image-20201021183324889.png)
 
-# 二、主控板介绍
+## 二、主控板介绍
 
 主控板整套
 
@@ -21,7 +21,7 @@
 
 ![image-20201021183458002](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/image-20201021183458002.png)
 
-# 三、结构介绍
+## 三、结构介绍
 
 散装结构图
 
@@ -39,9 +39,9 @@
 
 ![image-20201021183721214](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/image-20201021183721214.png)
 
-# 四、组装与调试
+## 四、组装与调试
 
-## 1. 物料准备
+### 1. 物料准备
 
 a. 舵机处理
 
@@ -90,7 +90,7 @@ iOS 版：
 
 ![image-20201022084839756](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/image-20201022084839756.png)
 
-## 2.安装舵机
+### 2.安装舵机
 
 a. 中框
 
@@ -150,7 +150,7 @@ C. 双臂
 
 ![image-20201022090346775](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/HumanoidRobot/ViViRobot/image-20201022090346775.png)
 
-## 3. 关节组装
+### 3. 关节组装
 
 a. 主控板上电
 
@@ -501,7 +501,7 @@ i. 装上后背
 
 
 
-# 支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
