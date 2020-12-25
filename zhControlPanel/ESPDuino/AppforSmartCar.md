@@ -52,5 +52,5 @@
    
    该控制器套件可通过WiFi、蓝牙和PS2对汽车底盘和机器人手臂进行无线控制。点击下面的链接下载应用程序。
    
-   [下载](https://github.com/SmartArduino/ESPboard/blob/master/BTcar.apk)
+   [下载](https://github.com/SmartArduino/SmartArduino.github.io/blob/master/docs/Robot/Controller/app/base.apk)
 
