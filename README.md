@@ -259,6 +259,7 @@
   
   * [T900坦克底盘小车和ESPDuino](zh/zhSmartCAR/T_Series/T900/ESPduinoT900Connect.md)
   * [ViVI人形机械人的使用说明](zh/zhRobotArm/HumanoidRobot/ViViRobot/ViViUseInstructions.md)
+  * [Arduino UNO R3蓝牙/WiFi/手柄控制套件的使用说明](zh/zhControlPanel/4&&16ControlKit/4&&16ControlKit.md)
 * ### 【四】机械臂
   
   * [车载机械臂](zh/Robot/FrameChassis/cararm/cararm.md)
