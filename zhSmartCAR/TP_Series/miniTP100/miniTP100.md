@@ -1,13 +1,13 @@
 <center><font size=10> miniTP100小车安装说明</center></font>
 <center> From SZDOIT</center>
 
-# 一、简介
+## 一、简介
 
 此产品支持arduino、51、STM32等单片机控制，适合各种DIY制作
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TP_Series/miniTP100/wps1.jpg) 
 
-# 二、安装
+## 二、安装
 
 1. 支架安装
 
@@ -89,7 +89,7 @@
 
  
 
-# 支持与服务
+## 支持与服务
 
 | 四博智联资源                                        |                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------ |
