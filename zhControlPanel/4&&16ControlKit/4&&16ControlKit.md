@@ -1063,7 +1063,7 @@ void loop()
 
 ![img](wps25.jpg) 
 
-视屏教程：
+视屏教程：https://github.com/SmartArduino/zhdocs/blob/master/zhControlPanel/4%26%2616ControlKit/Bluetooth.rar
 
 #### 5.2.2 WiFi控制说明
 
