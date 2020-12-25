@@ -2,7 +2,7 @@
 
 <center> from SZDOIT </center>
 
-# 1. 材料清单
+## 1. 材料清单
 
 - 驱动轮轮片:            2pcs
 - 铝合金联轴器:        1pcs
@@ -14,7 +14,7 @@
 
 ![metalwheelmaterial](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/metalwheelmaterial.jpg)
 
-# 2. 安装
+## 2. 安装
 
 1) 先将顶丝安装在铝合金联轴器上，再将铜联轴器安装在轮片上。
 
@@ -34,14 +34,14 @@
 
 ![drivingwheelfinish](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/Wheel/MetaDrivingWheel/drivingwheelfinish.jpg)
 
-# 3. 注意事项
+## 3. 注意事项
 
 - 安装驱动轮时，请对准定位孔;
 - M4x16内六角螺丝可调节联轴器连接长度，以适应电机轴;
 
 
 
-# 支持与服务
+## 支持与服务
 
 | 官方技术支持QQ群 |           |
 | ---------------- | --------- |
