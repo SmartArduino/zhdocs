@@ -5,19 +5,19 @@
 
 该小车采用铝合金底盘，具有全方位运动、速度快、载重大等特点，支持arduino、51、STM32、Raspberry pie开发板，可以使用WiFi、蓝牙、PS2手柄三种控制方式，非常适用DIY、ROS和飘移研究
 
-![img](wps1.jpg)
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps1.jpg)
 
 ## 2. 安装说明
 
 ### 2.1 发货清单
 
-![img](wps2.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps2.jpg) 
 
 ### 2.2 安装电机固定支架
 
 取出M3*8和M3螺母各16颗，按下图所示方式将 支架固定在底盘上
 
-![img](wps3.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps3.jpg) 
 
 ### 2.3  固定电机
 
@@ -25,29 +25,29 @@
 
  
 
-![img](wps4.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps4.jpg) 
 
 ### 2.4 安装麦克纳轮
 
-![img](wps5.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps5.jpg) 
 
 注意：固定电机的螺丝方向要对准电机轴平整那面
 
-![img](wps6.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps6.jpg) 
 
 ### 2.5 注意要点
 
 由于麦轮可以全方位的转动，所以要指定安装方向，具体如下图所示
 
-![img](wps7.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps7.jpg) 
 
-![img](wps8.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps8.jpg) 
 
 ### 2.6 安装LED灯
 
-![img](wps9.jpg)![img](wps10.jpg)![img](wps11.jpg)![img](wps12.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps9.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps10.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps11.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps12.jpg) 
 
-![img](wps13.jpg)![img](wps14.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps14.jpg) 
 
 ## 3. 源码
 
