@@ -653,7 +653,7 @@ void Control()
 
 ## 4. 控制说明
 
-有关详细信息，请参阅本文：https://gitnova.com/#/Robot/Controller/4Motor16ServoControlKit/4Motor16ServoControlKit
+有关详细信息，请参阅本文：https://gitnova.com/#/zh/zhControlPanel/4&&16ControlKit/4&&16ControlKit
 
 
 
