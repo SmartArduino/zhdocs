@@ -53,7 +53,7 @@
 
 ## 3. 源码
 
-如果编译程序的时候报错显示找不到库文件，请下载对应库文件解压到Arduino IDE安装目录下的libraries文件夹下：y：https://github.com/SmartArduino/Arduino-Third-party-Libraries
+如果编译程序的时候报错显示找不到库文件，请下载对应库文件解压到Arduino IDE安装目录下的libraries文件夹下：https://github.com/SmartArduino/Arduino-Third-party-Libraries
 
 ### 3.1 WiFi/Bluetooth 
 
