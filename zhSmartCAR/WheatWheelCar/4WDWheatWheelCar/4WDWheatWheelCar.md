@@ -45,7 +45,9 @@
 
 ### 2.6 安装LED灯
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps9.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps10.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps11.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps12.jpg) 
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps9.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps10.jpg)
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps11.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps12.jpg) 
 
 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps14.jpg) 
 
