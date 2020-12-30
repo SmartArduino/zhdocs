@@ -5,7 +5,7 @@
 
 ### 1.1 产品外观
 
-![image-20201221142411800](image-20201221142411800.png)
+![image-20201221142411800](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221142411800.png)
 
 ### 1.2 使用说明
 
@@ -51,11 +51,11 @@ TR227 供电电压 4.8-7.2V
 
 最新的控制板，安装最新的驱动，显示的设备名称如下，USB-SERIAL CH340（COM11）。
 
-![image-20201221142851022](image-20201221142851022.png)
+![image-20201221142851022](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221142851022.png)
 
 ### 1.3  连接舵机
 
-![image-20201221142949213](image-20201221142949213.png)
+![image-20201221142949213](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221142949213.png)
 
 图中红色框的区域是连接舵机的，天蓝色框是信号线接口(连接舵机的时候要注意方向)
 
@@ -69,7 +69,7 @@ TR227 供电电压 4.8-7.2V
 
 ### 1.5 控制板的其他接口说明
 
-![image-20201221143511123](image-20201221143511123.png)
+![image-20201221143511123](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221143511123.png)
 
 红色圈 1： USB 数据线接口，电脑调试接口
 红色圈 2：PS2 手柄接收器接口（具体说明请看 PS2 的说明书）
@@ -89,7 +89,7 @@ TR227 供电电压 4.8-7.2V
 
 具体的命令如下：（待完善）
 
-![image1](image1.png)
+![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image1.png)
 
 以上命令都有一个共同点，都有\r\n，这个是命令的结束符，必须得有。另外所有命令中都不含空格
 
@@ -97,7 +97,7 @@ TR227 供电电压 4.8-7.2V
 
 ### 1.7 与单片机连接
 
-![image-20201221144416233](image-20201221144416233.png)
+![image-20201221144416233](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221144416233.png)
 
 上图中的接口是接单片机的。
 跟外部单片机连接只需要接 RXD、TXD、GND 就行了，上图中标记的 5V 是输入脚，不建议做 5V 输出使用（会不稳定，或者容易烧坏控制板）舵机控制板-------外部单片机
@@ -127,11 +127,11 @@ GND----------------GND
 
 ### 2.1 调整软件界面中舵机的布局
 
-![image-20201221145041899](image-20201221145041899.png)
+![image-20201221145041899](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145041899.png)
 
 在软件中间空白处，双击电脑鼠标，之后空白处的颜色会变成彩色，同时会出现 32个舵机的勾选框。
 
-![image-20201221145116861](image-20201221145116861.png)
+![image-20201221145116861](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145116861.png)
 
 当背景变色之后，就可以移动舵机的位置了，软件右侧的勾选可以显示或者隐藏对应的舵机。
 
@@ -139,7 +139,7 @@ GND----------------GND
 
 右键菜单中有几个常用的布局
 
-![image-20201221145145213](image-20201221145145213.png)
+![image-20201221145145213](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145145213.png)
 
 右键菜单说明：
 
@@ -155,11 +155,11 @@ GND----------------GND
 
 ### 3.3 导入老版本软件的.txt 文件
 
-![image-20201221145258868](image-20201221145258868.png)
+![image-20201221145258868](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145258868.png)
 
 用鼠标将文件拖入到软件下方的列表中即可（必须为完整值的动作组文件，不支持相对值的动作组文件）（拖拽在部分电脑上可能无法使用，请用下一种方式）或者，软件上方菜单---文件---打开—选择文件（右下角选择 原始文件.txt）
 
-![image-20201221145401235](image-20201221145401235.png)
+![image-20201221145401235](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145401235.png)
 
 ### 2.4 保存文件
 
@@ -178,12 +178,12 @@ GND----------------GND
 
 然后拖动对应脱机的滑条
 
-![image-20201221145527338](image-20201221145527338.png)
+![image-20201221145527338](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145527338.png)
 
 （这个是 S1 号舵机，电路板上有标记）
 将舵机调整到您自己想要的位置，然后在软件下方设置对应的时间
 
-![image-20201221145603762](image-20201221145603762.png)
+![image-20201221145603762](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145603762.png)
 
 然后点击旁边的“增加”，就是将该状态生成一条命令，插入到命令列表的最后一行。（一条命令类似一副“图片”，而动画是很多图片，按照设置的时间一张一张的播放，才会有动画效果，这个地方也是一样，一条一条命令，按照你设置的时间，一条一条的运行，就会形成一个连贯的动作。）
 
@@ -191,7 +191,7 @@ GND----------------GND
 
 ### 2.6 在线调试编号好的动作
 
-![image-20201221145655250](image-20201221145655250.png)
+![image-20201221145655250](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145655250.png)
 
 当您编辑完你想要的动作之后，您可以先在电脑上运行一下，看看你调试好的动作是否满意。如果你满意就可以下载到控制板中，或者保存到电脑上（软件上方菜单，文件，保存），如果您觉得某一行不满意，您可以选中这一行，然后再次拖动滑条调整舵机的位置，然后点击“修改”按钮，就可以修改成当前的状态。
 
@@ -203,13 +203,13 @@ GND----------------GND
 
 打包就是将很多行命令，打包成一个一个动作组。
 
-![image-20201221145749234](image-20201221145749234.png)
+![image-20201221145749234](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145749234.png)
 
 下载完了会有提示编号。下载之后，您只需知道这个编号就行，然后去执行它。
 
 ### 2.8 下载之后的文件在哪里看、及其他先关操作
 
-![image-20201221145826626](image-20201221145826626.png)
+![image-20201221145826626](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221145826626.png)
 
 软件下方，进入 文件 页面。
 
@@ -254,11 +254,11 @@ GND----------------GND
 
 读取完了之后，可以
 
-![image-20201221150017384](image-20201221150017384.png)
+![image-20201221150017384](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221150017384.png)
 
 就是将读取出来的数据，在这里显示，方便再次编辑。
 
-![image-20201221150036752](image-20201221150036752.png)
+![image-20201221150036752](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221150036752.png)
 
 ### 2.12 文件---格式化
 
@@ -269,7 +269,7 @@ GND----------------GND
 
 按照 MP3 的说明书将线接好。
 
-![image-20201221150125236](image-20201221150125236.png)
+![image-20201221150125236](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221150125236.png)
 
 上图中 MP3 旁边的框是输入 mp3 文件名称的，必须为 4 位数的数据。（MP3 的说明书中有）
 
@@ -299,7 +299,7 @@ GND----------------GND
 
 软件上方菜单，工具，PS2 手柄。
 
-![image-20201221150258773](image-20201221150258773.png)
+![image-20201221150258773](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221150258773.png)
 
 暂时只能设置 12 个按键，输入的格式为#1GC1（这个意思是执行动作组 1 执行 1次，1G 是动作组 1，C1 是执行一次）。
 
@@ -307,7 +307,7 @@ GND----------------GND
 
 ### 2.16 舵机的相对运动（也就是所谓的微调）
 
-![image-20201221150352792](image-20201221150352792.png)
+![image-20201221150352792](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221150352792.png)
 
 左侧的框的数值是舵机的脉冲信号的脉冲，范围是 500 到 2500.右侧的框的数值是相对脉冲的值，范围是 -2000 到 2000 （普通用户可以忽视这个数值。）
 
@@ -342,7 +342,7 @@ GND----------------GND
 
 批量生产：
 
-![image-20201221150540518](image-20201221150540518.png)
+![image-20201221150540518](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221150540518.png)
 
 Tox 文件的用法。
 
@@ -364,7 +364,7 @@ Tox 文件的用法。
 
 或者将 MP3 模块连接单片机，单片机通过串口发命令给 MP3 模块，播放指定的 MP3 文件。
 
-![image-20201221151119965](image-20201221151119965.png)
+![image-20201221151119965](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221151119965.png)
 
 ### 3.2 模块特点
 
@@ -395,7 +395,7 @@ Tox 文件的用法。
 
 ### 3.5 接线说明（接舵机控制板）
 
-![image-20201221151432888](image-20201221151432888.png)
+![image-20201221151432888](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221151432888.png)
 
 将 MP3 模块上的 + 接到舵机控制板上 S1 号舵机接口的电源正极（MP3 与舵机共用电源）
 
@@ -423,11 +423,11 @@ TF 最大支持 32G，文件格式建议为 FAT32。
 
 TF 根目录新建名为 MP3 的文件夹
 
-![image-20201221152157304](image-20201221152157304.png)
+![image-20201221152157304](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221152157304.png)
 
 然后再 MP3 文件夹内，放置需要播放的 MP3 文件
 
-![image-20201221152217800](image-20201221152217800.png)
+![image-20201221152217800](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221152217800.png)
 
 文件名称必须为：四位数字+歌曲名
 
@@ -439,7 +439,7 @@ TF 根目录新建名为 MP3 的文件夹
 
 下载最新的电脑软件：http://dl.torobot.com/down/rios_usc.exe
 
-![image-20201221152251619](image-20201221152251619.png)
+![image-20201221152251619](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221152251619.png)
 
 ### 3.8 通讯协议说明（部分）
 
@@ -469,9 +469,9 @@ TF 根目录新建名为 MP3 的文件夹
 
 看手柄接收器侧面，上面大，下面小，如下的外形，9 个针，只要接第 1、2、4、5、6、7 六个就行了。
 
-![image-20201221152541107](image-20201221152541107.png)
+![image-20201221152541107](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221152541107.png)
 
-![image-20201221152611903](image-20201221152611903.png)
+![image-20201221152611903](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221152611903.png)
 
 上图中的 1，接手柄接收器上第 1 个脚。。。。以此类推。
 
@@ -481,7 +481,7 @@ TF 根目录新建名为 MP3 的文件夹
 
 打开 ROBOIDE 电脑软件，软件上方菜单，工具—PS2 手柄。
 
-![image-20201221152649007](image-20201221152649007.png)
+![image-20201221152649007](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221152649007.png)
 
 然后在右侧 PS2 手柄按钮附近的输入框中输入按键需要执行的动作组命令。
 
@@ -515,12 +515,12 @@ TF 根目录新建名为 MP3 的文件夹
     数字 1 为舵机控制板上的 S1 通道
   
     数字 1500 是控制舵机的角度（范围为 500-2500），控制舵机的 0-180 度数字 100 是时间，时间的意思是，从当前的位置，旋转到命令中的位置，所需要的时间。
-  
+
   最后\r\n 是一个特殊字符，不能用串口调试助手直接发送出来。（注解 1） 以上命令的意思就是：S1 上插的舵机，在 100ms 的时间内。从现在的位置旋转到 90 度。
 
 注解 1
 
-![image-20201221152949126](image-20201221152949126.png)
+![image-20201221152949126](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/32SERVO/image-20201221152949126.png)
 
 上图中，是使用了我们自己的串口调试助手，注意下面的发送区的命令为
 
