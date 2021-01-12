@@ -963,7 +963,9 @@ void loop()
 
 （3）配置库文件
 
-打开第四节中库文件的下载地址：https://github.com/SmartArduino/Arduino-Third-party-Libraries，下载这两个库文件![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/4&&16ControlKit/wps6.jpg)
+打开第四节中库文件的下载地址：https://github.com/SmartArduino/Arduino-Third-party-Libraries，下载这两个库文件
+
+![img](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/4&&16ControlKit/wps6.jpg)
 
 然后将其解压到libraries文件接中
 

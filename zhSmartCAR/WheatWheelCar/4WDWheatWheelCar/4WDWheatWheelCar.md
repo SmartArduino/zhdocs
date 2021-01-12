@@ -1,4 +1,4 @@
-<center><font size=10> 4WD麦克纳姆轮小车 </center></font>
+<center><font size=10> 4WD 96mm麦克纳姆轮小车 </center></font>
 <center> From SZDOIT</center>
 
 ## 1. 简介
@@ -655,7 +655,7 @@ void Control()
 
 ## 4. 控制说明
 
-有关详细信息，请参阅本文：https://gitnova.com/#/zh/zhControlPanel/4&&16ControlKit/4&&16ControlKit
+有关详细信息，请参阅本文：https://gitnova.com/#/zh/zhControlPanel/4&&16ControlKit/4&&16ControlKit 第五节 操作说明部分 以及第六节 注意事项
 
 
 
