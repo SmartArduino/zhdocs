@@ -247,6 +247,7 @@
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
   * [TP101坦克底盘小车](zh/zhSmartCAR/TP_Series/TP101/TP101.md)
   * [TP200坦克底盘小车](zh/zhSmartCAR/TP_Series/TP200/TP200.md)
+  * [TP301坦克底盘小车](zh/zhSmartCAR/TP_Series/TP301/TP301.md)
   * [miniTP101坦克底盘小车](zh/zhSmartCAR/TP_Series/miniTP100/miniTP100.md)
   * [TS100坦克底盘小车](zh/zhSmartCAR/TS_Series/TS100/TS100.md)
   * [TS100自动循迹避障使用说明](zh/zhSmartCAR/TS_Series/TS100AvoidanceObstacle/TS100AvoidanceObstacle.md)
