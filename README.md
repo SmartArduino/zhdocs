@@ -242,7 +242,7 @@
   * [4WD 50mm麦克纳姆轮小车](zh/zhSmartCAR/WheatWheelCar/50mmMecaNumCar/50mmMecaNumCar.md)
   * [4WD 60mm麦克纳姆轮小车](zh/zhSmartCAR/WheatWheelCar/60mmMecaNumCar/60mmMecaNumCar.md)
   * [4WD 65mm麦克纳姆轮小车](zh/zhSmartCAR/WheatWheelCar/50mmMecaNumCar/50mmMecaNumCar.md)
-  * [4WD 96mm纳姆轮小车](zh/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/4WDWheatWheelCar.md)
+  * [4WD 96mm麦克纳姆轮小车](zh/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/4WDWheatWheelCar.md)
   * [C101小车安装说明](zh/zhSmartCAR/C_Series/C101/C101.md)
   * [TC100坦克底盘小车](zh/zhSmartCAR/TC_Series/TC100/TC100.md)
   * [TP101坦克底盘小车](zh/zhSmartCAR/TP_Series/TP101/TP101.md)
