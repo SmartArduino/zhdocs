@@ -9,7 +9,7 @@ BL602/BL604 是一款 Wi-Fi + BLE 组合的芯片组，用于低功耗和高性�
 
 外围接口包括 SDIO，SPI，UART，I2C，IR remote，PWM，ADC，DAC，PIR 和 GPIO。
 
-![image-20201119144259627](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119144259627.png)
+![image-20201119144259627](image-20201119144259627.png)
 
 ### 1.1 无线
 
@@ -129,7 +129,7 @@ BL602/BL604 是一款 Wi-Fi + BLE 组合的芯片组，用于低功耗和高性�
 
 BL602/BL604 主要功能描述如下:
 
-![image-20201119144634152](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119144634152.png)
+![image-20201119144634152](image-20201119144634152.png)
 
 ### 2.1 CPU
 
@@ -155,9 +155,9 @@ DMA 支持的外设包括 UART，I2C，SPI，ADC 和 DAC。
 
 BL602/BL604 总线连接与地址访问总结如下：
 
-![image-20201119144859911](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119144859911.png)
+![image-20201119144859911](image-20201119144859911.png)
 
-![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image1.png)
+![image1](image1.png)
 
 ### 2.6 中断
 
@@ -179,7 +179,7 @@ BL602/BL604 支持多种启动，可选择从 UART、SDIO、Flash 闪存。
 
 时钟控制单元为核心 MCU 和外围 SOC 设备生成时钟。时钟源可以是 XTAL，PLL 或 RC 振荡器。通过适当的配置（例如 sel，div，en 等）来动态节省功耗。PMU 以 32KHz 时钟运行，使系统在睡眠模式下保持低功耗。
 
-![image-20201119145432550](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119145432550.png)
+![image-20201119145432550](image-20201119145432550.png)
 
 ### 2.10 外设
 
@@ -189,85 +189,85 @@ BL602/BL604 支持多种启动，可选择从 UART、SDIO、Flash 闪存。
 
 BL602 32-pin 封装包括固定电源接口 10 个、固定模拟接口 6 个、以及富含弹性的 GPIO 接口 16 个供应用选择。
 
-![image-20201119145524368](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119145524368.png)
+![image-20201119145524368](image-20201119145524368.png)
 
-![image2](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image2.png)
+![image2](image2.png)
 
 ## 4 管脚定义QFN40
 
 BL604 40-pin 封装包括固定电源接口 10 个、固定模拟接口 6 个、固定外部复位接口 1 个、以及富含弹性的 GPIO 接口 23 个供应用选择。
 
-![image-20201119145859294](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119145859294.png)
+![image-20201119145859294](image-20201119145859294.png)
 
-![image3](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image3.png)
+![image3](image3.png)
 
 ## 5 射频特性
 
 射频接收和传输模式的特性，如下表所示：
 
-![image-20201119150145482](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150145482.png)
+![image-20201119150145482](image-20201119150145482.png)
 
-![image-20201119150158957](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150158957.png)
+![image-20201119150158957](image-20201119150158957.png)
 
 ## 6 功耗
 
 每个电源模式的功耗，如下表所示：
 
-![image-20201119150242907](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150242907.png)
+![image-20201119150242907](image-20201119150242907.png)
 
 ## 7 电气特性
 
 ### 7.1 绝对最大额定值
 
-![image-20201119150325250](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150325250.png)
+![image-20201119150325250](image-20201119150325250.png)
 
 ### 7.2 运行条件
 
-![image-20201119150350556](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150350556.png)
+![image-20201119150350556](image-20201119150350556.png)
 
-![image-20201119150404246](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150404246.png)
+![image-20201119150404246](image-20201119150404246.png)
 
 ## 8 参考设计
 
-![image-20201119150439755](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150439755.png)
+![image-20201119150439755](image-20201119150439755.png)
 
 ## 9 封装信息QFN32
 
-![image-20201119150551147](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150551147.png)
+![image-20201119150551147](image-20201119150551147.png)
 
-![image4](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image4.png)
+![image4](image4.png)
 
 ## 10 封装信息QFN40
 
-![image-20201119150826051](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119150826051.png)
+![image-20201119150826051](image-20201119150826051.png)
 
-![image5](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image5.png)
+![image5](image5.png)
 
 ## 11 标志定义
 
-![image-20201119151013210](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119151013210.png)
+![image-20201119151013210](image-20201119151013210.png)
 
 ## 12 订购信息
 
-![image-20201119151041456](https://github.com/SmartArduino/zhdocs/raw/master/zhBouffaloLab/BL602_BL604/datasheet/image-20201119151041456.png)
+![image-20201119151041456](image-20201119151041456.png)
 
+## 更多资源，请关注公众号！
 
+![image-20210330115006969](image-20210330115006969.png)
 
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
