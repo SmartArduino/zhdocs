@@ -5,19 +5,19 @@
 
 该小车采用铝合金底盘，具有全方位运动、速度快、载重大等特点，支持arduino、51、STM32、Raspberry pie开发板，可以使用WiFi、蓝牙、PS2手柄三种控制方式，非常适用DIY、ROS和飘移研究
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps1.jpg)
+![img](wps1.jpg)
 
 ## 2. 安装说明
 
 ### 2.1 发货清单
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps2.jpg) 
+![img](wps2.jpg) 
 
 ### 2.2 安装电机固定支架
 
 取出M3*8和M3螺母各16颗，按下图所示方式将 支架固定在底盘上
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps3.jpg) 
+![img](wps3.jpg) 
 
 ### 2.3  固定电机
 
@@ -25,31 +25,31 @@
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps4.jpg) 
+![img](wps4.jpg) 
 
 ### 2.4 安装麦克纳轮
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps5.jpg) 
+![img](wps5.jpg) 
 
 注意：固定电机的螺丝方向要对准电机轴平整那面
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps6.jpg) 
+![img](wps6.jpg) 
 
 ### 2.5 注意要点
 
 由于麦轮可以全方位的转动，所以要指定安装方向，具体如下图所示
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps7.jpg) 
+![img](wps7.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps8.jpg) 
+![img](wps8.jpg) 
 
 ### 2.6 安装LED灯
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps9.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps10.jpg)
+![img](wps9.jpg)![img](wps10.jpg)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps11.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps12.jpg) 
+![img](wps11.jpg)![img](wps12.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/WheatWheelCar/4WDWheatWheelCar/wps14.jpg) 
+![img](wps13.jpg)![img](wps14.jpg) 
 
 ## 3. 源码
 
@@ -659,21 +659,6 @@ void Control()
 
 
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+![wps101010](wps101010.png)

@@ -5,17 +5,17 @@
 
 ​	UNODoit红外/蓝牙/WiFi多功能小车，是基于Arduino UNO R3开发板、使用Arduino IDE开发 的智能坦克小车，其中UNO开发板为主控板，使用完全兼容UNO的“2/4路电机&16路舵机驱动板”作为小车的驱动板，而信号传输方面，将DT-06无线WiFi串口透传模块直插到驱动板上右上角的插槽上作为控制信号传输与手机端连接，实现小车通过手机APP使用WiFi控制小车的功能；通过在开发板上接上各种传感器，小车还将分别有2路循迹、1路超声波摇头避障等等自动化功能。
 
-![real product](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TrackingObstacleCar/real product.jpg)
+![real product](real product.jpg)
 
 ## 2 材料清单
 
-![Materials picture](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TrackingObstacleCar/Materials picture.jpg)
+![Materials picture](Materials picture.jpg)
 
 ## 3 接线说明
 
-![Wiring list  2](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TrackingObstacleCar/Wiring list  2.png)
+![Wiring list  2](Wiring list  2.png)
 
-![Wiring list](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/TrackingObstacleCar/Wiring list.png)
+![Wiring list](Wiring list.png)
 
 ## 4 示例程序
 
@@ -504,21 +504,6 @@ void loop()
 
 
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+![wps101010](wps101010.png)

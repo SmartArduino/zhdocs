@@ -5,7 +5,7 @@
 
 本手册只是简单介绍ESPduino版T900_WiFi小车的电路接线。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps1.jpg) 
+![img](wps1.jpg) 
 
 ## 二、材料准备
 
@@ -22,11 +22,11 @@
 
 实物图鉴：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps2.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps3.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps4.jpg)
+![img](wps2.png)![img](wps3.png)![img](wps4.jpg)
 
 ​       T900坦克小车        ESPDuino开发板      小开关
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps5.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps6.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps7.png)
+![img](wps5.png)![img](wps6.png)![img](wps7.png)
 
 大功率电机驱动板        11.1V大容量锂电池          杜邦线
 
@@ -38,11 +38,11 @@
 
 l 小车的整体外观：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps8.jpg) 
+![img](wps8.jpg) 
 
 l 电路部分结构图：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps9.jpg) 
+![img](wps9.jpg) 
 
 ## 四、硬件电路连接
 
@@ -62,7 +62,7 @@ l 供电部分
 
 以下是简图：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps10.jpg) 
+![img](wps10.jpg) 
 
 l 控制部分
 
@@ -84,25 +84,25 @@ D15      <-------------------------->   B2
 
 以下是实物连接说明图：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps11.jpg) 
+![img](wps11.jpg) 
 
 ## 五、实物效果图
 
 1.三视图
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps12.jpg) 
+![img](wps12.jpg) 
 
 正视图
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps13.jpg) 
+![img](wps13.jpg) 
 
 左视图
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps14.jpg) 
+![img](wps14.jpg) 
 
 后视图
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartCAR/T_Series/T900/wps15.jpg) 
+![img](wps15.jpg) 
 
 3D立体图
 
@@ -116,33 +116,6 @@ D15      <-------------------------->   B2
 
 3）正常安装车子后，按下小开关上电，打开手机的附近WiFi热点列表，点击连接名为“Doit_Car_XXXX”的热点，之后打开软件“Doit小车”，在首页中点击“本地模式”，之后就可以轻松控制小车的运动了。
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-ESPDuino版本T900视频小车固件下载链接：
-
-http://bbs.doit.am/forum.php?mod=viewthread&tid=357&extra=
-
-购买地址：	
-
-https://item.taobao.com/item.htm?id=525057040876
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-## 注 意
-
-由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)
