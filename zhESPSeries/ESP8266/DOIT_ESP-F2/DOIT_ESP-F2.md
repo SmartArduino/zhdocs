@@ -6,13 +6,13 @@
 
 ESP-F2模块核心处理器采用高性价比芯片ESP8266EX。该芯片在较小尺寸封装中集成了业界领先的Tensilica’s L106 超低功耗32位微型MCU，带有16位精简模式，主频⽀持80 MHz和160 MHz，支持RTOS。ESP8266EX拥有完整的Wi-Fi网络功能，既能够独⽴应⽤，也可以作为从机搭载于其他主机MCU运⾏。当ESP8266EX独⽴应⽤时，能够直接从外接Flash中启动。内置的⾼速缓冲存储器有利于提⾼系统性能，并且优化存储系统。此外ESP8266EX只需通过SPI/SDIO 接⼝或I2C/UART⼝即可作为Wi-Fi适配器，应⽤到基于任何微控制器的设计中。
 
-![ESP-F23](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F23.png)
+![ESP-F23](ESP-F23.png)
 
 ESP-F模块支持标准的IEEE802.11 b/g/n/e/i协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
 ESP-F模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系统提供无限可能。
 
-![ESP-F21](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F21.png)
+![ESP-F21](ESP-F21.png)
 
 <center>图1. 1 模块结构图</center>
 
@@ -20,13 +20,13 @@ ESP-F模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系�
 
 <center>表1. 1模块主要参数</center>
 
-![ESP-F214](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F214.png)
+![ESP-F214](ESP-F214.png)
 
 ## 二. 接口定义
 
 ESP-F接口定义如下图所示。
 
-![ESP-F22](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F22.png)
+![ESP-F22](ESP-F22.png)
 
 <center>图2. 1模块管脚图</center>
 
@@ -70,15 +70,15 @@ ESP-F接口定义如下图所示。
 
 模组的外观尺寸为 16mm x 24mm x 3mm（如图所示）。该模组采用的Flash容量为32Mbits（4M Bytes）。
 
-![ESP-F24](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F24.png)
+![ESP-F24](ESP-F24.png)
 
 <center>图3. 1 模组外观</center>
 
-![ESP-F25](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F25.png)
+![ESP-F25](ESP-F25.png)
 
 <center>(a) 俯视图</center>
 
-![ESP-F26](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F26.png)
+![ESP-F26](ESP-F26.png)
 
 <center>(b) 侧视图</center>
 
@@ -94,7 +94,7 @@ ESP-F接口定义如下图所示。
 
 <center>表4. 1电气特性</center>
 
-![ESP-F215](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F215.png)
+![ESP-F215](ESP-F215.png)
 
 ## 五. 功耗
 
@@ -125,21 +125,21 @@ ESP-F接口定义如下图所示。
 
 <center>表6. 1 Wi-Fi射频特征</center>
 
-![ESP-F216](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F216.png)
+![ESP-F216](ESP-F216.png)
 
 ## 七. 推荐炉温曲线
 
 推荐炉温曲线如下：
 
-![ESP-F27](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F27.png)
+![ESP-F27](ESP-F27.png)
 
 <center>图7. 1 推荐炉温曲线</center>
 
 ## 八. 模块内部原理图
 
-![ESP-F28](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F28.png)
+![ESP-F28](ESP-F28.png)
 
-![ESP-F29](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F29.png)
+![ESP-F29](ESP-F29.png)
 
 <center>图8. 1 模块原理图</center>
 
@@ -147,7 +147,7 @@ ESP-F接口定义如下图所示。
 
 模块最小系统电路图如下：
 
-![ESP-F210](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F210.png)
+![ESP-F210](ESP-F210.png)
 
 <center>图9. 1最小系统</center>
 
@@ -171,15 +171,15 @@ Wi-Fi模块可以直接焊接到PCB板上。为了使您的终端产品获得最
 
 针对外置天线版本ESP-M1，由于天线外置，对模块摆放位置要求不高，可参考ESP-M2的布置建议酌情调整。
 
-![ESP-F211](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F211.png)
+![ESP-F211](ESP-F211.png)
 
 <center>图10. 1方案一-天线在板框外统</center>
 
-![ESP-F212](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F212.png)
+![ESP-F212](ESP-F212.png)
 
 <center>图10. 2方案二-天线沿板边放置且下方挖空</center>
 
-![ESP-F213](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F2/ESP-F213.png)
+![ESP-F213](ESP-F213.png)
 
 <center>图10. 3 方案三-天线沿板边放置且下方均不铺铜</center>
 
@@ -187,33 +187,6 @@ Wi-Fi模块可以直接焊接到PCB板上。为了使您的终端产品获得最
 
 Wi-Fi模块集成了高速 GPIO 和外设接口，这可能会产生严重的开关噪声。如果一些应用对于功耗和EMI特性要求较高，建议在数字I/O线上串联10~100欧姆的电阻。这样可以在开关电源时抑制过冲，并使信号变得平稳，同时这种做法也能在一定程度上防止静电释放（ESD）。
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-## 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。                        
-
-注 意：由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

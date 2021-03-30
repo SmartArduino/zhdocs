@@ -9,7 +9,7 @@ ESP-12F WiFi 模块是一款低功耗高性价比的嵌入式无线网络控制�
 
 该模块支持标准的 IEEE802.11 b/g/n 协议，完整的 TCP/IP 协议栈。用户可以使用该模块为现有的设备添加联网功能，也可以构建独立的网络控制器。 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps3.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps4.jpg) 
+![img](wps3.jpg)![img](wps4.jpg) 
 
 图-1  对比图（立体图）
 
@@ -17,7 +17,7 @@ ESP-12F WiFi 模块是一款低功耗高性价比的嵌入式无线网络控制�
 
 ### 2.1 系统架构
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps5.png)
+![img](wps5.png)
 
 ### 2.2 硬件参数 
 
@@ -69,11 +69,11 @@ o 模组尺寸 24mm  16mm  3mm
 
 ## 三、引脚描述 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps6.jpg) 
+![img](wps6.jpg) 
 
 图-3 管脚图（正视图）
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps7.png) 
+![img](wps7.png) 
 
 ​	图-4 模块尺寸（侧视图） 
 
@@ -145,13 +145,13 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 | I2C 接口  | IO14(SCL), IO2(SDA)                                          | 可外接传感器及显示屏等                                       |
 | UART 接口 | UART0: TXD(U0TXD),RXD(U0RXD),IO15(RTS),IO13(CTS)             | 可外接 UART 接口的设备 下载：U0TXD+U0RXD 或者 GPIO2+U0RXD 通信(UART0):U0TXD,U0RXD,MTDO(U0RTS),MTCK(U0CTS) Debug：UART1_TXD(GPIO2)可作为 debug 信息的打印 |
 |           | UART1: IO2(TXD)                                              | UART0 在 ESP8266-12S 上电默认会输出一些打印信息。对此敏感的应用，可以使用 UART 的内部引脚交换功能，在初始化的时候，将 U0TXD,U0RXD 分别与 U0RTS;U0CTS 交换。硬件上将 MTDOMTCK 连接到对应的外部 MCU 的串口进口通信 |
-| I2S 接口  | I2S 输入： IO12 (I2SI_DATA); IO13 (I2SI_BCK ); IO14 (I2SI_WS); ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps8.png)I2S 输出: IO15 (I2SO_BCK ); IO3 (I2SO_DATA); IO2 (I2SO_WS ); | 主要用于音频采集、 处理和传输                                |
+| I2S 接口  | I2S 输入： IO12 (I2SI_DATA); IO13 (I2SI_BCK ); IO14 (I2SI_WS); ![img](wps8.png)I2S 输出: IO15 (I2SO_BCK ); IO3 (I2SO_DATA); IO2 (I2SO_WS ); | 主要用于音频采集、 处理和传输                                |
 
 ## 五、电气特性 
 
 ### 5.1 功耗 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps9.png) 
+![img](wps9.png) 
 
 | Deep Sleep                              | 20uA  |
 | --------------------------------------- | ----- |
@@ -243,7 +243,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
 ## 六、原理图 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps10.jpg) 
+![img](wps10.jpg) 
 
 图-5 ESP-12F 原理图
 
@@ -253,7 +253,7 @@ ESP8266EX 内置 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps11.jpg) 
+![img](wps11.jpg) 
 
 图-6 ESP-12F 最小系统图 
 
@@ -281,15 +281,15 @@ ESP-12F模组可以焊接到 PCB 板上。为了使终端产品获得最佳的�
 
 PCB 天线放在底板上也是允许的，只要天线下方不铺铜即可，参考方案 3。 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps12.jpg) 
+![img](wps12.jpg) 
 
  方案 1：天线在板框外 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps13.jpg) 
+![img](wps13.jpg) 
 
  方案 2：天线沿板边放置且下方挖空 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-12F/wps14.jpg) 
+![img](wps14.jpg) 
 
  方案 3：天线沿板边放置且下方均不铺铜 
 
@@ -301,35 +301,6 @@ ESP-12F 集成了高速 GPIO 和外设接口，这可能会产生严重的开关
 
 EMI 特性要求较高，建议在数字 I/O 线上串联 10 ~ 100 欧姆的电阻。这样可以在开关电源时抑制过冲，并使信号变得平稳。串联电阻也能在一定程度上防止静电释放（ESD）。 
 
-##  支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-## 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。
-
-## 注意
-
-由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

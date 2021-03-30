@@ -3,9 +3,9 @@
 <center><font size=10> 新款6、7自由度机械臂安装说明</font></center>
 <center><font size=3> From SZDOIT </font></center>
 
-|      |                                                              |
-| ---- | :----------------------------------------------------------- |
-|      | ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps2.png) |
+|      |                  |
+| ---- | :--------------- |
+|      | ![img](wps2.png) |
 
 注意
 
@@ -15,11 +15,11 @@
 
 # 散件图
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps3.jpg)
+![img](wps3.jpg)
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps4.jpg) 
+![img](wps4.jpg) 
 
  
 
@@ -81,123 +81,108 @@
 
 # 旋转底座安装 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps5.jpg) 
+![img](wps5.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps6.jpg) 
+![img](wps6.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps7.jpg) 
+![img](wps7.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps8.jpg) 
+![img](wps8.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps9.jpg) 
+![img](wps9.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps10.jpg) 
+![img](wps10.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps11.jpg) 
+![img](wps11.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps12.jpg) 
+![img](wps12.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps13.jpg) 
+![img](wps13.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps14.jpg) 
-
- 
-
- 
-
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps15.jpg) 
+![img](wps14.jpg) 
 
  
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps16.jpg) 
+![img](wps15.jpg) 
 
  
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps17.jpg) 
-
- 
-
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps18.jpg) 
+![img](wps16.jpg) 
 
  
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps19.jpg) 
+![img](wps17.jpg) 
+
+ 
+
+![img](wps18.jpg) 
 
  
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps20.jpg) 
+![img](wps19.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps21.jpg) 
+ 
+
+![img](wps20.jpg) 
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps22.jpg) 
+![img](wps21.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps23.jpg) 
+ 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps24.jpg) 
+![img](wps22.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps25.jpg) 
+![img](wps23.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps26.jpg) 
+![img](wps24.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps27.jpg) 
+![img](wps25.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps28.jpg) 
+![img](wps26.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps29.jpg) 
+![img](wps27.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps30.jpg) 
+![img](wps28.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps31.jpg) 
+![img](wps29.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/RobotArm/wps32.jpg)
+![img](wps30.jpg) 
+
+![img](wps31.jpg) 
+
+![img](wps32.jpg)
 
 
 
-#  支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+![wps101010](wps101010.png)

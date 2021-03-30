@@ -8,13 +8,13 @@ ESP-F1模块核心处理器采用高性价比芯片ESP8266EX。该芯片在较�
 
 
 
-![ESP-F111](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F111.png)
+![ESP-F111](ESP-F111.png)
 
 ESP-F1模块支持标准的IEEE802.11 b/g/n/e/i协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
 ESP-F1模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系统提供无限可能。
 
-![ESP-F10](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F10.png)
+![ESP-F10](ESP-F10.png)
 
 <center>图1. 1模块结构图</center>
 
@@ -22,7 +22,7 @@ ESP-F1模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系
 
 <center>表1. 1模块主要参数</center>
 
-![ESP-F19](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F19.png)
+![ESP-F19](ESP-F19.png)
 
 ## 二. 接口定义
 
@@ -30,7 +30,7 @@ ESP-F1模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系
 
 ESP-F1接口定义如下图所示。
 
-![ESP-F12](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F12.png)
+![ESP-F12](ESP-F12.png)
 
 <center>图2. 1模块管脚图</center>
 
@@ -71,11 +71,11 @@ ESP-F1接口定义如下图所示。
 
 模组的外观尺寸为 16mm x 17mm x 3mm（如图所示）。该模组采用的Flash容量为32Mbits（4M Bytes）。
 
-![ESP-F13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F13.png)
+![ESP-F13](ESP-F13.png)
 
 <center>(a) 俯视图</center>
 
-![ESP-F14](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F14.png)
+![ESP-F14](ESP-F14.png)
 
 <center>(b) 俯视视图</center>
 
@@ -91,7 +91,7 @@ ESP-F1接口定义如下图所示。
 
 <center>表4. 1电气特性</center>
 
-![ESP-F110](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F110.png)
+![ESP-F110](ESP-F110.png)
 
 ## 五. 功耗
 
@@ -145,15 +145,15 @@ ESP-F1接口定义如下图所示。
 
 推荐炉温曲线如下：
 
-![ESP-F15](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F15.png)
+![ESP-F15](ESP-F15.png)
 
 <center>图7. 1推荐炉温曲线</center>
 
 ## 八. 模块内部原理图
 
-![ESP-F16](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F16.png)
+![ESP-F16](ESP-F16.png)
 
-![ESP-F17](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F17.png)
+![ESP-F17](ESP-F17.png)
 
 <center>图8. 1模块原理图</center>
 
@@ -161,7 +161,7 @@ ESP-F1接口定义如下图所示。
 
 模块最小系统电路图如下：
 
-![ESP-F18](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8266/DOIT_ESP-F1/ESP-F18.png)
+![ESP-F18](ESP-F18.png)
 
 <center>图9. 1最小系统</center>
 
@@ -193,33 +193,6 @@ Wi-Fi模块集成了高速 GPIO 和外设接口，这可能会产生严重的开
 
 
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-## 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。
-
-注意：由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

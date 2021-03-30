@@ -4,15 +4,15 @@
 
 MeArm是时下最发烧的桌上型机器手臂，藉由 DIY 套件，它不只能带你走入 maker 世界， 更能培养程序设计能力， 从学生到社会人士都适合玩。本文件为 DIY 步骤，共 16 个步骤。
 
-![wps1](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps1.jpg) 
+![wps1](wps1.jpg) 
 
 注意：180度舵机不同于普通电机，有固定的角度。所有舵机在出货前都已经是中位90度状态，在安装上机械臂之前，请勿随意转动舵机角度，否则会导致安装失败！（若不慎在安装前转动了舵机，请按角度需要将舵机复位。）
 
 ## Step 1: 查看清单
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![wps2](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps2.jpg) |
+|      |                   |
+| ---- | ----------------- |
+|      | ![wps2](wps2.jpg) |
 
 ### 清单列表：
 
@@ -36,13 +36,13 @@ Arduino UNO R3             x1
 
 2) 弹头铜柱x4
 
-![wps3](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps3.jpg) 
+![wps3](wps3.jpg) 
 
-![wps4](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps4.jpg) 
+![wps4](wps4.jpg) 
 
-![wps5](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps5.jpg) 
+![wps5](wps5.jpg) 
 
-![wps6](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps6.jpg) 
+![wps6](wps6.jpg) 
 
 ## Step 3: 安装第一个舵机
 
@@ -50,13 +50,13 @@ Arduino UNO R3             x1
 
 1) 8mm x 2
 
-![wps7](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps7.jpg) 
+![wps7](wps7.jpg) 
 
-![wps8](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps8.jpg) 
+![wps8](wps8.jpg) 
 
-![wps9](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps9.jpg) 
+![wps9](wps9.jpg) 
 
-![wps10](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps10.jpg) 
+![wps10](wps10.jpg) 
 
 ## Step 4: 安装左臂
 
@@ -66,17 +66,17 @@ Arduino UNO R3             x1
 
 2) 8mm x 2
 
-![wps11](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps11.jpg) 
+![wps11](wps11.jpg) 
 
-![wps12](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps12.jpg) 
+![wps12](wps12.jpg) 
 
-![wps13](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps13.jpg) 
+![wps13](wps13.jpg) 
 
-![wps14](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps14.jpg) 
+![wps14](wps14.jpg) 
 
-![wps15](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps15.jpg) 
+![wps15](wps15.jpg) 
 
-![wps16](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps16.jpg) 
+![wps16](wps16.jpg) 
 
 ## Step 5: 安装右臂
 
@@ -88,11 +88,11 @@ Arduino UNO R3             x1
 
 3) 6mm x 1
 
-![wps17](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps17.jpg) 
+![wps17](wps17.jpg) 
 
-![wps18](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps18.jpg) 
+![wps18](wps18.jpg) 
 
-![wps19](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps19.jpg) 
+![wps19](wps19.jpg) 
 
 ## Step 6:安装左臂和底盘
 
@@ -102,23 +102,23 @@ Arduino UNO R3             x1
 
 2) 6mm x 1
 
-![wps20](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps20.jpg) 
+![wps20](wps20.jpg) 
 
-![wps21](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps21.jpg) 
+![wps21](wps21.jpg) 
 
-![wps22](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps22.jpg) 
+![wps22](wps22.jpg) 
 
-![wps23](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps23.jpg) 
+![wps23](wps23.jpg) 
 
 ## Step 7: 安装右臂和底盘
 
-![wps24](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps24.jpg) 
+![wps24](wps24.jpg) 
 
-![wps25](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps25.jpg) 
+![wps25](wps25.jpg) 
 
 ## Step 8: 安装中间移动杆
 
-![wps26](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps26.jpg) 
+![wps26](wps26.jpg) 
 
  
 
@@ -128,7 +128,7 @@ Arduino UNO R3             x1
 
 舵机自带的固定螺丝
 
-![wps27](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps27.jpg) 
+![wps27](wps27.jpg) 
 
 ## Step 10: Branch 1
 
@@ -136,9 +136,9 @@ Arduino UNO R3             x1
 
 6mm x 2
 
-![wps28](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps28.jpg) 
+![wps28](wps28.jpg) 
 
-![wps29](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps29.jpg) 
+![wps29](wps29.jpg) 
 
 ## Step 11: Branch 2
 
@@ -148,9 +148,9 @@ Arduino UNO R3             x1
 
 2) 6mm x 2
 
-![wps30](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps30.jpg)![wps31](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps31.jpg)
+![wps30](wps30.jpg)![wps31](wps31.jpg)
 
-![wps32](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps32.jpg)	
+![wps32](wps32.jpg)	
 
 ## Step 12: 爪子舵机
 
@@ -158,13 +158,13 @@ Arduino UNO R3             x1
 
 8mm x 4
 
-![wps33](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps33.jpg) 
+![wps33](wps33.jpg) 
 
-![wps34](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps34.jpg) 
+![wps34](wps34.jpg) 
 
-![wps35](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps35.jpg) 
+![wps35](wps35.jpg) 
 
-![wps36](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps36.jpg) 
+![wps36](wps36.jpg) 
 
 ## Step 13: Gripper 1
 
@@ -174,9 +174,9 @@ Arduino UNO R3             x1
 
 2) 6mm x 3
 
-![wps37](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps37.jpg) 
+![wps37](wps37.jpg) 
 
-![wps38](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps38.jpg) 
+![wps38](wps38.jpg) 
 
 ## Step 14: Gripper 2
 
@@ -184,9 +184,9 @@ Arduino UNO R3             x1
 
   10mm x1
 
-![wps39](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps39.jpg) 
+![wps39](wps39.jpg) 
 
-![wps40](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps40.jpg) 
+![wps40](wps40.jpg) 
 
 ## Step 15: 安装爪子
 
@@ -196,33 +196,18 @@ Arduino UNO R3             x1
 
  6mm x1
 
- ![wps41](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps41.jpg)
+ ![wps41](wps41.jpg)
 
- ![wps42](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps42.jpg)
+ ![wps42](wps42.jpg)
 
 ## Step 16: 添加控制板
 
-![wps43](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps43.jpg) 
+![wps43](wps43.jpg) 
 
- ![wps44](https://github.com/SmartArduino/zhdocs/raw/master/zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/wps44.jpg)
+ ![wps44](wps44.jpg)
 
 **到此安装完成**
 
-## 资源以及问题反馈
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+![wps101010](wps101010.png)

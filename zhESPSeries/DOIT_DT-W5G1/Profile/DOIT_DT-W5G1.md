@@ -8,7 +8,7 @@ DT-W5G1模块核心处理器采用超低功耗处理器、2G&5G双频芯片。�
 
 
 
-![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G13.png)
+![DT-W5G13](DT-W5G13.png)
 
 DT-W5G1模块支持标准的IEEE802.11 a/b/g/n协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
@@ -16,7 +16,7 @@ DT-W5G1模块供最大实用性，为Wi-Fi功能嵌入其他系统提供无限�
 
 DT-W5G1模块具有大带宽远距离通信特性，可以用于无线图传。
 
-![DT-W5G11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G11.png)
+![DT-W5G11](DT-W5G11.png)
 
 <center>图1. 1 模块结构图</center>
 
@@ -24,13 +24,13 @@ DT-W5G1模块具有大带宽远距离通信特性，可以用于无线图传。
 
 <center>表1. 1模块主要参数</center>
 
-![DT-W5G110](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G110.png)
+![DT-W5G110](DT-W5G110.png)
 
 ## 二. 接口定义
 
 DT-W5G1接口定义如下图所示。
 
-![DT-W5G12](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G12.png)
+![DT-W5G12](DT-W5G12.png)
 
 <center>图2. 1模块管脚图</center>
 
@@ -79,15 +79,15 @@ DT-W5G1接口定义如下图所示。
 
 模组的外观尺寸为 17.5mm x 34.5mm x 3mm（如图所示）。该模组默认采用的Flash容量为16Mbits（2M Bytes）。
 
-![DT-W5G13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G13.png)
+![DT-W5G13](DT-W5G13.png)
 
 <center>图3. 1 模组外观</center>
 
-![DT-W5G14](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G14.png)
+![DT-W5G14](DT-W5G14.png)
 
 <center>(a) 俯视图</center>
 
-![DT-W5G15](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G15.png)
+![DT-W5G15](DT-W5G15.png)
 
 <center>(b) 侧视图</center>
 
@@ -103,7 +103,7 @@ DT-W5G1接口定义如下图所示。
 
 <center>表4. 1电气特性</center>
 
-![DT-W5G111](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G111.png)
+![DT-W5G111](DT-W5G111.png)
 
 ## 五. 功耗
 
@@ -124,17 +124,17 @@ DT-W5G1接口定义如下图所示。
 
 <center>表6. 1 Wi-Fi射频特征（2G）</center>
 
-![DT-W5G112](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G112.png)
+![DT-W5G112](DT-W5G112.png)
 
 <center>表6. 2 Wi-Fi射频特征（5G）</center>
 
-![DT-W5G113](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G113.png)
+![DT-W5G113](DT-W5G113.png)
 
 ## 七. 推荐炉温曲线
 
 推荐炉温曲线如下：
 
-![DT-W5G16](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G16.png)
+![DT-W5G16](DT-W5G16.png)
 
 <center>图7. 1 推荐炉温曲线</center>
 
@@ -142,7 +142,7 @@ DT-W5G1接口定义如下图所示。
 
 模块最小系统电路图如下：
 
-![DT-W5G17](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G17.png)
+![DT-W5G17](DT-W5G17.png)
 
 <center>图8. 1最小系统</center>
 
@@ -160,11 +160,11 @@ DT-W5G1接口定义如下图所示。
 
 Wi-Fi模块可以直接焊接到PCB板上。为了使您的终端产品获得最佳的射频性能，请注意根据本指南合理设计模块及天线在底板上的摆放位置。
 
-![DT-W5G18](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G18.png)
+![DT-W5G18](DT-W5G18.png)
 
 <center>推荐放置方式</center>
 
-![DT-W5G19](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/DOIT_DT-W5G1/Profile/DT-W5G19.png)
+![DT-W5G19](DT-W5G19.png)
 
 <center>次优放置方式（天线下面不可铺铜、不可有金属物体）</center>
 
@@ -172,35 +172,6 @@ Wi-Fi模块可以直接焊接到PCB板上。为了使您的终端产品获得最
 
 Wi-Fi模块集成了高速 GPIO 和外设接口，这可能会产生严重的开关噪声。如果一些应用对于功耗和EMI特性要求较高，建议在数字I/O线上串联10~100欧姆的电阻。这样可以在开关电源时抑制过冲，并使信号变得平稳，同时这种做法也能在一定程度上防止静电释放（ESD）。
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-## 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。                              
-
-## 注 意
-
-由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

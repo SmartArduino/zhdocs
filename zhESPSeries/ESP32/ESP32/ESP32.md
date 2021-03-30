@@ -5,7 +5,7 @@
 
 ESP32 是集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，采用台积电（TSMC）超低功耗的 40 纳米工艺，拥有最佳的功耗性能、射频性能、稳定性、通用性和可靠性，适用于各种应用和不同功耗需求。
 
-![wps32](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps32.png)
+![wps32](wps32.png)
 
 ### 1.1 专用解决方案
 
@@ -257,23 +257,23 @@ ESP32 采用 CMOS 工艺实现单芯片集成射频和基带，还集成了先�
 
 ### 1.5 功能框图
 
-![wps0](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps0.png)
+![wps0](wps0.png)
 
 ## 2. 管脚定义
 
 ### 2.1 管脚布局
 
-![wps1](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps1.png)
+![wps1](wps1.png)
 
 ### 2.2 管脚描述
 
-![wps2](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps2.png)
+![wps2](wps2.png)
 
-![wps3](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps3.png)
+![wps3](wps3.png)
 
-![wps4](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps4.png)
+![wps4](wps4.png)
 
-![wps5](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps5.png)
+![wps5](wps5.png)
 
 
 
@@ -325,7 +325,7 @@ ESP32 共有 6 个 Strapping 管脚。
 
 配置 Strapping 管脚的详细启动模式请参阅表 2 。
 
-![wps6](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps6.png)
+![wps6](wps6.png)
 
 **说明：**
 
@@ -389,13 +389,13 @@ ESP32 通过高速缓存访问外部 QSPI Flash 和 SRAM：
 
 ESP32 的地址映射结构如图 3 所示。ESP32 存储器和外设地址映射如表 3 所示
 
-![wps7](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps7.png)
+![wps7](wps7.png)
 
-![wps8](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps8.png)
+![wps8](wps8.png)
 
-![wps9](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps9.png)
+![wps9](wps9.png)
 
-![wps10](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps10.png)
+![wps10](wps10.png)
 
 
 
@@ -471,7 +471,7 @@ RTC 时钟有 5 种可能的时钟源：
 
 音频时钟由超低噪声 fractional-N PLL 生成。根据以下公式，音频 PLL 的输出频率可配置范围是 16 MHz 至 128MHz： 
 
-![wps11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps11.png)
+![wps11](wps11.png)
 
 其中，f*out* 表示输出频率，f*xtal* 表示晶振的频率，N*div*、M*div* 和 K*div* 都是整数值，由寄存器配置。
 
@@ -733,11 +733,11 @@ ESP32 拥有先进的电源管理技术，可以切换到不同的省电模式�
 
 – 超低功耗传感器监测方式：主系统处于 Deep-sleep 模式，ULP 协处理器定期被开启或关闭来测量传感器数据。根据传感器测量到的数据，ULP 协处理器决定是否唤醒主系统。
 
-![wps12](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps12.png)
+![wps12](wps12.png)
 
 功耗随省电模式／睡眠方式以及功能模块的工作状态而改变（见表5）。
 
-![wps14](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps14.png)
+![wps14](wps14.png)
 
 **说明：**
 
@@ -785,7 +785,7 @@ ESP32 有 2 个 8-bit DAC 通道，将 2 个数字信号分别转化为 2 个模
 
 ESP32 提供了多达 10 个电容式传感 GPIO，能够探测由手指或其他物品直接接触或接近而产生的电容差异。这种设计的低噪声特性和电路的高灵敏度支持使用相对较小的触摸板。也可以使用触摸板阵列以探测更大区域或更多点。表 6 列出了 10 个电容式传感 GPIO。 
 
-![wps15](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps15.png)
+![wps15](wps15.png)
 
 **说明：**
 
@@ -907,65 +907,65 @@ ESP32 配备硬件加速器，支持一些通用加密算法，比如 AES（FIPS
 
 ### 5.1 极限参数
 
-![wps16](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps16.png)
+![wps16](wps16.png)
 
 ### 5.2 建议工作条件
 
-![wps17](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps17.png)
+![wps17](wps17.png)
 
 ### 5.3 射频功耗参数
 
 下列功耗数据是基于 3.0 V 电源、25°C 环境温度，在天线接口处完成的测试结果。所有发射数据均基于 90% 的占空比，在连续发射模式下测得。
 
-![wps18](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps18.png)
+![wps18](wps18.png)
 
 ### 5.4 Wi-Fi 射频
 
-![wps19](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps19.png)
+![wps19](wps19.png)
 
 ### 5.5 蓝牙射频
 
 #### 5.5.1 接收器 - 基础数据率（BR）
 
-![wps20](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps20.png)
+![wps20](wps20.png)
 
 #### 5.5.2 发射器 - 基础数据率（BR） 
 
-![wps21](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps21.png)
+![wps21](wps21.png)
 
 
 
 #### 5.5.3 接收器 - 增强数据率（EDR） 
 
-![wps22](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps22.png)
+![wps22](wps22.png)
 
 #### 5.5.4 发射器 - 增强数据率（EDR） 
 
-![wps23](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps23.png)
+![wps23](wps23.png)
 
-![wps24](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps24.png)
+![wps24](wps24.png)
 
 ### 5.6 低功耗蓝牙射频
 
 #### 5.6.1 接收器
 
-![wps25](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps25.png)
+![wps25](wps25.png)
 
 #### 5.6.2 发射器
 
-![wps26](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps26.png)
+![wps26](wps26.png)
 
-![wps27](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps27.png)
+![wps27](wps27.png)
 
 ## 6. 封装信息
 
-![wps28](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps28.png)
+![wps28](wps28.png)
 
 ## 附录 A - 触摸传感器
 
 触摸传感系统建立在一个基底之上，这个基底带有电极并且连接一个平面保护层。当用户触摸保护层，就会触发电容变化，一个二进信号会生成并显示触摸是否有效。
 
-![wps29](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps29.png)
+![wps29](wps29.png)
 
 为防止电容耦合和其他电干扰影响触摸传感系统的灵敏度，用户需要考虑以下因素：
 
@@ -973,7 +973,7 @@ ESP32 配备硬件加速器，支持一些通用加密算法，比如 AES（FIPS
 
 适当大小和形状的电极有助于提高系统灵敏度。常见的有圆形、椭圆形和形状类似人的指尖的电极。过大或形状不规则的电极可能导致附近电极发生错误响应。
 
-![wps30](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps30.png)
+![wps30](wps30.png)
 
 **说明：**
 
@@ -993,37 +993,8 @@ ESP32 配备硬件加速器，支持一些通用加密算法，比如 AES（FIPS
 
 • 不要让触摸传感设备接地。强烈建议不要在设备下面布局接地层，因为触摸传感器设备和地面之间产生的寄生电容会极大地降低灵敏度。
 
-![wps31](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP32/ESP32/wps31.png)
+![wps31](wps31.png)
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-# 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。
-
-# 注意
-
-由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

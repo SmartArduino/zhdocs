@@ -8,13 +8,13 @@ ESP-M模块核心处理器采用高性价比芯片ESP8285。该芯片在较小�
 
 
 
-![ESP-M21](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M21.jpg)
+![ESP-M21](ESP-M21.jpg)
 
 ESP-M模块支持标准的IEEE802.11 b/g/n/e/i协议以及完整的TCP/IP协议栈。用户可以使用该模块为现有设备添加联网功能，也可以构建独立的网络控制器。
 
 ESP-M模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系统提供无限可能。
 
-![ESP-M23](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M23.png)
+![ESP-M23](ESP-M23.png)
 
 <center>图1.1模块结构图</center>
 
@@ -22,13 +22,13 @@ ESP-M模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系�
 
 <center>表1.1模块主要参数</center>
 
-![ESP-M24](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M24.png)
+![ESP-M24](ESP-M24.png)
 
 ## 二. 接口定义
 
 <center>图1.1模块结构图</center>
 
-![ESP-M25](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M25.png)
+![ESP-M25](ESP-M25.png)
 
 <center>图2.1ESP-M管脚定义</center>
 
@@ -66,15 +66,15 @@ ESP-M模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系�
 
 模块的外观及尺寸如下所示。
 
-![ESP-M26](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M26.png)
+![ESP-M26](ESP-M26.png)
 
 <center>图3.1ESP-M模块外观</center>
 
-![ESP-M27](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M27.png)
+![ESP-M27](ESP-M27.png)
 
 <center>(a) 俯视图</center>
 
-![ESP-M28](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M28.png)
+![ESP-M28](ESP-M28.png)
 
 <center>(b) 侧视图</center>
 
@@ -90,7 +90,7 @@ ESP-M模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系�
 
 <center>表4.1电气特性</center>
 
-![ESP-M29](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M29.png)
+![ESP-M29](ESP-M29.png)
 
 ## 五. 功耗
 
@@ -121,11 +121,11 @@ ESP-M模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系�
 
 <center>表6.1Wi-Fi射频特征</center>
 
-![ESP-M210](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M210.png)
+![ESP-M210](ESP-M210.png)
 
 ## 七. 推荐炉温曲线
 
-![ESP-M211](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M211.png)
+![ESP-M211](ESP-M211.png)
 
 <center>图7.1推荐炉温曲线</center>
 
@@ -133,7 +133,7 @@ ESP-M模块以最低成本提供最大实用性，为Wi-Fi功能嵌入其他系�
 
 模块最小系统电路图如下：
 
-![ESP-M212](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M212.jpg)
+![ESP-M212](ESP-M212.jpg)
 
 <center>图8.1最小系统</center>
 
@@ -155,21 +155,21 @@ Wi-Fi模块可以直接焊接到PCB板上。为了使您的终端产品获得最
 
 针对外置天线版本ESP-M1，由于天线外置，对模块摆放位置要求不高，可参考ESP-M的布置建议酌情调整。外接天线连接器的规格见下图所示。
 
-![ESP-M213](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M213.png)
+![ESP-M213](ESP-M213.png)
 
 <center>图9. 1外接天线连接器</center>
 
 针对PCB天线版本ESP-M建议将模块沿PCB板边放置，天线在板框外或者沿板边放置且下方挖空，参考方案一及方案二；若必须将PCB天线放在底板上，则需要保证天线下方的PCB区域不可敷铜，参考方案三。
 
-![ESP-M214](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M214.png)
+![ESP-M214](ESP-M214.png)
 
 <center>图9.2方案一-天线在板框外</center>
 
-![ESP-M215](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M215.png)
+![ESP-M215](ESP-M215.png)
 
 <center>图9.3方案二-天线沿板边放置且下方挖空</center>
 
-![ESP-M216](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_ESP-M2/ESP-M216.png)
+![ESP-M216](ESP-M216.png)
 
 <center>图9.4方案三-天线沿板边放置且下方均不铺铜</center>
 
@@ -177,33 +177,6 @@ Wi-Fi模块可以直接焊接到PCB板上。为了使您的终端产品获得最
 
 Wi-Fi模块集成了高速 GPIO 和外设接口，这可能会产生严重的开关噪声。如果一些应用对于功耗和EMI特性要求较高，建议在数字I/O线上串联10 ~100欧姆的电阻。这样可以在开关电源时抑制过冲，并使信号变得平稳，同时这种做法也能在一定程度上防止静电释放（ESD）。
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-## 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。 
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。
-
-注意：由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

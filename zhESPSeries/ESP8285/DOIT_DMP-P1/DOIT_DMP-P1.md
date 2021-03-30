@@ -18,7 +18,7 @@ DMP-P1模块内置DoHome云服务，可以使用DoHome系列APP控制开关。
 
 DMP-P1模块内置厂测程序，可以使得工厂快速生产测试。
 
-![DMP-P13](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P13.png)
+![DMP-P13](DMP-P13.png)
 
 <center>图1.1模块结构图</center>
 
@@ -26,13 +26,13 @@ DMP-P1模块内置厂测程序，可以使得工厂快速生产测试。
 
 <center>表1.1模块主要参数</center>
 
-![DMP-P11](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P14.png)
+![DMP-P11](DMP-P14.png)
 
 ## 二. 接口定义
 
 ### DMP-P1接口定义如下图所示。
 
- ![DMP-P15](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P15.png)
+ ![DMP-P15](DMP-P15.png)
 
 <center>图2.1DMP-P1管脚定义</center>
 
@@ -58,11 +58,11 @@ DMP-P1模块内置厂测程序，可以使得工厂快速生产测试。
 
 ### 模块的外观及尺寸如下所示。
 
-![DMP-P16](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P16.jpg)
+![DMP-P16](DMP-P16.jpg)
 
 <center>图2.2 DMP-P1模块外观</center>
 
-![DMP-P17](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P17.png)
+![DMP-P17](DMP-P17.png)
 
 <center>图2.3DMP-P1尺寸图</center>
 
@@ -70,11 +70,11 @@ DMP-P1模块内置厂测程序，可以使得工厂快速生产测试。
 
 基于DMP-P1的硬件最小系统图为：
 
-![DMP-P18](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P18.png)
+![DMP-P18](DMP-P18.png)
 
 DMP-P1支持的软件包括DoHome 系列APP，IOS市场和各大Android市场均可搜索获得。
 
-![DMP-P19](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P19.png)
+![DMP-P19](DMP-P19.png)
 
 <center>图3.1 DoHome APPs 二维码</center>
 
@@ -84,7 +84,7 @@ DMP-P1目前已经支持的智能音箱包括Amazon Alexa、Google Assistant、�
 
 <center>表4.1电气特性</center>
 
-![DMP-P20](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P20.png)
+![DMP-P20](DMP-P20.png)
 
 ## 五. 功耗
 
@@ -109,36 +109,8 @@ DMP-P1目前已经支持的智能音箱包括Amazon Alexa、Google Assistant、�
 
 <center>表6.1Wi-Fi射频特征</center>
 
-![DMP-P21](https://github.com/SmartArduino/zhdocs/raw/master/zhESPSeries/ESP8285/DOIT_DMP-P1/DMP-P21.png)
+![DMP-P21](DMP-P21.png)
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-## 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。 
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明。
-
-注意：由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
-
+![wps101010](wps101010.png)
