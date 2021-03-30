@@ -8,7 +8,7 @@
 
     该APP对应以下两款控制套件:
 
-    ![oldercontroller](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/oldercontroller.jpg)
+    ![oldercontroller](oldercontroller.jpg)
 
     2. 程序: http://en.doit.am/Doit_Car_en_1217.zip
     3. Google Play Market: https://play.google.com/store/apps/details?id=com.doit.carset
@@ -20,11 +20,11 @@
     该APP对应以下控制套件.
     
 
-![videodt-06](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/videodt-06.jpg)
+![videodt-06](videodt-06.jpg)
 
 **Nodemcu视屏资料**
 
-![videoNodemcu](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/videoNodemcu.jpg)
+![videoNodemcu](videoNodemcu.jpg)
 
 1. [固件](https://github.com/SmartArduino/ESPboard/blob/master/videoNodeMCU__car.bin)
 2. [如何下载固件](http://bbs.smartarduino.com/showthread.php?tid=13)
@@ -32,10 +32,12 @@
 
 **Espduino 视屏资料**
 
-![videoEspduino](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/videoEspduino.jpg)
+![videoEspduino](videoEspduino.jpg)
 
 * [固件](https://github.com/SmartArduino/ESPboard/blob/master/New_ESPDuinoCar170420.zip)
+
 * [用户手册](https://github.com/SmartArduino/ESPboard/blob/master/Manul_for_Video_Car.pdf)
+
 * [如何下载固件](https://github.com/SmartArduino/SZDOITWiKi/wiki/Arduino---ESPduino)
 
   ​    
@@ -48,9 +50,13 @@
   
    该APP适用于以下控制套件.
    
-   ![newcontroller](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/newcontroller.jpg)
+   ![newcontroller](newcontroller.jpg)
    
    该控制器套件可通过WiFi、蓝牙和PS2对汽车底盘和机器人手臂进行无线控制。点击下面的链接下载应用程序。
    
    [下载](https://github.com/SmartArduino/SmartArduino.github.io/blob/master/docs/Robot/Controller/app/base.apk)
+   
+   ## 更多资源，请关注公众号！
+   
+   ![wps101010](wps101010.png)
 

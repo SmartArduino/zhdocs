@@ -3,13 +3,13 @@
 
 ## 1 控制板
 
-![wps1](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/StepperMotorCode/wps1.jpg)
+![wps1](wps1.jpg)
 
 这款板子的详细资料，请查阅：https://gitnova.com/#/zh/zhControlPanel/DOIT-ARM/DOIT-ARM
 
 ## 2 接线
 
-![wps2](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/StepperMotorCode/wps2.png)
+![wps2](wps2.png)
 
 ## 3 蓝牙WiFi控制软件
 
@@ -516,21 +516,6 @@ void loop()
 
 
 
-### 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+![wps101010](wps101010.png)

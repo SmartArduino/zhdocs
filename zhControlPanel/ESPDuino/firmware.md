@@ -8,3 +8,9 @@
 - [V1 version](https://github.com/SmartArduino/DOITWiKi/blob/master/ESPDuinoCar_V1.bin)
 - [V2 version](https://github.com/SmartArduino/DOITWiKi/blob/master/ESPDuinoCar_V2.bin)
 - [V3 version](https://github.com/SmartArduino/DOITWiKi/blob/master/ESPDuinoCar_V3.bin)
+
+
+
+## 更多资源，请关注公众号！
+
+![wps101010](wps101010.png)

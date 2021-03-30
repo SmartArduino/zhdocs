@@ -3,9 +3,9 @@
 
 ## 1. 按钮开关
 
-![image-20201021152159434](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021152159434.png)
+![image-20201021152159434](image-20201021152159434.png)
 
-![image-20201021152304963](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021152304963.png)
+![image-20201021152304963](image-20201021152304963.png)
 
 ```
  int Led=13;       //定义LED 接口
@@ -32,9 +32,9 @@
 
 ## 2. 无源蜂鸣器
 
-![image-20201021152454242](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021152454242.png)
+![image-20201021152454242](image-20201021152454242.png)
 
-![image-20201021152511506](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021152511506.png)
+![image-20201021152511506](image-20201021152511506.png)
 
 ```
 int buzzer=8;//设置控制蜂鸣器的数字IO脚
@@ -90,7 +90,7 @@ void loop()
 
 ## 3. 有源蜂鸣器
 
-![image-20201021154550578](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021154550578.png)
+![image-20201021154550578](image-20201021154550578.png)
 
 ```
  
@@ -112,7 +112,7 @@ void loop()
 
 ## 4. 激光传感器
 
-![image-20201021154729352](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021154729352.png)
+![image-20201021154729352](image-20201021154729352.png)
 
 ```
 实例程序
@@ -131,9 +131,9 @@ void loop()
 
 ## 5. 光明传感器
 
-![image-20201021154944918](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021154944918.png)
+![image-20201021154944918](image-20201021154944918.png)
 
-![image-20201021155014050](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155014050.png)
+![image-20201021155014050](image-20201021155014050.png)
 
 ```
  int sensorPin = 2;
@@ -152,9 +152,9 @@ void loop()
 
 ## 6. 倾斜开关
 
-![image-20201021155157494](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155157494.png)
+![image-20201021155157494](image-20201021155157494.png)
 
-![image-20201021155215783](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155215783.png)
+![image-20201021155215783](image-20201021155215783.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -181,7 +181,7 @@ void loop()
 
 ## 7. 水银开关传感器
 
-![image-20201021155544285](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155544285.png)
+![image-20201021155544285](image-20201021155544285.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -208,9 +208,9 @@ void loop()
 
 ## 8. 魔术光环（一对）
 
-![image-20201021155731452](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155731452.png)
+![image-20201021155731452](image-20201021155731452.png)
 
-![image-20201021155746971](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021155746971.png)
+![image-20201021155746971](image-20201021155746971.png)
 
 ```
  int LedPinA = 5;
@@ -248,9 +248,9 @@ void loop()
 
 ## 9. 震动开关
 
-![image-20201021160127323](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160127323.png)
+![image-20201021160127323](image-20201021160127323.png)
 
-![image-20201021160138311](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160138311.png)
+![image-20201021160138311](image-20201021160138311.png)
 
 ```
  int Led=13;   //定义LED 接口
@@ -277,7 +277,7 @@ void loop()
 
 ## 10. 敲击传感器
 
-![image-20201021160355193](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160355193.png)
+![image-20201021160355193](image-20201021160355193.png)
 
 ```
  int Led=13;   //定义LED 接口
@@ -304,9 +304,9 @@ void loop()
 
 ## 11. 双色共阴LED模块
 
-![image-20201021160602087](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160602087.png)
+![image-20201021160602087](image-20201021160602087.png)
 
-![image-20201021160621090](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160621090.png)
+![image-20201021160621090](image-20201021160621090.png)
 
 ```
  int redpin = 11;  // 选择红灯引脚
@@ -336,7 +336,7 @@ void loop()
 
 ## 12. 三色RGB模块（DIP封装）
 
-![image-20201021160751192](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160751192.png)
+![image-20201021160751192](image-20201021160751192.png)
 
 ```
  int redpin = 11; //select the pin for the red LED
@@ -370,11 +370,11 @@ void loop()
 
 ## 13. 三色RGB模块（SMD封装）
 
-![image-20201021160916456](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021160916456.png)
+![image-20201021160916456](image-20201021160916456.png)
 
 ## 14. 7彩自动闪烁LED模块
 
-![image-20201021161020147](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161020147.png)
+![image-20201021161020147](image-20201021161020147.png)
 
 ```
  void setup()
@@ -392,7 +392,7 @@ void loop()
 
 ## 15. 金属触摸传感器
 
-![image-20201021161156278](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161156278.png)
+![image-20201021161156278](image-20201021161156278.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -419,9 +419,9 @@ void loop()
 
 ## 16. 火焰传感器
 
-![image-20201021161329591](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161329591.png)
+![image-20201021161329591](image-20201021161329591.png)
 
-![image-20201021161341336](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161341336.png)
+![image-20201021161341336](image-20201021161341336.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -448,7 +448,7 @@ void loop()
 
 ## 17. 手指测心跳模块
 
-![image-20201021161505831](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161505831.png)
+![image-20201021161505831](image-20201021161505831.png)
 
 ```
  int ledPin=13;     //显示灯在13引脚
@@ -477,9 +477,9 @@ void loop()
 
 ## 18. 红外避障传感器
 
-![image-20201021161636492](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161636492.png)
+![image-20201021161636492](image-20201021161636492.png)
 
-![image-20201021161648672](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161648672.png)
+![image-20201021161648672](image-20201021161648672.png)
 
 ```
  int buttonpin=3; //定义避障传感器接口
@@ -505,9 +505,9 @@ void loop()
 
 ## 19. 寻线传感器
 
-![image-20201021161800378](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161800378.png)
+![image-20201021161800378](image-20201021161800378.png)
 
-![image-20201021161814468](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161814468.png)
+![image-20201021161814468](image-20201021161814468.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -534,7 +534,7 @@ void loop()
 
 ## 20. 光折断传感器
 
-![image-20201021161946778](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021161946778.png)
+![image-20201021161946778](image-20201021161946778.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -561,9 +561,9 @@ void loop()
 
 ## 21. 线性霍尔磁力传感器
 
-![image-20201021162119834](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162119834.png)
+![image-20201021162119834](image-20201021162119834.png)
 
-![image-20201021162133418](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162133418.png)
+![image-20201021162133418](image-20201021162133418.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -590,9 +590,9 @@ void loop()
 
 ## 22. 模拟霍尔传感器
 
-![image-20201021162309106](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162309106.png)
+![image-20201021162309106](image-20201021162309106.png)
 
-![image-20201021162327087](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162327087.png)
+![image-20201021162327087](image-20201021162327087.png)
 
 ```
  int sensorPin = 1;
@@ -611,9 +611,9 @@ void loop()
 
 ## 23. 大磁簧传感器
 
-![image-20201021162442863](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162442863.png)
+![image-20201021162442863](image-20201021162442863.png)
 
-![image-20201021162456674](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162456674.png)
+![image-20201021162456674](image-20201021162456674.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -640,7 +640,7 @@ void loop()
 
 ## 24. 迷你磁环传感器
 
-![image-20201021162628168](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162628168.png)
+![image-20201021162628168](image-20201021162628168.png)
 
 ```
  int Led=13;      //定义LED 接口
@@ -667,11 +667,11 @@ void loop()
 
 ## 25. 旋转编码器
 
-![image-20201021162745527](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162745527.png)
+![image-20201021162745527](image-20201021162745527.png)
 
-![image-20201021162802944](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162802944.png)
+![image-20201021162802944](image-20201021162802944.png)
 
-![image-20201021162841915](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021162841915.png)
+![image-20201021162841915](image-20201021162841915.png)
 
 ```
  const int interruptA = 0; // 中断 Interrupt 0 在 pin 2 上
@@ -728,7 +728,7 @@ void loop()
 
 ## 26. 麦克风声音传感器
 
-![image-20201021163334891](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021163334891.png)
+![image-20201021163334891](image-20201021163334891.png)
 
 ```
 //数字输出
@@ -777,11 +777,11 @@ void loop()
 
 ## 27. 高感度声音传感器
 
-![image-20201021163920513](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021163920513.png)
+![image-20201021163920513](image-20201021163920513.png)
 
 ## 28. 模拟式温度传感器
 
-![image-20201021163956427](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021163956427.png)
+![image-20201021163956427](image-20201021163956427.png)
 
 ```
  #include <math.h>
@@ -808,15 +808,15 @@ void loop()
 
 ## 29. 数字温度传感器
 
-![image-20201021164115425](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164115425.png)
+![image-20201021164115425](image-20201021164115425.png)
 
-![image-20201021164129619](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164129619.png)
+![image-20201021164129619](image-20201021164129619.png)
 
 ## 30. 温湿度传感器
 
-![image-20201021164158738](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164158738.png)
+![image-20201021164158738](image-20201021164158738.png)
 
-![image-20201021164214125](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164214125.png)
+![image-20201021164214125](image-20201021164214125.png)
 
 ```
  int DHpin = 8; //数字第8引脚读取
@@ -876,11 +876,11 @@ void loop()
 
 ## 31. DS18b20 数字温度传感器模块
 
-![image-20201021164745872](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164745872.png)
+![image-20201021164745872](image-20201021164745872.png)
 
-![image-20201021164759432](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164759432.png)
+![image-20201021164759432](image-20201021164759432.png)
 
-![image-20201021164819319](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164819319.png)
+![image-20201021164819319](image-20201021164819319.png)
 
 ```
  #include <OneWire.h>
@@ -906,9 +906,9 @@ void loop()
 
 ## 32. 红外发射
 
-![image-20201021164954060](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021164954060.png)
+![image-20201021164954060](image-20201021164954060.png)
 
-![image-20201021165008895](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165008895.png)
+![image-20201021165008895](image-20201021165008895.png)
 
 ```
 //将红外S端接数字第3脚（PWM)
@@ -933,9 +933,9 @@ void loop()
 
 ## 33. 红外接收
 
-![image-20201021165121862](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165121862.png)
+![image-20201021165121862](image-20201021165121862.png)
 
-![image-20201021165136790](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165136790.png)
+![image-20201021165136790](image-20201021165136790.png)
 
 ```
  #include <IRremote.h>
@@ -960,11 +960,11 @@ void loop()
 
 ## 34. Joystick PS2 摇杆
 
-![image-20201021165302402](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165302402.png)
+![image-20201021165302402](image-20201021165302402.png)
 
-![image-20201021165321726](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165321726.png)
+![image-20201021165321726](image-20201021165321726.png)
 
-![image-20201021165332165](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165332165.png)
+![image-20201021165332165](image-20201021165332165.png)
 
 ```
  int Xaxis=A0; //定义X轴由模拟0端口读取
@@ -992,9 +992,9 @@ void loop()
 
 ## 35. 继电器
 
-![image-20201021165444099](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165444099.png)
+![image-20201021165444099](image-20201021165444099.png)
 
-![image-20201021165455443](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/Sensor/image-20201021165455443.png)
+![image-20201021165455443](image-20201021165455443.png)
 
 ```
  int relayPin=3;
@@ -1014,3 +1014,6 @@ void loop()
  }
 ```
 
+## 更多资源，请关注公众号！
+
+![wps101010](wps101010.png)

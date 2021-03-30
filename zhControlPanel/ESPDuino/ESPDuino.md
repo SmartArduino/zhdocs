@@ -6,17 +6,17 @@
 
 本手册只是简单介绍如何搭建 ESPduino 的开发环境及相关参数设置。新版 ESPduino 开发板无需按键。
 
-![ESPDuino1](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino1.jpg)
+![ESPDuino1](ESPDuino1.jpg)
 
 ## 2. 安装 ESPduino 开发环境
 
 在下面链接中下载 Arduino 软件(Arduino1.6.8+ESP2.1.0)
 
-[http://espduino.doit.am/](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/http://espduino.doit.am/      )      
+[http://espduino.doit.am/](http://espduino.doit.am/      )      
 
-![ESPDuino2](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino2.jpg) 
+![ESPDuino2](ESPDuino2.jpg) 
 
-在运行 Arduino IDE 之前，需要安装 CH340 驱动，下载地址：[http://espduino.doit.am/](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/http://espduino.doit.am/)
+在运行 Arduino IDE 之前，需要安装 CH340 驱动，下载地址：[http://espduino.doit.am/](http://espduino.doit.am/)
 
 ## 3. 运行 Arduino IDE
 
@@ -35,9 +35,9 @@ Flash size：“4M（3M SPIFFS）”；
 温馨提示 
  在上述提供的链接中下载的 Arduino IDE 安装包，上面这些参数设置是固定的，除了端口。端口是根据个人电脑不同，端口也不一样。具体查找端口的方法如下。选择右键选择“计算机”→“属性”，选择“设备管理器”，可以查到此台电脑的端口号为“COM7”。如果是下载其他的安装软件。可以参考第 4 节的内容进行安装配置。 
 
-![ESPDuino3](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino3.png)
+![ESPDuino3](ESPDuino3.png)
 
-![ESPDuino4](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino4.png)
+![ESPDuino4](ESPDuino4.png)
 
 
 
@@ -51,11 +51,11 @@ Flash size：“4M（3M SPIFFS）”；
 
 ​	注意，不要选择“Basics”里面的“Blink”，因为这个是 Arduino 自带的示例，不是 ESPduino的自带示例程序。如果一定要选择“Basics”里面的“Blink”，请将其端口号设置为“16”。ESPduino 默认的 LED 灯端口号为“16”。
 
-![ESPDuino5](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino5.png)
+![ESPDuino5](ESPDuino5.png)
 
 2） 编译 Blink打开 ESP8266 自带的 Blink 程序后，先点击编译按钮，如下图所示。如果按照第 2 节中的参数设置成功后，编译一定成功。
 
-![ESPDuino6](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino6.png) 
+![ESPDuino6](ESPDuino6.png) 
 
 ##  5. 搭建 ESPduino 环境第二种方法
 
@@ -67,19 +67,19 @@ http://www.arduino.cc/en/main/software
 
 a)打开“文件”‐>首选项 
 
-![ESPDuino7](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino7.png) 
+![ESPDuino7](ESPDuino7.png) 
 
-在弹出的界面中输入地址：[http://espduino.doit.am/package_esp8266com_index.json](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/http://espduino.doit.am/package_esp8266com_index.json)
+在弹出的界面中输入地址：[http://espduino.doit.am/package_esp8266com_index.json](http://espduino.doit.am/package_esp8266com_index.json)
 
-![ESPDuino8](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino8.png)
+![ESPDuino8](ESPDuino8.png)
 
 点击确认后，转入第 4 步，工具 ‐> 开发板 
 
-![ESPDuino9](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino9.png)
+![ESPDuino9](ESPDuino9.png)
 
  搜索 ESP8266，随便点击空白处，即可弹出“安装”按钮。点击“安装”按钮即可完成 ESPduino的安装。
 
-![ESPDuino10](https://github.com/SmartArduino/zhdocs/raw/master/zhControlPanel/ESPDuino/ESPDuino10.png)
+![ESPDuino10](ESPDuino10.png)
 
 ## 6. 要点
 
@@ -93,25 +93,6 @@ a)打开“文件”‐>首选项
 
 5）如果选择 ESPDduino（ESP‐13 module）不能下载，请选择 NodeMCU 1.0 (ESP‐12E Module). 
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-购买地址：
-
-https://item.taobao.com/item.htm?id=525057040876
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+![wps101010](wps101010.png)
