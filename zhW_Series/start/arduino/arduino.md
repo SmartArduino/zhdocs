@@ -16,19 +16,19 @@
 
 1. 通过 https://www.arduino.cc/en/Main/Software 下载 Arduino IDE 开发环境，建议使用最新版本。
 2. 启动 Arduino，并打开“首选项”窗口。在附加开发板管理器网址中添加`http://arduino.w600.fun/package_w600_index.json`
-![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556334078542.png)
+![](1556334078542.png)
 3. 打开菜单【工具】-》【开发板】-》【开发板管理器】
 
-![1556334412321](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556334412321.png)
+![1556334412321](1556334412321.png)
 
 4. 在输入框中填入关键词 `w600` 选择最新版本（`当前为0.2.4`）,点击【安装】
 
-![1556334650002](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556334650002.png)
+![1556334650002](1556334650002.png)
 
-![1556335438851](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556335438851.png)
+![1556335438851](1556335438851.png)
 
 5. 选择 TB-01 开发板 ，并配置开发板参数（注意选择正确的通信端口以及速率）
- ![1556335475972](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556335475972.png)
+ ![1556335475972](1556335475972.png)
 
 **端口：**可查看电脑设备管理器进行对应
 
@@ -36,19 +36,19 @@
 
 **Upload Files：**下载文件格式（默认为IMG，如果下载失败或需要更新secboot，可选择FLS）
 
- ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/28194943723.jpeg)
+ ![](28194943723.jpeg)
 
 6. 选择【文件】-》【示例】，可以尝试一些示例进行烧录测试，如【Blink】
 
-   ![1556335587121](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556335587121.png)
+   ![1556335587121](1556335587121.png)
 
 7. 点击Upload 进行固件下载
 
-      ![1556438775082](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556438775082.png)
+      ![1556438775082](1556438775082.png)
 
 8.  运行后效果如下
 
-![1556415104023](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/arduino/1556415104023.png)
+![1556415104023](1556415104023.png)
 
 ​	同时，可以看到开发板上面的指示灯在不停的闪烁。
 

@@ -3,7 +3,7 @@
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/version.png)
+![img](version.png)
 
 W600 系列wifi产品目前拥有两个版本的AT固件；
 

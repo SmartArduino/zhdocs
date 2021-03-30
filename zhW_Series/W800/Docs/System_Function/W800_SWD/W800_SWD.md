@@ -41,29 +41,29 @@ RESET:仿真器输出至目标 CPU 的系统复位信号，该引脚可选。
 
 注意：Windows 系统下安装 CDS 集成开发环境的话是可选安装 Debug Server 的。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps12.png)
+![img](wps12.png)
 
 
 
 安装中需要用户输入一些信息，根据界面提示输入即可：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps13.png)
+![img](wps13.png)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps14.png)
+![img](wps14.png)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps15.png)
+![img](wps15.png)
 
 最后，点击 next 启动安装：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps16.png)
+![img](wps16.png)
 
 
 
 然后请耐心等待安装完成。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps17.png)
+![img](wps17.png)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps18.png)
+![img](wps18.png)
 
 
 
@@ -71,7 +71,7 @@ RESET:仿真器输出至目标 CPU 的系统复位信号，该引脚可选。
 
 先使用杜邦线连接CK-LINK和W800模块，其连接方式如下图：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps1.png)
+![img](wps1.png)
 
 然后模块供电，并将 CK-LINK 和电脑连接，驱动安装正确的话，CK-LINK 的指示灯将会由红色变为黄色。
 
@@ -91,7 +91,7 @@ RESET:仿真器输出至目标 CPU 的系统复位信号，该引脚可选。
 
 启动之后，界面会如下显示：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps20.png)
+![img](wps20.png)
 
 第一行会显示 CK-LINK 的版本等信息，如果驱动未安装成功这行信息不会出现；
 
@@ -105,9 +105,9 @@ RESET:仿真器输出至目标 CPU 的系统复位信号，该引脚可选。
 
 导入 SDK 工程之后，在左侧工程管理视图中右键单击工程，如下图选择设置：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps21.png)
+![img](wps21.png)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps22.png)
+![img](wps22.png)
 
 
 
@@ -115,13 +115,13 @@ RESET:仿真器输出至目标 CPU 的系统复位信号，该引脚可选。
 
 右键工程选择如下：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps23.png)
+![img](wps23.png)
 
 之后根据界面提示操作即可。
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps24.png)
+![img](wps24.png)
 
 ## 7 更多参考文档
 
@@ -129,27 +129,9 @@ RESET:仿真器输出至目标 CPU 的系统复位信号，该引脚可选。
 
 一些参考文档，用户可自行去参考，如：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_SWD/wps25.png)
+![img](wps25.png)
 
 
 
 
 
-# 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |

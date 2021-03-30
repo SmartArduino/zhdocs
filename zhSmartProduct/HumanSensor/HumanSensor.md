@@ -5,11 +5,11 @@
 
 ​	DoHome智能人体感应器 支持siri语音，带下载串口支持二次开发
 
-![WPS1](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps1.jpg)
+![WPS1](wps1.jpg)
 
 ## 2. 相关参数
 
-![wps2](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps2.jpg)
+![wps2](wps2.jpg)
 
 ## 3. 如何使用
 
@@ -19,7 +19,7 @@
 
 如果手机没有自动跳转到配网界面，请打开手机浏览器输入：htt://192.168.4.1，等待进入配网界面。请在跳网面页中选择您的家庭WiFi名称，且请在password中输入密码，点击connect。
 
-![wps3](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps3.jpg)
+![wps3](wps3.jpg)
 
 **第二步：加入到HomeKit家庭**
 
@@ -27,21 +27,21 @@
 
 如果没有Home APP,请在App Store商城下载一个Home APP
 
-![wps4](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps4.jpg)
+![wps4](wps4.jpg)
 
 (2) 请把手机连接到你的家庭WiFi网络
 
 注意：苹果手机和设备必须是在同一个家庭WiFi网络下，即配置网络是选择的WiFi网络（例如设备配置的是连接PB9这个路由器，那么苹果手机也要连接到PB9这个路由）。
 
-![wps5](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps5.jpg)
+![wps5](wps5.jpg)
 
 (3) 打开苹果手机Home APP 点击添加配件，请点击“没有代码或无法扫描”点击刷新出来的设备，仍然添加，等待加密校验（大约30S），添加设备成功。以后方便操作请重新命名。
 
-![wps7](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps7.jpg)
+![wps7](wps7.jpg)
 
-![wps8](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps8.jpg)
+![wps8](wps8.jpg)
 
-![wps9](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HumanSensor/wps9.jpg)
+![wps9](wps9.jpg)
 
 ## 4. 常见问题
 
@@ -77,21 +77,6 @@ A: 本设备共有两个LED灯一个为电源灯(红色)只要设备上电就会
 
 
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
+![wps101010](wps101010.png)

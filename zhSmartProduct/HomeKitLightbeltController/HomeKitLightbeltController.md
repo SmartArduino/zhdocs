@@ -10,7 +10,7 @@
 
 本产品HomeKit的版本，没有iphone手机，配置相对繁琐（参见HomeKit For Android部分），请购买DoHome版本。DoHome版本已经对接了各大智能音箱，需要下载DoHome APP才能使用。
 
-![wps38](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps38.png)
+![wps38](wps38.png)
 
 注意：本产品为外贸产品改造升级产品，产品说明和附带纸质说明不一致，正确的产品说明在如下淘宝产品说明中，本产品不带遥控器。
 
@@ -30,7 +30,7 @@
 
  
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps11.jpg)
+![img](wps11.jpg)
 
  
 
@@ -44,37 +44,37 @@
 
 注意：如果手机没有自动跳转到配网界面，请打开手机浏览器输入：htt://192.168.4.1。等待进入配网界面。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps12.jpg) 
+![img](wps12.jpg) 
 
 ### 第二步
 
 请在跳网面页中选择您的家庭WiFi名称，且请在password中输入密码，点击join （如图二）。等待手机配网页跳转到WIFI列表页面（如图三），确定智能插头指示灯常亮。（图中WIF 账号仅供参考）
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps13.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps14.jpg)
+![img](wps13.jpg)![img](wps14.jpg)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps15.jpg) 
+![img](wps15.jpg) 
 
 ### 第三步
 
 检查您是否安装Home APP ，如果没有Home  APP请在App Store商城下载一个Home  APP（如图四）。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps16.jpg)
+![img](wps16.jpg)
 
 ### 第四步
 
 请把手机连接到你的家庭WiFi网络（如图五），注意：苹果手机和智能插座必须是在同一个家庭WiFi网络下。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps17.jpg) 
+![img](wps17.jpg) 
 
 ### 第五步
 
 打开苹果手机Home  APP 点击添加配件，请点击“没有代码或无法扫描”点击刷新出来的设备，仍然添加，等待加密校验（大约30S），添加设备成功。以后方便的操做请重新命名，并享受它
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps18.jpg) 
+![img](wps18.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps19.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps20.jpg) 
+![img](wps19.jpg)![img](wps20.jpg) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps21.jpg) 
+![img](wps21.jpg) 
 
 注意：如果没有刷新设备，请确认手机和智能插座是否在同一个局域网络。请确认指示灯是否在常亮状态，如果添加失败，请查看常见问题。
 
@@ -94,11 +94,11 @@ HomeKit For Android:
 
 第二步：打开手机扫描下面二维码并且下载DoHome  APP。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps22.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps23.jpg) 
+![img](wps22.jpg)![img](wps23.jpg) 
 
 第三步：打开Dohome app 注册DoHome  APP账号和密码。并且登录Dohome。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps24.jpg)
+![img](wps24.jpg)
 
 第四步：点击右上角“+”添加设备，按照提示操作即可。
 
@@ -118,11 +118,11 @@ DoHome 版APP使用:
 
 第二步：打开手机扫描下面二维码并且下载DoHome  APP。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps25.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps26.jpg) 
+![img](wps25.jpg)![img](wps26.jpg) 
 
 第三步：打开Dohome app 注册DoHome  APP账号和密码。并且登录Dohome。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps27.jpg)
+![img](wps27.jpg)
 
 第四步：点击右上角“+”添加设备，按照提示操作即可。
 
@@ -134,23 +134,23 @@ Q:homekit用户如何使用alexa 、谷歌助手、天猫精灵、小爱同学�
 
 扫描下面二维码。下载DoHome  APP。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps28.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps29.png)
+![img](wps28.jpg)![img](wps29.png)
 
 1.注册DoHome  APP账号、密码。下拉刷新列表并查看您的智能设备。
 
 注意：手机和智能灯带控制器必须连接到同一个家庭WiFi网络。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps30.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps31.jpg)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps32.jpg)
+![img](wps30.png)![img](wps31.jpg)![img](wps32.jpg)
 
 2.在左上角中打开菜单，点击“设备管理”，找到你的设备，然后选择它点击“设备绑定”。
 
 注意：您要使用智能音响请点击对应的音响图标，查看用户手册。如需帮助请点击帮助选项。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps33.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps34.jpg)
+![img](wps33.png)![img](wps34.jpg)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps35.png)![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps36.png)
+![img](wps35.png)![img](wps36.png)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/HomeKitLightbeltController/wps37.png)
+![img](wps37.png)
 
 此设备仅支持IOS 10以上/ android 8.0以上版本。
 
@@ -186,35 +186,6 @@ Q:配网过程中要注意哪些事项
 
 
 
-##  支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-# 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。 
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明 
-
-# 注 意
-
-由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

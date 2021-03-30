@@ -43,7 +43,7 @@ ip：服务端 ip 地址，点分十进制格式；
 
 bandwidth：udp 测试带宽值，十进制表示，其单位可用设置如下：
 
-![image-20201114135007345](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135007345.png)
+![image-20201114135007345](image-20201114135007345.png)
 
 time：测试持续的总时长，十进制表示，单位秒；
 
@@ -53,7 +53,7 @@ blocksize：tcp分块大小，十进制表示，单位字节；
 
 PC 端提供的 Iperf 测试工具为“wm_perf.exe”，可以通过使用“wm_perf.exe -h”得到其所有的用法：
 
-![image-20201114135046869](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135046869.png)
+![image-20201114135046869](image-20201114135046869.png)
 
 ### 2.2 使用示例
 
@@ -61,25 +61,25 @@ PC 端提供的 Iperf 测试工具为“wm_perf.exe”，可以通过使用“wm
 
 给模块发送指令“AT+THT=s,-i=1”即可，这时会有如下显示：
 
-![image-20201114135123954](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135123954.png)
+![image-20201114135123954](image-20201114135123954.png)
 
 #### 2.2.2 模块做 UDP 测试
 
 如 果 用 作 Server 的 IP 地 址 为 192.168.19.102 ， 那 么 给 模 块 发 送 指 令“AT+THT=c,192.168.19.102,UDP,-b=5M,-t=10,-i=1”即可，这时会有如下显示：
 
-![image-20201114135156276](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135156276.png)
+![image-20201114135156276](image-20201114135156276.png)
 
 #### 2.2.3 模块做 TCP Client 测试
 
 如 果 用 作 Server 的 IP 地 址 为 192.168.19.102 ， 给 模 块 发 送 指 令“AT+THT=c,192.168.19.102,TCP,-l=1024,-t=10,-i=1”即可，这时会有如下显示：
 
-![image-20201114135227531](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135227531.png)
+![image-20201114135227531](image-20201114135227531.png)
 
 #### 2.2.4 PC 端做 Server 测试
 
 在 PC 端执行“wm_perf -s -i 1”即可，这时会有如下显示：
 
-![image-20201114135247897](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Iperf/image-20201114135247897.png)
+![image-20201114135247897](image-20201114135247897.png)
 
 #### 2.2.5 PC 端做 TCP Client 测试
 
@@ -105,21 +105,3 @@ PC 端提供的 Iperf 测试工具为“wm_perf.exe”，可以通过使用“wm
 
 有些系统带有防火墙会造成 iperf 测试失败，这种情况下需要添加放行规则或者关闭防火墙。
 
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |

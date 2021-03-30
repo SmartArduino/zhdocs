@@ -36,11 +36,11 @@ APP 软件类型：DoHome
 
 使用寿命：40000H
 
-![image-20201221164122474](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/image-20201221164122474.png)
+![image-20201221164122474](image-20201221164122474.png)
 
 ## 2 产品特色（小图标）
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps1.jpg) 
+![img](wps1.jpg) 
 
 亮度调节 1600万色 冷暖调节
 
@@ -56,13 +56,13 @@ APP 软件类型：DoHome
 
 按实际情况安装灯泡后再打开电源开关
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps2.jpg) 
+![img](wps2.jpg) 
 
 ### 3.2 下载手机App
 
 在应用商店搜索“DoHome”，或扫描以下二维码下载并安装“DoHome”手机客户端软件。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps3.jpg) 
+![img](wps3.jpg) 
 
  
 
@@ -70,17 +70,17 @@ APP 软件类型：DoHome
 
   灯泡有3种控制方式:
 
-l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps4.jpg)本地局域网直连控制 
+l ![img](wps4.jpg)本地局域网直连控制 
 
-l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps5.jpg)互联网远程控制
+l ![img](wps5.jpg)互联网远程控制
 
-l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps6.jpg)语音控制 
+l ![img](wps6.jpg)语音控制 
 
-ü ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps7.jpg)天猫精灵
+ü ![img](wps7.jpg)天猫精灵
 
-ü ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps8.jpg)Google Assistant： 
+ü ![img](wps8.jpg)Google Assistant： 
 
-ü ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps9.jpg)Amazon Alexa： 
+ü ![img](wps9.jpg)Amazon Alexa： 
 
 #### 3.3.1 本地局域网控制
 
@@ -94,15 +94,15 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
 1) 手机联网：确保手机已连接互联网WiFi，并能上网；
 
-2) 注册并登录账号：打开App并点击左上角的菜单图标![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps10.jpg)，然后点击DoHome图标![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps11.jpg)进入登录注册账号界面，如图1所示，若已注册账号，直接输入邮箱地址和密码登录；若无账号，请点击“注册”按钮注册一个登录账号；
+2) 注册并登录账号：打开App并点击左上角的菜单图标![img](wps10.jpg)，然后点击DoHome图标![img](wps11.jpg)进入登录注册账号界面，如图1所示，若已注册账号，直接输入邮箱地址和密码登录；若无账号，请点击“注册”按钮注册一个登录账号；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps12.jpg) 
+![img](wps12.jpg) 
 
 图1 DoHome注册登录界面
 
 3) 添加设备：登录账号后，点击设备界面右上角的“+”，如图2所示。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps13.jpg) 
+![img](wps13.jpg) 
 
 图2 设备界面
 
@@ -110,13 +110,13 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
 稍等片刻即可出现需要添加的设备。注：如果进入该界面时弹出是否允许App获取位置信息的提示，一定要点击“允许”，如图3所示。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps14.jpg) 
+![img](wps14.jpg) 
 
 图3 添加设备
 
 选中并点击“下一步”，在弹出的方框中输入WiFi信号名称和密码（也可以点击此界面中“切换Wi-Fi”重新选择WiFi信号），如图4所示。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps15.jpg) 
+![img](wps15.jpg) 
 
 图4 输入WiFi用户名和密码
 
@@ -134,11 +134,11 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
   定时延时功能：点击灯泡控制界面右上角设置图标，可以实现此功能，如图5所示；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps16.jpg) 
+![img](wps16.jpg) 
 
 图5 灯泡控制界面
 
-5) 远程功能开启：在如图2所示的设备界面上，点击左上角菜单图标![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps10.jpg)，点击“设备管理”，再点击设备名称，如图6所示，可以实现：
+5) 远程功能开启：在如图2所示的设备界面上，点击左上角菜单图标![img](wps10.jpg)，点击“设备管理”，再点击设备名称，如图6所示，可以实现：
 
 重命名：更改设备名称（尽量简短，方便后面语音控制），
 
@@ -146,13 +146,13 @@ l ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHome
 
 无线设置：此功能开启，可以增加覆盖区域的网络覆盖，但网速较慢。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps18.jpg) 
+![img](wps18.jpg) 
 
 图6 远程开启及重命名
 
 ### 3.4 语音控制
 
-  可点击如图2所示的菜单图标![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps10.jpg)，在第三方集成中找到相关使用帮助。
+  可点击如图2所示的菜单图标![img](wps10.jpg)，在第三方集成中找到相关使用帮助。
 
 1) 天猫精灵：
 
@@ -200,7 +200,7 @@ A： 有2种方法：1) 打开手机WiFi配置界面，选择“忘记/不保存
 
 Q：要使用语音控制时，需要注意哪些问题？
 
-A：1）请务必让智能设备开启远程功能，并绑定账号；2）参考菜单![img](https://github.com/SmartArduino/zhdocs/raw/master/zhSmartProduct/DoHomeIntelligentLamp/wps10.jpg)中的“第三方集成”中的帮助使用。
+A：1）请务必让智能设备开启远程功能，并绑定账号；2）参考菜单![img](wps10.jpg)中的“第三方集成”中的帮助使用。
 
 Q：如何恢复出厂设置？
 
@@ -212,35 +212,6 @@ A：方便在日后使用语音控制时，能很快记住并说出设备的名�
 
 
 
-## 支持与服务
+## 更多资源，请关注公众号！
 
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
-
-# 免责申明和版权公告
-
-本文中的信息，包括供参考的URL地址，如有变更，恕不另行通知。 
-
-文档“按现状”提供，不负任何担保责任，包括对适销性、适用于特定用途或非侵权性的任何担保，和任何提案、规格或样品在他处提到的任何担保。本文档不负任何责任，包括使用本文档内信息产生的侵犯任何专利权行为的责任。本文档在此未以禁止反言或其他方式授予任何知识产权使用许可，不管是明示许可还是暗示许可。 
-
-Wi-Fi联盟成员标志归Wi-Fi联盟所有。
-
-文中提到的所有商标名称、商标和注册商标均属其各自所有者的财产，特此声明
-
-# 注 意
-
-由于产品升级或其他原因，本手册内容有可能变更。深圳四博智联科技有限公司保留在没有任何通知或者提示的情况下对本手册的内容进行修改的权利。本手册仅作为使用指导，深圳四博智联科技有限公司尽全力在本手册中提供准确的信息，但是并不确保手册内容完全没有错误，本手册中的所有陈述、信息和建议也不构成任何明示或暗示的担保。
+![wps101010](wps101010.png)

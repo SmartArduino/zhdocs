@@ -20,7 +20,7 @@
 
 ### 3.2 工程目录介绍
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/rt-thread/1551025944478.png)
+![image](1551025944478.png)
 
 
 
@@ -32,17 +32,17 @@ docs文件夹下放着W600\_RTT相关的参考文档，建议先阅读 `UM3103-R
 
 W600\_RT-Thread\_SDK 一共提供了35个示例
 
-![1567266339884](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/rt-thread/1567266339884.png)
+![1567266339884](1567266339884.png)
 
 进入任意一个示例，双击 `project.uvprojx`工程文件，直接编译即可（注意，一定要先搭建好Keil环境）。
 
 
 
-![1567266231646](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/rt-thread/1567266231646.png)
+![1567266231646](1567266231646.png)
 
 固件生成在当前示例所在目录的Bin文件夹下。
 
-![1567266565273](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/start/rt-thread/1567266565273.png)
+![1567266565273](1567266565273.png)
 
 ### 4.2 烧录
 

@@ -36,11 +36,11 @@ TB-01开发板 * 1
 
 修改STM32 Demo 程序，找到 main.c，把要连接的SSID和密码修改成实际的SSID和密码，通信地址的IP地址和端口修改为电脑端实际的TCP Server的IP地址和端口。
 
-![1568607472861](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/RI_SPI/1568607472861.png)
+![1568607472861](1568607472861.png)
 
 重新编译STM32代码并烧录。运行如下图：
 
-![1568607229539](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/RI_SPI/1568607229539.png)
+![1568607229539](1568607229539.png)
 
 （左边为w600，右边为stm32）
 

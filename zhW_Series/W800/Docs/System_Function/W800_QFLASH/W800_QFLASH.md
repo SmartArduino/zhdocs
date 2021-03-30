@@ -14,7 +14,7 @@
 
 ### 1.3 术语定义
 
-![image-20201113182752440](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113182752440.png)
+![image-20201113182752440](image-20201113182752440.png)
 
 ## 2 W800 QFLASH 的布局
 
@@ -22,7 +22,7 @@
 
 ### 2.1 QFLASH 大于 2M 的布局
 
-![image-20201113182923563](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113182923563.png)
+![image-20201113182923563](image-20201113182923563.png)
 
 #### 2.1.1 物理层参数区
 
@@ -31,7 +31,7 @@
 系统 RF 及 MAC 相关参数。
 参数布局：
 
-![image-20201113183103825](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113183103825.png)
+![image-20201113183103825](image-20201113183103825.png)
 
 #### 2.1.2 SECBOOT 参数区
 
@@ -40,7 +40,7 @@
 SECBOOT 启动校验相关信息及启动地址
 参数布局：
 
-![image-20201113183208002](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113183208002.png)
+![image-20201113183208002](image-20201113183208002.png)
 
 W800 的 IMAGE Attribute 字段描述：
 
@@ -96,7 +96,7 @@ OTA 升级 IMAGE 文件（可为 secboot，User Image）
 系统运行时所需的相关参数
 参数布局：
 
-![image-20201113183925077](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113183925077.png)
+![image-20201113183925077](image-20201113183925077.png)
 
 1）系统参数 1 区（0x8XFC000-0x8XFCFFF）
 2）系统参数 2 区（0x8XFD000-0x8XFDFFF）
@@ -115,21 +115,21 @@ SECBOOT 搬移 OTA 固件后改写。
 针对上述的不同 Size，QFlash 的布局会不同，以 1MB 举例如下。
 1）<2MB，不考虑 OTA 升级的场景
 
-![image-20201113184007054](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113184007054.png)
+![image-20201113184007054](image-20201113184007054.png)
 
 2）<2MB，考虑 OTA 升级的场景
 （1）QFlash 空间够，则布局如下：
 
-![image-20201113184028878](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113184028878.png)
+![image-20201113184028878](image-20201113184028878.png)
 
 （2）QFlash 空间不足够，则布局如下，部分 OTA 区域要放置到内部 QFlash，部分
 OTA 和全部用户区都放到外部存储设备：
 
-![image-20201113184051893](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113184051893.png)
+![image-20201113184051893](image-20201113184051893.png)
 
 如下是针对不同 Flash Size 和基本功能支持情况做的划分
 
-![image-20201113184123043](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/System_Function/W800_QFLASH/image-20201113184123043.png)
+![image-20201113184123043](image-20201113184123043.png)
 
 注：
 有条件支持：内部 Flash 基本都划分为代码空间，要通过外挂存储设备才可实现
@@ -149,21 +149,3 @@ OTA 固件的存储。
 因为 ROM 里总是认定 SECBOOT 的升级区域在内部 QFlash 里。
 为了预防 SECBOOT 升级，必须把 OTA 区域预留在内部 QFlash 里。
 
-# 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |

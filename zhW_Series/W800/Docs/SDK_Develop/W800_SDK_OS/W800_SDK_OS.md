@@ -13,19 +13,19 @@ W800 SDK 的开发人员及工程实现人员
 
 ### 1.3 术语定义
 
-![image-20201114152942431](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114152942431.png)
+![image-20201114152942431](image-20201114152942431.png)
 
 ## 2 SDK Kernel 移植
 
 如图 1 所示，SDK 的操作系统相关代码均放置在./Src/OS 目录下，目前已经移植了FreeRTOS 实时操作系统。如果用户有需要使用其他实时操作系统，可以在此目录下建立新的文件夹，添加自己需要的操作系统
 
-![image-20201114153020345](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114153020345.png)
+![image-20201114153020345](image-20201114153020345.png)
 
 ## 3 系统调度相关移植
 
 相关函数参见 sdk_root_dir/src/os/rtos/ports/ck804/下的 cpu_task_sw.S 文件及port.c 文件。此处以 FreeRTOS 为例，用户使用此操作作系统时，需要实现这两个文件中用所到的相应接口。如果需要要使用其它操作系统，建议下载 xt804 的 sdk，找到其示例代码中已经移植好的操作系统直接使用；如果没有现有可用的，则需要根据所用操作系统的要求实现相应接口，这里可能会需要内核(XT804)原厂(平头哥)的技术支持。
 
-![image-20201114153055992](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114153055992.png)
+![image-20201114153055992](image-20201114153055992.png)
 
 ## 4 内存相关移植
 
@@ -86,45 +86,45 @@ FreeRTOS 的函数封装在 wm_osal_rtos.c 文件中。
 
 #### 6.3.1 时钟相关函数
 
-![image-20201114153924739](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114153924739.png)
+![image-20201114153924739](image-20201114153924739.png)
 
 #### 6.3.2 系统初始化函数
 
-![image-20201114154832531](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114154832531.png)
+![image-20201114154832531](image-20201114154832531.png)
 
 #### 6.3.3 任务相关函数
 
-![image-20201114154907932](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114154907932.png)
+![image-20201114154907932](image-20201114154907932.png)
 
-![image-20201114154917784](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114154917784.png)
+![image-20201114154917784](image-20201114154917784.png)
 
 #### 6.3.4 信号量相关函数
 
-![image-20201114154951195](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114154951195.png)
+![image-20201114154951195](image-20201114154951195.png)
 
-![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image1.png)
+![image1](image1.png)
 
 #### 6.3.5 队列相关函数
 
-![image-20201114155928495](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114155928495.png)
+![image-20201114155928495](image-20201114155928495.png)
 
 #### 6.3.6 邮箱消息相关函数
 
-![image2](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image2.png)
+![image2](image2.png)
 
 #### 6.3.7 临界区相关函数
 
-![image-20201114160210037](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114160210037.png)
+![image-20201114160210037](image-20201114160210037.png)
 
 #### 6.3.8 系统定时器相关函数
 
-![image3](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image3.png)
+![image3](image3.png)
 
-![image-20201114160337478](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114160337478.png)
+![image-20201114160337478](image-20201114160337478.png)
 
 #### 6.3.9 其他
 
-![image-20201114160403064](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_OS/image-20201114160403064.png)
+![image-20201114160403064](image-20201114160403064.png)
 
 ## 7 在工程中切换 Kernel
 

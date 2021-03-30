@@ -23,11 +23,11 @@ SWD调试过程中建议不要从一开始就执行单步调试，打断点打�
 W600 芯片 32Pin 封装 Pin26（PB6），Pin27（PB7）分别对应 SWDIO（TMS）和
 SWCLK （TCK），将芯片的 SWDIO、SWCLK、GND 和 VCC 与调试的 SWD 接口相连。
 
-![1561127947622](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1561127947622.png)
+![1561127947622](1561127947622.png)
 
 实物图参考：
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/20190115092959.jpg)
+![image](20190115092959.jpg)
 
 ## 四、SWD Keil环境配置
 
@@ -38,7 +38,7 @@ SWCLK （TCK），将芯片的 SWDIO、SWCLK、GND 和 VCC 与调试的 SWD 接�
 工具栏，选择 Project-\>Options for
 Target打开对话框，切换到Target标签界面，配置芯片的Flash 和 RRAM 参数
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547487953678.png)
+![image](1547487953678.png)
 
 ### 2. 配置Flash和RAM地址
 
@@ -51,13 +51,13 @@ IROM2: Start-0x20000000,Size-0x38000;
 
 注意，配置的地址范围不能超过芯片的实际大小；
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547488179660.png)
+![image](1547488179660.png)
 
 ### 3.配置优化等级
 
 工具栏，选择 Project-\>Options for Target 打开对话框，切换到C/C++标签界面，如果需要在线调试跟踪程序必须将优化等级设置为 Level0，否则开启优化后的代码实时运行逻辑和实际代码组织结构间存在差异，影响调试。
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547488404924.png)
+![image](1547488404924.png)
 
 ### 4.调试器选择与配置
 
@@ -82,21 +82,21 @@ IROM2: Start-0x20000000,Size-0x38000;
 注意：SP、PC 和 VTOR 的值与 Flash 配置的起始地址有关，同时芯片不支持在
 RAM 中运行程序。
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547488893575.png)
+![image](1547488893575.png)
 
 ### 5.Utilities 配置
 
 1.  将 W60X Flash 驱动拷贝到 KEI 安装目录的\\ARM\\Flash 目录中2. 选择Project-\>Options for Target 打开对话框，切换到 Utilities 标签界面，按下图选择12，在 3 的下拉框中选择使用的仿真器必须与 Debug标签中的选择
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547516288023.png)
+![image](1547516288023.png)
 
 上图中，点击 Setting，如下图 Flash Download 标签中配置 RAM 和 Flash参数必须与前面配置的地址 一致，点击 Add 按钮选择 W60X 芯片的 Flash驱动。[W60x Flash驱动下载地址](https://github.com/w600/W600_QFLASH_Driver_for_SWD)
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547516488553.png)
+![image](1547516488553.png)
 
 接上图切换到 Debug 标签，如下图按 1 的方式选择调试器接口，正确检测到W60X 芯片后会显示框 2 中 的芯片信息。
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547516665930.png)
+![image](1547516665930.png)
 
 最后选择确定逐级保存所有配置。
 
@@ -104,9 +104,9 @@ RAM 中运行程序。
 
 完成 Keil 环境配置，编译程序无误后，选择 Debug-\>Start/Stop Debug Session 或 CTRL+F5，进行程序的在线调试。
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547516753228.png)
+![image](1547516753228.png)
 
-![image](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Jlink/1547516841570.png)
+![image](1547516841570.png)
 
 ## 六、注意事项
 

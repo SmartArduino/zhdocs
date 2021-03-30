@@ -23,11 +23,11 @@
 - SDK中AT指令实现代码全部开源，用户也可以基于需求开发自己的AT指令
 - 通过修改sdk->include->wm_config.h下的宏定义可以开启AT指令功能
 
-![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/open_at.png)
+![](open_at.png)
 
 - AT代码实现位于sdk->src->app->wm_atcmd目录下
 
-![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/wm_atcmd.png)
+![](wm_atcmd.png)
 
 
 
@@ -36,7 +36,7 @@
 - 模块出厂默认会烧录兼容版本AT固件，如需使用联盛德版本AT固件和自己修改可以另外烧录联盛德版本AT固件
 - 如果修改过AT指令部分源码，编译时注意直接编译源码或者重新编译源码重新生成库文件，通过修改Makefile文件下的USE_LIB=0可直接编译源码生成固件
 
-![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/build_at.png)
+![](build_at.png)
 
 
 
@@ -44,14 +44,14 @@
 
 - 建立一个 PC 端的 TCP server，如使用 TCP 调试助手， TCP server 地址为192.168.1.100，监听端口为 1000
 
-  ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/socket0.png)
+  ![](socket0.png)
 
   建立 Socket： 
 
   TX: AT+SKCT=0,0,192.168.1.100,1000,1000
   RX: +OK=1 ---> 1 为 socket 号 
 
-  ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/socket1.png)
+  ![](socket1.png)
 
   发送数据： 
 
@@ -59,13 +59,13 @@
   kevin
   RX： +OK=5 
 
-  ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/socket2.png)
+  ![](socket2.png)
 
   TCP server 接收到数据界面为： 
 
   接收数据： 
 
-  ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/socket4.png)
+  ![](socket4.png)
 
   在 TCP 调试助手界面输入发送数据 hello，点击发送。 
 
@@ -73,19 +73,19 @@
   RX： +OK=5
   hello 
 
-  ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/socket5.png)
+  ![](socket5.png)
 
   查询 Socket 状态：
   TX： AT+SKSTT=1
   RX： +OK=1,2,"192.168.1.100",1000,1024,0 
 
-  ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/socket6.png)
+  ![](socket6.png)
 
   关闭 Socket 连接
   TX： AT+SKCLS=1
   RX： +OK  
 
-  ![](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/AT/socket7.png)
+  ![](socket7.png)
 
    
 

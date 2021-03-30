@@ -21,20 +21,20 @@
 
 按照下图说明对2块w600开发板进行下载，更多细节可查看 [w600固件烧录指南](https://docs.w600.fun/?p=app/download.md)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image4.png) 
+![img](image4.png) 
 
 下载完毕后：
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image5.png) 
+![img](image5.png) 
 
 ### 2.3 固件测试
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image6.png)
+![img](image6.png)
 
 ## 3. 配置说明
 
 ### 3.1 面板介绍
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image7.png) 
+![img](image7.png) 
 
 注：W600无线透传调试工具需要配合TB-02无线透传固件.FLS使用，所以使用该工具前，务必烧录好TB-02无线透传固件后使用。
 
@@ -42,25 +42,25 @@
 
 打开W600无线透传调试工具，选择正确的COM端口，并点击【连接设备】
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image8.png) 
+![img](image8.png) 
 
 软件会自动读出当前的配置信息，以及当前本机的MAC地址信息：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image9.png) 
+![img](image9.png) 
 
  
 
 ### 3.3 接口设置
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image11.png) 
+![img](image11.png) 
 
 默认使用串口0，可通过电脑USB转TTL直接透传。当设置为串口1时，需自行连接板子上预留的UART1接口
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image12.png) 
+![img](image12.png) 
 
 ### 3.4 通信设置
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image13.png) 
+![img](image13.png) 
 
 **模式：**目前可选透传模式和测速模式
 
@@ -82,11 +82,11 @@
 
 此时模块向当前设置的信道的所有WIFI设备发送通信消息
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image14.png) 
+![img](image14.png) 
 
 选择“否”时，通信方式为点对点通信，此时需要手动填写目标的MAC地址（即目标设备的本机地址），并点击【+】使地址保存，此时模块仅向目标地址的WIFI设备发送通信消息。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image15.png) 
+![img](image15.png) 
 
 ## 4. 配置示例
 
@@ -94,29 +94,29 @@
 
 1. 点击连接设备
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image16.png) 
+![img](image16.png) 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image17.png) 
+![img](image17.png) 
 
 2. 配置测速模式
 
 COM1 配置为 【测试-TX】， COM2配置为 【测试-RX】
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image18.png) 
+![img](image18.png) 
 
 测速信息：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image19.png) 
+![img](image19.png) 
 
 测速图表：
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image20.png) 
+![img](image20.png) 
 
 3. 更改速率为**11g@9Mbps**
 
 观察速率变化情况
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image21.png) 
+![img](image21.png) 
 
 ###  4.2 修改透传参数示例
 
@@ -132,11 +132,11 @@ COM1 配置为 【测试-TX】， COM2配置为 【测试-RX】
 | 本机地址 | 28:6D:CD:15:2F:F0 | 28:6D:CD:2C:00:5A |
 | 目标地址 | 28:6D:CD:2C:00:5A | 28:6D:CD:15:2F:F0 |
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image26.png) 
+![img](image26.png) 
 
 关闭配置软件，并按照修改后的串口配置打开星通智联串口调试助手，此时双方可以进行双向串口透传通信。
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image28.png) 
+![img](image28.png) 
 
 
 
@@ -166,7 +166,7 @@ COM1 配置为 【测试-TX】， COM2配置为 【测试-RX】
 
 ​	`注意恢复出厂设置后需断开设备并重新连接设备方可再次配置。`
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Debugging/Transmission/image25.png) 
+![img](image25.png) 
 
 **5 数据丢包** 
 

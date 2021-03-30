@@ -39,7 +39,7 @@ DUT      Device Under Test     被测器件
 
 解压批量烧录工具压缩包后并打开目录如下：
 
-![image-20201117084554039](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117084554039.png)
+![image-20201117084554039](image-20201117084554039.png)
 
 device_ids.txt：有用户需要向产品中写入 device id，在烧录固件时，可将该文件内的device id 依次写入产品；
 
@@ -63,7 +63,7 @@ WM_W800 批量烧录工具操作指南.docx：烧录工具操作指南说明文�
 
 打开 ToolConfig.ini 文件如下，每行都有相应的说明，可按需进行设置并保存。
 
-![image-20201117084656498](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117084656498.png)
+![image-20201117084656498](image-20201117084656498.png)
 
 这里重点介绍以下几点：
 1> 待烧录固件的路径：请将目标固件路径正确设置于上述文件“ImgFilePath=”和“FLSFilePath=”后。上图将 w800_20200707.fls 直接拷贝至烧录工具目录里，所以可将固件名直接写在等号之后；
@@ -86,17 +86,17 @@ WM_W800 批量烧录工具操作指南.docx：烧录工具操作指南说明文�
 
 批量烧录工具无需安装，在完成初始化设置之后打开即可方便使用。鼠标放置在FirmUpdate.exe 处，右键点击“以管理员身份运行”，即可根据此前 ToolConfig.ini 的设置，打开烧录工具主控界面如下：
 
-![image-20201117084811905](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117084811905.png)
+![image-20201117084811905](image-20201117084811905.png)
 
-![image-20201117084826502](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117084826502.png)
+![image-20201117084826502](image-20201117084826502.png)
 
 ### 3.4 测试配置框
 
-点击烧录工具主控界面上![image-20201117084916286](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117084916286.png) 之后，弹出如下配置项：
+点击烧录工具主控界面上![image-20201117084916286](image-20201117084916286.png) 之后，弹出如下配置项：
 
-![image-20201117084931016](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117084931016.png)
+![image-20201117084931016](image-20201117084931016.png)
 
-![image-20201117084951009](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117084951009.png)
+![image-20201117084951009](image-20201117084951009.png)
 
 说明：
 此页面只是以可视化方式设置测试项而已，此处的修改保存可直接修改 ToolConfig.ini 文件。若此处发生修改和保存，必须重新打开烧录工具。
@@ -110,55 +110,37 @@ WM_W800 批量烧录工具操作指南.docx：烧录工具操作指南说明文�
 烧录工具的主要操作步骤如下：
 1> 打开烧录工具；
 
-2> DUT 放入夹具后，点击烧录工具界面 ![image-20201117085045494](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085045494.png)将所有 COM 呈现在界面内；
+2> DUT 放入夹具后，点击烧录工具界面 ![image-20201117085045494](image-20201117085045494.png)将所有 COM 呈现在界面内；
 
-3> 随后点击![image-20201117085057861](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085057861.png) 即可将界面内所有 COM 全部选中，当然也可以直接鼠标勾选相应 COM；
+3> 随后点击![image-20201117085057861](image-20201117085057861.png) 即可将界面内所有 COM 全部选中，当然也可以直接鼠标勾选相应 COM；
 
 4> 勾选相应 COM 后工具连接 DUT 进入 ROM 即可自动升级，如下界面：
 
-![image-20201117085114041](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085114041.png)
+![image-20201117085114041](image-20201117085114041.png)
 
 如果在初始化配置中设置了测试 WiFi 加网，在 DUT 升级成功后，即可开始执行测试，截图如下：
 
-![image-20201117085138649](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085138649.png)
+![image-20201117085138649](image-20201117085138649.png)
 
 显示测试结果如下：
 
-![image-20201117085201603](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085201603.png)
+![image-20201117085201603](image-20201117085201603.png)
 
-5> 测试执行成功之后，点击 ![image-20201117085231004](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085231004.png)取消全选，更换 DUT，重新压入夹具，随后点击 ![image-20201117085240142](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085240142.png)，即可再次烧录测试一批 DUT。
+5> 测试执行成功之后，点击 ![image-20201117085231004](image-20201117085231004.png)取消全选，更换 DUT，重新压入夹具，随后点击 ![image-20201117085240142](image-20201117085240142.png)，即可再次烧录测试一批 DUT。
 
 ### 4.2 Log 查看
 
 首次打开烧录工具，即可创建 log 的根文件夹，其内再以执行日期分别创建 log 文件夹如下：
 
-![image-20201117085307478](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085307478.png)
+![image-20201117085307478](image-20201117085307478.png)
 
 ## 5 FAQ
 
 I COM 全选的时候，遇到“后台线程忙”，请按照提示框操作即可恢复。
 
-![image-20201117085337028](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_Down/image-20201117085337028.png)
+![image-20201117085337028](image-20201117085337028.png)
 
 II 遇到打开串口错误，请确认 PC 与 DUT 夹具间 USB 延长线是否可靠连接，重新连接即可恢复。
 
 
 
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |

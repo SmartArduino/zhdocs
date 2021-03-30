@@ -21,27 +21,27 @@ W800 作为集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，支持 OneSh
 
 ### 2.2 APP 设置界面
 
-1.打开 APP，显示下面界面，点击右上角 ![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps1.png)；
+1.打开 APP，显示下面界面，点击右上角 ![img](wps1.png)；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps2.png)
+![img](wps2.png)
 
 2.页面将显示 Settings 菜单，点击 Settings 进入设置界面；
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps3.png)
+![img](wps3.png)
 
 3.进入设置界面，可以设置 BLE 扫描过滤 Organization ID，查看 APP 版本和 BleWiFi版本；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps4.png)
+![img](wps4.png)
 
 4.点 击 Organization ID 行 ， 弹 出 设 置 Organization ID 窗 口 ， 可 以 设 置Organization ID 继续扫描过滤，也可以清空它，不过滤扫描结果；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps5.png)
+![img](wps5.png)
 
 ### 2.3 配置 Station 模式示例
 
@@ -49,41 +49,23 @@ W800 作为集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，支持 OneSh
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps6.png)
+![img](wps6.png)
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps7.png)
+![img](wps7.png)
 
 2.手机打开 WMBleWiFi APP，在 APP 界面下拉刷新，可以发现周边的蓝牙设备，显示在界面列表中，每项分上下两行，上面是设备名称，下方是蓝牙 Mac 地址，有的设备不广播名称，名称部分为空；
 
-3.在扫描设备列表中，选择点击 W800 模组，进入到配置界面。点击![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps8.png) 按钮，弹出WiFi 扫描列表，选择要配置的 AP SSID，输入密码，点击 Config 按钮，开始配网过程；
+3.在扫描设备列表中，选择点击 W800 模组，进入到配置界面。点击![img](wps8.png) 按钮，弹出WiFi 扫描列表，选择要配置的 AP SSID，输入密码，点击 Config 按钮，开始配网过程；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps9.png)
+![img](wps9.png)
 
 4.配置界面下方是日志信息，显示配网进度。分别是连接设备、发现服务和特征、密以及 IP 地址信息；
 
 
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/WiFi_Config/Android/wps10.png)
+![img](wps10.png)
 
 
 
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |

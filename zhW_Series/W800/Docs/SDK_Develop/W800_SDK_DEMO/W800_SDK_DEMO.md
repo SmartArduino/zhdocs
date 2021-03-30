@@ -26,33 +26,33 @@ DEMO_CONSOLE 同时还控制了 AT 指令的启用，如果使能此宏，则 AT
 
 注：此 DEMO 下有四个演示 DEMO。
 
-![image1](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image1.png)
+![image1](image1.png)
 
 #### 3.1.2 t-oneshot(oneshot 配网)
 
-![image-20201114142448108](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image-20201114142448108.png)
+![image-20201114142448108](image-20201114142448108.png)
 
 #### 3.1.3 t-oneshot（airkiss 配网）
 
-![image-20201114142526455](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image-20201114142526455.png)
+![image-20201114142526455](image-20201114142526455.png)
 
 #### 3.1.4 t-webcfg(网页配网)
 
-![image2](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image2.png)
+![image2](image2.png)
 
 ### 3.2 DEMO_APSTA 操作步骤
 
-![image3](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image3.png)
+![image3](image3.png)
 
 ### 3.3 DEMO_SOFT_AP 操作步骤
 
-![image4](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image4.png)
+![image4](image4.png)
 
 ### 3.4 DEMO_WPS 操作步骤
 
 注：此 DEMO 下有两个演示 DEMO，需要路由器支持 wps
 
-![image-20201114143612160](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image-20201114143612160.png)
+![image-20201114143612160](image-20201114143612160.png)
 
 #### 3.4.1 t-wps-start-pbc
 
@@ -66,34 +66,15 @@ DEMO_CONSOLE 同时还控制了 AT 指令的启用，如果使能此宏，则 AT
    WiFi JOIN SUCCESS
    NET UP OK,Local IP:192.168.1.101
 
-![image5](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image5.png)
+![image5](image5.png)
 
 #### 3.4.2 t-wps-start-pin
 
-![image6](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image6.png)
+![image6](image6.png)
 
 ### 3.5 DEMO_SCAN 操作步骤
 
-![image-20201114144606639](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_DEMO/image-20201114144606639.png)
+![image-20201114144606639](image-20201114144606639.png)
 
 更多信息查看官方手册：[《W800_SDK DEMO运行指南 V1.0》](https://pan.baidu.com/s/1tFu_JmflZBWa5k-hKUP6JA) 提取码：doit 
 
-
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |

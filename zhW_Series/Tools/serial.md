@@ -50,19 +50,19 @@
 
 **下载演示**
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Tools/download_demo.gif)
+![img](download_demo.gif)
 
 **多文本发送演示**
 
-![img](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Tools/at_demo.gif)
+![img](at_demo.gif)
 
 **打包功能演示**
 
-![package](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Tools/package.gif)
+![package](package.gif)
 
 **自定义多文本按钮演示**
 
-![package](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/Tools/comment.gif)
+![package](comment.gif)
 
 ## 3. 资源下载
 

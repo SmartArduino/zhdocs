@@ -33,7 +33,7 @@
 
 ⚫ 电脑串口线连接 W800 串口 0。
 
-![image-20201117093119356](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117093119356.png)
+![image-20201117093119356](image-20201117093119356.png)
 
 ## 3 使用 W800 测试固件测试接收
 
@@ -72,7 +72,7 @@ channel：无线信道，取值 1-14
 bandwidth：信道频宽，取值 0 和 1 分别表示 20M 和 40M，默认是 20M。
 如下图示例，测试 6 信道，20M 频宽
 
-![image-20201117093619931](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117093619931.png)
+![image-20201117093619931](image-20201117093619931.png)
 
 ### 3.2 控制 Litepoint 发送数据包
 
@@ -90,7 +90,7 @@ bandwidth：信道频宽，取值 0 和 1 分别表示 20M 和 40M，默认是 2
 
 注：建议只测试 1,6,11 三个信道
 
-![image-20201117093658636](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117093658636.png)
+![image-20201117093658636](image-20201117093658636.png)
 
 ### 3.3 控制 W800 接收测试结束
 
@@ -111,7 +111,7 @@ AT+&LPRSTP<CR>
 
 如下图示例
 
-![image-20201117093942818](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117093942818.png)
+![image-20201117093942818](image-20201117093942818.png)
 
 ### 3.4 获取 W800 接收测试结果
 
@@ -139,7 +139,7 @@ bad：FCS 错误的报文数目
 
 如下图示例
 
-![image-20201117094155801](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117094155801.png)
+![image-20201117094155801](image-20201117094155801.png)
 
 ## 4 使用 W800 测试固件测试发送
 
@@ -280,7 +280,7 @@ MCS32 = 0x0232
 
 如下图示例，测试 6 信道，11b 1M，包长 512，增益 27，发送 1000 包
 
-![image-20201117111411355](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117111411355.png)
+![image-20201117111411355](image-20201117111411355.png)
 
 ### 4.2 控制 Litepoint 接收分析
 
@@ -292,7 +292,7 @@ MCS32 = 0x0232
 
 注：建议只测试 1,6,11 三个信道
 
-![image-20201117111532933](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117111532933.png)
+![image-20201117111532933](image-20201117111532933.png)
 
 ### 4.3 控制 W800 发送测试结束
 
@@ -314,25 +314,7 @@ AT+&LPTSTP<CR>
 +OK：表示指令设置成功
 如下图示例
 
-![image-20201117112045600](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/image-20201117112045600.png)
+![image-20201117112045600](image-20201117112045600.png)
 
 
 
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |

@@ -41,7 +41,7 @@ Linux 系统下可直接在 shell 中执行编译，需要在 Linux 上安装好
 
 从官网 https://occ.t-head.cn 平头哥芯片开放社区->技术部落->资源下载->工具，根据自己本地系统环境选择下载适用的“800 Series Toolchain”。
 
-![image-20201114161043910](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/image-20201114161043910.png)
+![image-20201114161043910](image-20201114161043910.png)
 
 下载后，将编译工具链解压到磁盘，设置编译工具链路径至环境变量即可，举例如下：
 export PATH=$PATH:/opt/csky-abiv2-tools/bin
@@ -68,7 +68,7 @@ make
 make help
 此时会显示出当前 SDK 所支持的编译指令，如：
 
-![image-20201114161145488](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/image-20201114161145488.png)
+![image-20201114161145488](image-20201114161145488.png)
 
 ### 6.2 配置参数
 
@@ -76,7 +76,7 @@ make help
 make menuconfig
 进行参数配置。menuconfig 一个基于 ncurses 库的传统菜单界面的配置方式，执行后根据界面上的提示操作即可。
 
-![image-20201114161214320](https://github.com/SmartArduino/zhdocs/raw/master/zhW_Series/W800/Docs/SDK_Develop/W800_SDK_Command/image-20201114161214320.png)
+![image-20201114161214320](image-20201114161214320.png)
 
 ### 6.3 烧录固件
 
@@ -146,21 +146,3 @@ SDK 默认选择“enable use lib”，不使用全部源码参与编译。
 
 
 
-## 支持与服务
-
-| 四博智联资源                                        |                                                              |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| 官网                                                | [www.doit.am](http://www.doit.am/)                           |
-| 教材                                                | [ESPDuino智慧物联开发宝典](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-7420449993.9.Bgp1Ll&id=520583000610) |
-| 购买                                                | [官方淘宝店](https://szdoit.taobao.com/)(szdoit.am)          |
-| 讨论                                                | [技术论坛](http://bbs.doit.am/forum.php)(bbs.doit.am)        |
-| 应用案例集锦                                        |                                                              |
-| [Doit玩家云](http://wechat.doit.am)(wechat.doit.am) | [免费TCP公网调试服务](http://tcp.doit.am)(tcp.doit.am)       |
-| 官方技术支持QQ群1/2/3群已满                         |                                                              |
-| 技术支持群4                                         | 278888904                                                    |
-| 技术支持群5                                         | 278888905                                                    |
-| 术支持群6                                           | 278888906                                                    |
-| 技术支持群7                                         | 278888907                                                    |
-| 技术支持群8                                         | 278888908                                                    |
-| 技术支持群9                                         | 278888909                                                    |
-| 技术支持群10                                        | 278888900                                                    |
