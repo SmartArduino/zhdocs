@@ -118,7 +118,6 @@
   * [W800认证测试工具说明](zhW_Series/W800/Docs/SDK_Develop/W800_CerTest/W800_CerTest.md)
   * [W800研发验证指导](zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/W800_DevGuide.md)
   * [WM_W800_SDK_DEMO使用指导](zhW_Series/W800/Docs/SDK_Develop/W800_DevGuide/W800_DevGuide.md)
-  * [WiFi_自由通信接口使用指导](zhW_Series/W800/Docs/SDK_Develop/WM_W800_SDKDEMO/WM_W800_SDKDEMO.md)
 
 # 乐鑫系列
 
