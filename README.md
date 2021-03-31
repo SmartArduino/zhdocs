@@ -283,15 +283,11 @@
 
   * [智能小车APP介绍与下载 ](zhControlPanel/ESPDuino/AppforSmartCar.md)
   * [基于ESPDuino的智能小车固件](zhControlPanel/ESPDuino/firmware.md)
-  
   * [MEGA328P大功率直流电机控制板](zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
   * [ESPduino控制器](zhControlPanel/ESPDuino/ESPDuino.md)
   * [基于手柄的32路舵机控制板使用](zhControlPanel/32SERVO/32SERVO.md)
-  
-  * [2 Motor && 16 Servo 手柄控制使用说明](zhControlPanel/2 Motor && 16 Servo/2 Motor && 16 Servo.md)
-  
+  * [2 Motor&&16 Servo手柄控制手柄说明](zhControlPanel/2Motor&&16Servo/2Motor&&16Servo.md)
   * [4路电机16路舵机扩展板使用](zhControlPanel/4&&16ControlKit/4&&16ControlKit.md)
-  
   * [4路步进电机3D打印机械臂控制板](zhControlPanel/DOIT-ARM/DOIT-ARM.md)
   * [USB转UART/SPI/IIC/TTL等多功能适配器](zhControlPanel/MultifunctionAdapter/MultifunctionAdapter.md)
 
