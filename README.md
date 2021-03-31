@@ -124,8 +124,6 @@
   [Flash 下载工具用户指南](zhESPSeries/Flash_DownloadTool/Flash_DownloadTool.md)
 
 ## ESP8266
-* [从零开始学习ESP8266](zhESPSeries/start/start.md)
-
 * ### 【一】ESP8266芯片
 
   * [ESP8266芯片数据手册](zhESPSeries/ESP8266/ESP8266Chip/ESP8266Chip.md)
