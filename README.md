@@ -154,9 +154,6 @@
   * [ESP-M2](zhESPSeries/ESP8285/DOIT_ESP-M2/DOIT_ESP-M2.md)
   * [ESP-M3](zhESPSeries/ESP8285/DOIT_ESP-M3/DOIT_ESP-M3.md)
   * [ESP-M4](zhESPSeries/ESP8285/DOIT_ESP-M4/DOIT_ESP-M4.md)
-* ### 【二】ESP8285开发板
-  
-  * [DT-06开发板类似蓝牙HC-06](ESPSeries/ESP8285/DT06/DT06.md)
 
 ## ESP32
 
