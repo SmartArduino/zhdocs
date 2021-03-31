@@ -14,7 +14,7 @@
 
 - <span class="iconfont icon-xiangkan"></span> 购买
   - [<span class="iconfont icon-music"></span> 淘宝](https://szdoit.taobao.com/)
-  - [<span class="iconfont icon-music"></span> 1688](https://shop6pp83147o3026.1688.com/?spm=a262jn.11251430.0.0.27605597aGvRs3)
+  - [<span class="iconfont icon-music"></span> 1688](https://shop6pp83147o3026.1688.com)
   - [<span class="iconfont icon-music"></span> 英文](https://www.vvdoit.com/)
   (https://i.youku.com/i/UMjg3NjY2MDgxMg==?spm=a2hbt.13141534.1_1.d_2_2)
 - [<span class="iconfont icon-wodeguanzhu"></span> 关于](zh/About/README.md)
