@@ -273,7 +273,7 @@
   * [6/7自由度机械臂](zhRobotArm/RobotArm/RobotArm/RobotArm.md)
   * [6自由度云台机械臂](zhRobotArm/RobotArm/6DOFYunTaiRobotArm/6DOFYunTaiRobotArm.md)
   * [4DOF亚克力机械臂](zhRobotArm/RobotArm/4DOFAcrylicMechanicalArm/4DOFAcrylicMechanicalArm.md)
-  * [4自由度机械臂](zhRobotArm/RobotArm/3DOFRobotArm/3DOFRobotArm.md)
+  * [4自由度机械臂](zhRobotArm/RobotArm/4DOFRobotArm/4DOFRobotArm.md)
 * ### 【五】爪子
   
   * [G6爪子](zhRobotArm/claws/G6/G6.md)
@@ -294,12 +294,16 @@
 
   * [智能小车APP介绍与下载 ](zhControlPanel/ESPDuino/AppforSmartCar.md)
 * [基于ESPDuino的智能小车固件](zhControlPanel/ESPDuino/firmware.md)
+  
   * [MEGA328P大功率直流电机控制板](zhControlPanel/ArduinoBigPowerBoard/ArduinoBigPowerBoard.md)
 * [ESPduino控制器](zhControlPanel/ESPDuino/ESPDuino.md)
+  
   * [Arduino的电机驱动板使用](Robot/Controller/controller/unomotorshield.md)
 * [基于手柄的32路舵机控制板使用](zhControlPanel/32SERVO/32SERVO.md)
+  
   * [基于手柄的Arduino电机驱动板使用](Robot/Controller/ps2/ps2.md)
 * [4路电机16路舵机扩展板使用](zhControlPanel/4&&16ControlKit/4&&16ControlKit.md)
+  
   * [4路步进电机3D打印机械臂控制板](zhControlPanel/DOIT-ARM/DOIT-ARM.md)
 * [USB转UART/SPI/IIC/TTL等多功能适配器](zhControlPanel/MultifunctionAdapter/MultifunctionAdapter.md)
 
